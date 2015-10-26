@@ -1,0 +1,3214 @@
+#Udacity Team Chat log
+July - Oct 2015
+
+Ghavin 07/16/2015
+Hello ,team look forward to working with y'all
+Alicia 07/16/2015
+Hey Ghavin! I look forward to working with you as well! :)
+Ghavin 07/16/2015
+Good to know! Feels good get a response! Thanks Alicia!
+Steve 07/16/2015
+Hi, looking forward to working with everyone as well!
+Ghavin 07/16/2015
+Hey Steve, I look forward to working with ya!
+Steve 07/16/2015
+You too Ghavin!
+Andrew   07/17/2015
+Noice. There's an app, well played, Udacity!
+Andrew   07/17/2015
+Hi everyone, this is Andrew, Im the Team Guide dude. We are scheduled for Sunday 630pm...but hey we got this comfy virtual room would be a shame to not use it more often.
+Andrew   07/17/2015
+If there are any questions, comments, musings or cat gifs please feel free to post anytime. I intend to check in here most days.
+Andrew   07/17/2015
+In a frightening development, I have everyone's names and backgrounds but in case you don't have mine, I'm a FE grad from last Oct. Currently in the Full-Stack, preparing job applications and doing a bit of freelance.
+Andrew   07/17/2015
+I'm in Southern California, Orange County so that is Pacific Time. However just came back from a trip to Japan and wooo I am jetlagged.
+Andrew   07/17/2015
+Anyways, virtual High Fives to all!
+Andrew   07/17/2015
+Oh, on that last point, I recently learned the history of the high five... http://priceonomics.com/the-inventor-of-the-high-five/
+Ghavin 07/18/2015
+Awesome thanks for the hi-five brain food! I look forward to working with you Andrew!
+Ghavin 07/18/2015
+I was told to save this link and share it with you guys http://codepen.io/anon/pen/VLBxYE
+This is my project 0
+Andrew   07/22/2015
+Viewing on my phone screen, that's lookin sharp, Ghav!
+One suggestion, just for kicks: on bigger screens consider larger fonts and even rearranging the content section into columns.
+Also, I dig the quality profile pic and it reminds me that I need to upgrade my own. Anyone have tips there? I am leaning twd just paying for a few professional headshots but maybe my phone or mac could do the job.
+Btw, is everyone on Project 0 or 1 now? Just to get a feel for topics to discuss.
+Kshitiz 07/19/2015
+Hey team, this is my project 0
+http://codepen.io/anon/pen/yNqZgq
+
+
+### Session
+
+Matthew 07/19/2015
+Hey guys. so I have a question, are you guys getting different source code to download where the name and location is centered below the profile image as opposed to in line with the rest of the questions? Or are you editing it to look like that? Does it matter? How much customization should we be doing? Okay, enough questions. Here's mine: http://codepen.io/anon/pen/waxOwX
+Andrew   07/19/2015
+Hi everyone! Typing to you live from Starbucks
+Andrew   07/19/2015
+Matt: are you talking about the starter code for the project?
+Andrew   07/19/2015
+BTW, I seem to be having some syncing issues btwn the Team android app and the in-browser app... anyone else notice this?
+Steve 07/19/2015
+Good evening Team, here is my Code pen!
+http://codepen.io/anon/pen/bdjZGx
+for project 0
+i do not have the issue
+i am seeing the chat updates on my phone while typing on my pc
+Andrew   07/19/2015
+Well at any rate, we are underway with Study Time. Steve I am jealous of your flawless user xp
+Steve 07/19/2015
+*knocks on wood
+Andrew   07/19/2015
+So its looking like most of the team is on Project 0...when did your cohort begin?
+Steve 07/19/2015
+I joined mid last week, if that is what you are asking.
+Andrew   07/19/2015
+and as folks trickle in, please give a quick shoutout so we all know you are here
+Andrew   07/19/2015
+Steve: cool
+Andrew   07/19/2015
+So the format of our study session is limited to chat for now but I encourage folks to post in here whenever with the goal being we check in regularly
+Andrew   07/19/2015
+this being the first session I figured light intros as folks check in would be cool
+Andrew   07/19/2015
+Steve, I saw from your profile you are in Data Analysis?
+Steve 07/19/2015
+correct
+Matthew 07/19/2015
+yeah I was talking about the starter code for Project 0
+Andrew   07/19/2015
+Hi Matt!
+Matthew 07/19/2015
+its not a huge deal I've just seen some slightly different ones
+Andrew   07/19/2015
+Steve: this is a JS library that you might be diving into in the near future:
+http://d3js.org/
+Andrew   07/19/2015
+A library for visual display of data
+Steve 07/19/2015
+interesting Andrew, i'll check it out. Thanks!
+Andrew   07/19/2015
+Matt, what are some o the differences you have seen?
+Matthew 07/19/2015
+just that under some people's picture is their name and location centered and with the code I downloaded its more to the left and question format with the rest of the questions
+Andrew   07/19/2015
+Let me jump into your Codepen and compare with Steve's...
+Matthew 07/19/2015
+Im just confused on what udacity really wants I guess. I need like a FAQ of deadlines and what needs done exactly and when, lol.
+but i'll be okay.
+Steve 07/19/2015
+as a reference, I did not do any customization to my project. Just what was asked by the requirement.
+Alicia 07/19/2015
+the due dates timeline is on your homepage @Matthew
+Andrew   07/19/2015
+Hi Alicia!
+Alicia 07/19/2015
+hey Andrew
+Andrew   07/19/2015
+Matt: I see what you mean, comparing to Ghavin's the structure is slightly different
+Andrew   07/19/2015
+I DON"T think its an issue that will be marked down however...
+Andrew   07/19/2015
+Does Project 0 have a grading rubric?
+Alicia 07/19/2015
+i dont think so, they just left comments on mines.
+Matthew 07/19/2015
+Okay cool, thats what I was wondering!
+Andrew   07/19/2015
+OK interesting...back when I did the program there was no Project 0, lol
+Matthew 07/19/2015
+so I do see the due dates, I was just wondering if I was behind because I signed up a little late. Have you done Project 1 already too, Alicia?
+Andrew   07/19/2015
+The projects I did all had grading rubrics tho that outlined the stuff that was REQUIRED and the stuff that was gravvy
+Matthew 07/19/2015
+aah
+Alicia 07/19/2015
+I'm working on project 1 now @Matthew. I have been coding on and off for some years and never seriously sat down to learn it all the way through..
+Alicia 07/19/2015
+I did project 1 but I'm actually sitting through the lessons to make sure i did evevrything right/required for the project.
+Andrew   07/19/2015
+It seems everyone who has checked in did Project 0 just recently (and I definitely encourage yall to post links to your projects, I'lll definitely check em out and hopefully other teammates will as well)
+Matthew 07/19/2015
+Nice. I think I can handle it, I just need to get familiar with the new frameworks and such. I just did a wedding site for my wife and I at http://mattloveskat.com
+Andrew   07/19/2015
+Matt: good stuff! Do you already have a background in web languages?
+hah, 'honeyfund'
+Alicia 07/19/2015
+this looks good, congratulations!
+Matthew 07/19/2015
+I've taken html css and js classes before but its been awhile and I need a certification or something because I never got a degree
+Matthew 07/19/2015
+trying to get something good to put on a resume at least. but thank you!
+Steve 07/19/2015
+Grats matt!
+did you use a framework for this or coded all the CSS stuff scratch?
+Steve 07/19/2015
+i like how it's responsive :)
+Matthew 07/19/2015
+all from scratch, I am excited to get into frameworks, but I dont even know if I understand how they work. like bootstrap is one we will get into, right?
+Steve 07/19/2015
+nice! Ya I saw we will get into a bit of bootstrap too.
+Alicia 07/19/2015
+yes bootstraps in there
+Andrew   07/19/2015
+Matt: you'll have some solid projects by the end of this...thats definitely a Plus for hitting the Udacious points in the project rubrics...better exercise of your skills = better display for a portfolio
+Andrew   07/19/2015
+Alicia, how are you finding Bootstrap?
+Andrew   07/19/2015
+what I mean is, has it been pretty straightforward to break out in your project or has there been some pain points?
+Andrew   07/19/2015
+(looks like Project 1...responsive portfolio page, if memory serves)
+Alicia 07/19/2015
+yea i thought i saw it in the project 1 lessons
+Steve 07/19/2015
+Andrew, what do you mean the Udacious points in the project rubrics?
+Andrew   07/19/2015
+Hmm, its lookin like Project 0 doesn't have the grade rubric...Note to Self hahah
+Matthew 07/19/2015
+So are you working on a new program now Andrew?
+Andrew   07/19/2015
+Steve: most likely from P1 (and a teammate can confirm) your 'Evaluation and Submission' section in the project description will have a scale/rubric outlining the stuff REQUIRED to pass...
+Andrew   07/19/2015
+and the stuff that is suggested for Awesomeness and Fun but not required
+Steve 07/19/2015
+got it
+Andrew   07/19/2015
+Matt: Yup! I took the FE program back in Oct...it was their maiden run so a bunch of stuff was still WIP. No project 0, for instance!
+Andrew   07/19/2015
+Right now, I am on the Full Stack program (taking advantage of the tuition reimbursement) :p
+Andrew   07/19/2015
+BTW, does everyone know all the sources of Help that are available to ya?
+Andrew   07/19/2015
+Just to list (and please add if I forget any):
+Andrew   07/19/2015
+- The Office Hours I think are 3 times a week
+Matthew 07/19/2015
+nice I would like to do that one too
+Andrew   07/19/2015
+- There are 1 to 1 sessions that require calendar appt
+Andrew   07/19/2015
+- Cohort forums (really hope yall have an active one...really effects the community value you get from the program)
+Andrew   07/19/2015
+OK, what other help options are there...
+Andrew   07/19/2015
+AH, GOOGLE of course, lol ... everyone, if you havent already, definitely BOOKMARK Stackoverflow and CSS-Tricks.
+Andrew   07/19/2015
+Those are two of my most trusted online resources
+Andrew   07/19/2015
+Matt: an interesting note on the FS program....I realize now I am definitely more of a Front-End guy! I've been OK with the database and user authorization stuff but would rather have a coworker take care of it :p
+Steve 07/19/2015
+is Cohort forums the Udacity forum?
+Andrew   07/19/2015
+Yeah it is...I keep saying 'Cohort' in reference to every new monthly class just cuz thats how Udacity was referring to it
+Andrew   07/19/2015
+So to be clear, by 'Cohort Forum', I am talking about the private forum reserved for program students and not the public ones
+Steve 07/19/2015
+aah got it, tahnk you
+Steve 07/19/2015
+oh wait private?
+Andrew   07/19/2015
+Sure, to be honest, there are a bunch of stuff available in the program that too me a while to figure out I had access to. If yall are uncertain where to find an answer or where to get a question answered, I'm sure collectively we can point to the right place
+Steve 07/19/2015
+is it the one under the resource tab?
+Andrew   07/19/2015
+Steve: lets see...I'll hit up my main Udacity page now (they have been changing the layout ALOT over the months)
+Steve 07/19/2015
+in my front end degree page, "Resources " -> "useful links"-> "discussion forum"?
+Andrew   07/19/2015
+ok, YES that is it. Those forums, broken down into project categories
+Steve 07/19/2015
+awesome, got it :)
+Andrew   07/19/2015
+most of those are private to your own class, though the General boards are open to all cohorts
+Andrew   07/19/2015
+You know what, I didn't even notice that the layout changed like that til you asked...I'm discovering this 'Resource tab' for the first time lol
+Andrew   07/19/2015
+I've had my forum page open in a tab for like 3 months straight so never had to go through the profile page :p
+Steve 07/19/2015
+Andrew since you finished the FE program,
+Steve 07/19/2015
+just in general i guess, is there anything you can advise us, things that you'd say to yourself "i wish i did/knew this 3 months ago at the start of the program"?
+Andrew   07/19/2015
+Thats a really good question. Answer: YUP...engage with all those resources as much as you can. I'll elaborate:
+Andrew   07/19/2015
+Forum participation: get to know classmates for support, networking and getting used to asking for help and offering it. I chat and swap resources with a bunch of my program grads to this day on a near-daily basis
+Andrew   07/19/2015
+Taking advantage of Udacity coach access: those are really cool, patient and friendly folks over there. I did not use the coaching appts nearly as much as I should I have. Its a chance if nothing else to chat with an experienced professional who would LOVE to answer your questions
+Andrew   07/19/2015
+Attending more of the Live Events...they have some outstanding ones that I failed to schedule due to laziness sometimes, To be honest. For example, a few months back they had a casual chat with Sebastain Thrun one of the Udacity co-founders. Thats incredible direct access to a very knowledgable and influential individual
+Andrew   07/19/2015
+...and hopefully, this Team setup will prove to be a valuable thing, too. That'll be up to us tho!
+Steve 07/19/2015
+Cool Andrew, thanks for the great advice, will definitely check out some of these resources!
+Andrew   07/19/2015
+Looking over all the profiles for our team members its actually really exciting considering the breadth of experiences and unique insights we encompass. I feel like I could have some excellent conversations with yall...hopefully Udacity fleshes out the messaging and chat functions of this app -_-
+Andrew   07/19/2015
+Cheers for the question...and that reminds me, if there are any questions or suggestions or critiques over any part of the program DEFINITELY voice it...whether here (cuz I am obligated to report back to the Udacity program coordinators lol) or directly to Udacity support. It helps em improve and no one will take it personally
+Andrew   07/19/2015
+So we haven't really discussed much technically this session. Are there any questions on CSS/HTML that are lingering? Or heck, some cool css skills recently discovered?
+Andrew   07/19/2015
+For example, Matt was talking about how he is excited to dive into Bootstrap even though he is not totally sure what it encompasses...
+Steve 07/19/2015
+I'm wondering more in general. Matt, I imagine writing all that CSS line by line might have taken a while. I only briefly looked at bootstrap, but was thinking when would a developer use a framework vs self code from scratch.
+Matthew 07/19/2015
+Hey is <header> <section> <main> <footer> etc that are in the html from project 0 new from html 5
+Andrew   07/19/2015
+Guys, diving headfirst into this new tech will be like a never-ending quest on the Front-End. New libraries and development paradigms pop in every year. For those that love to constantly learn and grow and challenge themselves its really a great field! Have no fear and go forward! :p
+Andrew   07/19/2015
+Matt: yeah, those are semantic tags...
+Matthew 07/19/2015
+yeah it took longer and a lotta save and refresh lol.
+Andrew   07/19/2015
+Can anyone explain the purpose of those?
+Andrew   07/19/2015
+Functionally, they are pretty much DIVs...
+Matthew 07/19/2015
+thats what I figured
+Andrew   07/19/2015
+Actually, I never even noticed that MAIN tag is a thing until I was looking at yall's codepens :p
+Andrew   07/19/2015
+These semantic tags, far as I can tell (someone correct me if Im wrong) are for human readability. Technically I THINK they are just divs however, ie block-level grouping structures
+Andrew   07/19/2015
+Steve, great question...when would us devs lean on the framework vs writing on our own code/css?
+Steve 07/19/2015
+correct
+i'd think the most likely scenario
+Steve 07/19/2015
+is to use a framework as a base, then edit the css to your own desires
+Steve 07/19/2015
+but not sure if there's any situation where frameworks can't be leveraged at all
+Steve 07/19/2015
+can't/shouldn't
+Andrew   07/19/2015
+So I agree: as a starting point or even a mock-up stage tool frameworks have tremendous use
+Andrew   07/19/2015
+As for if there are any technical situations where no framework can be utilized,
+Andrew   07/19/2015
+I don't think so...see, frameworks are meant to offer some base scaffolding/structure and give us devs a bunch of convenience tools and coding rules to speed up our work
+Matthew 07/19/2015
+see and I would like to implement frameworks to make things look more standardized and up to speed with the latest and greatest trends
+Andrew   07/19/2015
+It is possible however that your project restriction may demand a VERY small data footprint, perhaps to minimize download time...in that case going with the overhead of a framework may be a nogo
+Andrew   07/19/2015
+Matt, personally I feel like the vast majority of our smaller projects these days, with the internet speeds we have, using frameworks and libraries like a jQuery are no problemo
+Andrew   07/19/2015
+There is some places where framework use can lead to some headaches in development tho... I wonder what Alicia's experience has been working with it?
+Andrew   07/19/2015
+For me, there were times when CSS rules established by Bootstrap were NOT my desired end result...I had to resort to using "!important" to get my way in that tug-of-war hahah
+Andrew   07/19/2015
+Not a cure-all tho! When working in a team too much "!important" can be a disaster...
+https://css-tricks.com/when-using-important-is-the-right-choice/
+Andrew   07/19/2015
+OK, guys, Starbucks is closing and I have been kicked out...this will be the official 'end' of our session
+Matthew 07/19/2015
+nice good info
+thanks andrew, see ya next time
+Steve 07/19/2015
+yes, Thank you Andrew, it has been very helpful
+Andrew   07/19/2015
+But lets keep chatting and posting during the week casually...for instance I intend to lend a few comments on each of the codepens shared above
+Andrew   07/19/2015
+Thanks for participating guys...hope you are having as much fun with this stuff as I did when I started out!
+
+### Session
+
+Udacibot   07/22/2015
+#WELCOME @Joshua to the team 😂!
+Here's Joshua's bio:
+"Cyber Security Engineer"
+Andrew   07/22/2015
+Hahah, alrighty...reloaded the Udacity android app just now and it finally posts the above!
+Andrew   07/22/2015
+Anyways, first off...welcome to Josh! Glad to have ya on our team and just want ya to know feel free to post in here anytime if there are questions or to share something cool. Our scheduled study time is 730 pm PST on sunday but I'll check in most days
+Andrew   07/22/2015
+Secondly, the blurb above was my comments on Ghav's project 0 link...one week delayed :p
+Andrew   07/22/2015
+I''m looking at the links shared by several teammates here and now I see what Matt brought up on Sunday...looks like there were two SLIGHTLY different code sources? The HTML structure is slightly different in the "hero" section. I'm more partial to the layout shown in Ghav and Kshitiz's (simply because its centered) but its nothing a little CSS can't fix!
+Andrew   07/22/2015
+I wanted to bring up one potential concern with the CSS I see in the pens y'all have shared:
+Andrew   07/22/2015
+Media Queries.... can anyone guess my qualm with the css? I'll bring this up again on Sunday cuz it might be a potential 'gotcha'
+Andrew   07/22/2015
+Let me repaste Steve's link just as a reference. I see the same code order in all the pens tho so I am guessing it is due to the starter code... http://codepen.io/anon/pen/bdjZGx
+Udacibot   07/23/2015
+#SAD that @KYOO HO has left the team. We will meet again 😭!
+Udacibot   07/24/2015
+#WELCOME @Clifton to the team 😂!
+Here's Clifton's bio:
+"I'm a designer, can't wait to advance my Front-end skills"
+Andrew   07/24/2015
+Welcome to our team, Clifton! Any questions, musings or links-o-the-day, please don't hesitate to post :)
+Udacibot   07/24/2015
+#EXCITED that @Guillermo submitted a project for P0: About Me! Congratulations 🙌!
+Udacibot   07/25/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait 🐬 🐳 🐙 !
+Udacibot   07/26/2015
+#EXCITED that @Yui submitted a project for P0: About Me! Congratulations 🙌!
+Udacibot   07/26/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait 🐬 🐳 🐙 !
+Andrew   07/26/2015
+Good evening all! Hope yall had a great week :D
+Andrew   07/26/2015
+Curious to see what everyone is working on...
+Yui 07/26/2015
+Lesson 1 about half way through.
+Andrew   07/26/2015
+I think JavaScript is on the table now woohoo!
+Yui 07/26/2015
+Hello, Andrew, nice to meet you.
+Andrew   07/26/2015
+Hi Yui! Good to see ya :)
+Andrew   07/26/2015
+How has the learning gone for you this week?
+Yui 07/26/2015
+So far so good, but I'm behind, so I need to catch up.
+Yui 07/26/2015
+(wasn't here last week.)
+Andrew   07/26/2015
+No worries, I saw you submitted P0. Congrats on that!
+Andrew   07/26/2015
+Was there any niggling issues with CSS or HTML that you experienced while doing it?
+Yui 07/26/2015
+Not so far. One quick question about the feedback though, if you don't mind.
+Yui 07/26/2015
+One comment was "Image linked locally. Good job!"
+Yui 07/26/2015
+Is this a common practice or preferred method?
+Andrew   07/26/2015
+Yea, fire away...and if anyone else is around, please give us a hearty 'whats up'!
+Matthew 07/26/2015
+o hai
+Matthew 07/26/2015
+lol, did you all do all the work in the videos before doing project 1/
+Andrew   07/26/2015
+Hai~ Matt!
+Matthew 07/26/2015
+?*
+Matthew 07/26/2015
+Ive been busy, so I'm just starting project 1 now, will let you know how it goes!
+Andrew   07/26/2015
+Hm...I PROBABLY did...just because I generally have enjoyed the in lesson stuff
+Andrew   07/26/2015
+the thing is, like you, I came in with some CSS/HTML/JS under my belt.
+Andrew   07/26/2015
+I might have 'accelerated' the first project or two :p
+Andrew   07/26/2015
+Matt, besides the goings of LYFE, have there been any roadblocks with any of the materials this week?
+Andrew   07/26/2015
+Yui: thats a deep question...
+Matthew 07/26/2015
+not really, I'm new at implementing bootstrap so I'm scrolling the documentation page of it checking things out
+Andrew   07/26/2015
+my first blush is that, yup you guessed it, there are 'pluses and minuses'
+Andrew   07/26/2015
+Matt, do you have any opinions/prefs between locally linked images vs External?
+Matthew 07/26/2015
+I just like to have the locally incase someone externally messes with or deletes the image
+Andrew   07/26/2015
+mmm I see what ya mean. Thats a benefit of 'local images'... you don't worry that for example that the picture link you used is offline
+Andrew   07/26/2015
+Yui, lemme ask you though...what do you consider a potential downside to using local/'internal' images?
+Andrew   07/26/2015
+And to be clear..
+Andrew   07/26/2015
+when I say 'local images' I mean that we are having our site server send over the image file itself
+Andrew   07/26/2015
+and if anyone has an opinion, please sound off
+Andrew   07/26/2015
+btw Matt, Bootstrap is beastly...I've used it for most of my projects so far. Looking forward to hearing your opinion of using it
+Matthew 07/26/2015
+It wouldn't make load time different would it? I'd say the only downfall would be the space it takes to store images if you have a lot
+Andrew   07/26/2015
+Load time is the key question
+Andrew   07/26/2015
+so when Yui asks whether its a preferred method, its absolutely common to 'package' those pics with your site (in other words serve up the image file yourself)
+Andrew   07/26/2015
+That said, its not neccesarily preferred! With load time being the key question, many devs find that using a third party with BLAZING FAST servers can actually improve load time
+Andrew   07/26/2015
+Have yall heard of the term 'CDN'? Anyone know what it means?
+Yui 07/26/2015
+I didn't really think about potential downside of using local images. I was more curious what professionals typically do.
+Matthew 07/26/2015
+No clue about cdn
+Joshua 07/26/2015
+Content delivery network
+Yui 07/26/2015
+Since I am new, I don't have any 'habit' or preference in my coding, so I would like to maybe set a standard, following what's most common. That is why I asked the question :)
+Andrew   07/26/2015
+Yui, you really touched on a great question...so its totally fine to link locally your images. But many devs will either A) use a highly regarded CDN service for those files...
+Josh, bingo, thanks man!
+Yui 07/26/2015
+Okay, thank you, I'll keep that in mind.
+Andrew   07/26/2015
+B) they may actually MIX the approaches...CDN first, but if the worst happens and its unavailable, send the files with your your own server
+Andrew   07/26/2015
+Yui: its absolutely cool to link locally...to be fair, the issues I noted above are probably for sites with LOTS of users
+Yui 07/26/2015
+So, use of CDN would likely apply to big companies, rather than small individuals who are loading their webpage over their own home servers?
+Yui 07/26/2015
+Ah, already you answered XD.
+Andrew   07/26/2015
+Yui, very fair to say! Sry if I went overboard...I'm been thinking about that topic recently :)
+Yui 07/26/2015
+Thank you very much. A bit more to read about :)
+Yui 07/26/2015
+XD Why are you sorry. You are kindly answering :)
+TY rather.
+Andrew   07/26/2015
+Matt: a really good example of CDNs in action...how are you linking your bootstrap files in your code?
+Andrew   07/26/2015
+oh BTW, everyone lets welcome Josh. He joined the team this week :D
+Matthew 07/26/2015
+well right now I just have "<link rel="stylesheet" href="css/bootstrap.css">"
+Andrew   07/26/2015
+Josh, how has the learning been goin this week? We are sniffing out any potential pain pts with Project 0 and 1...
+Matthew 07/26/2015
+but I dont know if i should be linking to the bootstrap.min one
+or not
+Andrew   07/26/2015
+Matt: ah so you are linking locally. This is actually the same topic of load performance Yui touched on
+Matthew 07/26/2015
+True
+Andrew   07/26/2015
+boom here is the Get Bootstrap page:
+http://getbootstrap.com/getting-started/
+Joshua 07/26/2015
+Well I'm off to a slow start, bc of with work, I haven't hit any pain points yet
+Andrew   07/26/2015
+do you guys see where they have one method of 'getting' the files under 'CDN'?
+Andrew   07/26/2015
+Question: who is serving up those bootstrap files?
+Andrew   07/26/2015
+Josh: first step is half the battle, cheers for getting underway!
+Joshua 07/26/2015
+Maxcdn?
+Joshua 07/26/2015
+I thought Google had a link to or is that just ajax
+Andrew   07/26/2015
+yup exactly....a company whose whole Reason for Being is serving up web content as fast as possible.
+Andrew   07/26/2015
+Josh: I think they do actually. Google also acts as cdn for a lot of these common libraries like JQUery
+Andrew   07/26/2015
+Matt, my thinking on linking library/framework files is ongoing...for development ABSOLUTELY. You can't beat the speed of getting the file from your own machine XD
+Matthew 07/26/2015
+That's what I was thinking but I didn't know about cdn's. Good to know!
+Andrew   07/26/2015
+heh, I'm actually googling now to see if I can find a list of what Google serves up as CDN...if anyone finds it please post
+Andrew   07/26/2015
+Yea, your intuition is a beast...tell ya what, I myself have not looked at using CDNs yet...my projects are too small-scale
+Andrew   07/26/2015
+btw, we chatted about this last week, but since this is Yui and Josh's first session...
+Andrew   07/26/2015
+can you guys name Five Ways to get help in the program? I know Matt already knows..
+Yui 07/26/2015
+by program, you mean Udacity program?
+Andrew   07/26/2015
+Yes :p
+Joshua 07/26/2015
+Um.. 1 to 1 mentoring, the forums?
+Yui 07/26/2015
+1. Andrew RC 2. Email
+Andrew   07/26/2015
+One and Two
+Andrew   07/26/2015
+Yup, and this Team actually :) Thats Three
+Andrew   07/26/2015
+heh, I was chatting with other guides and we were listing these out...
+Andrew   07/26/2015
+Has anyone been able to catch any Office Hour casts?
+Yui 07/26/2015
+not me.
+Matthew 07/26/2015
+Nope
+Andrew   07/26/2015
+Not always the most convenient times huh :/
+Andrew   07/26/2015
+that is number Four, if you can catch em...the ones I've attended have never been more than a handful of classmates. A good source to get answers from Coaches more quickly than 1:1 appt
+Andrew   07/26/2015
+Do you guys have the link for the OH schedules? I wonder if its a set-in-stone or changes-weekly thing
+Andrew   07/26/2015
+hm, I can't access that sched from my own homepage...that makes sense since I'm not in the Front End program. If anyone can't find it tho, please let me know
+Andrew   07/26/2015
+So the Fifth resource is actually the most common. Its like, omnipotent ..
+Andrew   07/26/2015
+Likes to change its face on holidays...
+Andrew   07/26/2015
+Obsessed with self-driving cars.....!?
+Matthew 07/26/2015
+Lol
+Matthew 07/26/2015
+Of course
+Andrew   07/26/2015
+can you think of clever hint Matt?
+Matthew 07/26/2015
+Google
+Matthew 07/26/2015
+Lol too late. I'm using this team app on iOS and was lagging
+Andrew   07/26/2015
+oh, theres the answer lol...I was gonna say "acts like Dirty Harry...always asks if you "Feel Lucky"
+Andrew   07/26/2015
+So good stuff guys, quick recap with this one (cuz when I took the program I didn't know the list):
+1:1 Appointments
+Office Hours
+Andrew   07/26/2015
+CLass Forums (the private ones)
+Andrew   07/26/2015
+Google/Search/Bing I guess
+Andrew   07/26/2015
+This Team
+Yui 07/26/2015
+One can set up 1:1 appointment through email?
+Andrew   07/26/2015
+Has anyone had any 1:1? I've seen Forms for it for sure.
+Yui 07/26/2015
+Also, I am currently working on "Box revised" lecture (18th). I noticed that one of the class name changes from the previous lecture, I think. In the earlier lectures, one of the div class name was "screenshot" and in the Box Revised, the div class is called "image".
+Andrew   07/26/2015
+Yui, you can definitely do it by email, although Udacity might point you to the Calendar Appt link
+Yui 07/26/2015
+Just an FYI. I might be wrong though!
+Yui 07/26/2015
+Ah, okay, I'll check that out. Thanks!
+Andrew   07/26/2015
+To be clear on the Appts, I found the link on the "Me" Udacity homepage under the resources tab
+Andrew   07/26/2015
+Ooo, that leads into a great topic, Yui...cheers!
+Andrew   07/26/2015
+Can someone explain the "Box Model" of CSS?
+Yui 07/26/2015
+Ah, found the links. TY!
+Yui 07/26/2015
+Welp, everything in HTML are boxes. box inside of box inside of box...
+Andrew   07/26/2015
+(btw Yui, if you see any mistakes in the videos don't hesitate to give Udacity a friendly earful...they looooove feedback)
+Yui 07/26/2015
+Okay, I wasn't sure what the right channel was. I'll do that.
+Andrew   07/26/2015
+Boxes in Boxes in Boxes :)
+Andrew   07/26/2015
+Can anyone name one or two of the values possible with the 'box-sizing' CSS property?
+Andrew   07/26/2015
+Or, an even better question...
+Andrew   07/26/2015
+what is the difference between the 'Content-box' value vs 'Border-box'??
+Andrew   07/26/2015
+...cuz wooo this issue is a 'gotcha' for everyone at some point heheh
+Yui 07/26/2015
+Those are not attributes, but elements?
+Matthew 07/26/2015
+no clue
+Andrew   07/26/2015
+Yes, I guess you could say elements that are set with one of those values
+Yui 07/26/2015
+Or maybe, Border-box includes Content-box
+Andrew   07/26/2015
+Yui....Yes, that is true. Border-box does 'contain' the content-box
+Andrew   07/26/2015
+here is a scenario .... I set my square div with height and width 100px...
+Andrew   07/26/2015
+lets give the stuff inside that Div some breathing room...I set padding to 5px all around..
+Andrew   07/26/2015
+Question: how much space in total is the Div taking on my page?
+Matthew 07/26/2015
+400 pixels
+I dunno
+Yui 07/26/2015
+what's the default margin?
+Andrew   07/26/2015
+Yui: thats a super fair question...lets say 0
+Yui 07/26/2015
+5 + 5 + 100 + margin(s) for width ?
+border = 0.
+Andrew   07/26/2015
+if there any further clarfications needed, just lemme know....
+Alicia 07/26/2015
+110px x 110px ?
+Andrew   07/26/2015
+Hi Alicia!!
+Alicia 07/26/2015
+hey. been watching the whole time..just got off my bartending shift..sorry.
+Andrew   07/26/2015
+So, to answer...its a bit of a trick question
+mwahah
+Andrew   07/26/2015
+ALicia you are correct...with the default 'box-sizing' value. But is it possible for that answer to be different?
+Alicia 07/26/2015
+no because one contains the margin and the other doesn't?
+Andrew   07/26/2015
+thats a good guess... it is possible tho for a Div 100 width and padding 5px all around to take up 100px total on your page
+Andrew   07/26/2015
+and THAT is what 'box-sizing: border-box' will do for you
+Alicia 07/26/2015
+right and content-box property doesn't include the padding border or margin either?
+Andrew   07/26/2015
+Just like Alicia and Yui suggested, with the default value of 'content-box' the browser will make sure your div is the width you set.
+Andrew   07/26/2015
+Alicia, exactly. Can someone explain a potential negative of 'content-box'? (To be clear its not Evil...just might be misleading in some way..)
+Alicia 07/26/2015
+i don't know..
+Andrew   07/26/2015
+totally cool. It dawned on me only after several projects of frowning while I positioned page elements
+Andrew   07/26/2015
+Its Layout where the difference lies.
+Andrew   07/26/2015
+With the default 'content-box' we will have to be aware of ALL the extra variables (padding, borders, margin) when we are laying out our elements on the page.
+Andrew   07/26/2015
+a small miscalculation could potentially become a gaping mistake in the layout @_@
+Yui 07/26/2015
+So, is using the option "box-sizing:border-box" very common?
+Andrew   07/26/2015
+so a lot of folks have taken to "resetting' their CSS to treat all elements with 'box-sizing: border-box' because then when you say 'DIV width 100px' on the page it will take 100px regardless of padding and border
+Andrew   07/26/2015
+I have had so many breaking layouts because ex. the border width broke something hahah
+Yui 07/26/2015
+It makes sense and using border-box seems like a good choice.
+Andrew   07/26/2015
+Yui: it is...in fact, I'm tempted to ask ya guys to peek inside Bootstrap if ya get the chance cuz I suspect they reset everything to 'border-box'
+Andrew   07/26/2015
+Alicia mentioned a key thing tho: that DOESN'T include the margins...the margins will be counted separately regardless of 'box-sizing' value
+Andrew   07/26/2015
+btw Alicia, how is the nanodegree study going? I think you are knee-deep in P1?
+Yui 07/26/2015
+Bootstrap... I just looked it up, so I know what it is now. But, are we talking about a specific Bootstrap, here?
+Andrew   07/26/2015
+to be clear, I do mean the Bootstrap library: http://getbootstrap.com/getting-started/
+Andrew   07/26/2015
+It will be a good helper! Matt is getting his hands in it now and it is thick lol. But it has a ton of helpful parts
+Alicia 07/26/2015
+its cool .yea I'm on project 1, i just aint had time to get to everything else yet
+Andrew   07/26/2015
+Come to think it, even parts of Udacity use Bootstrap
+Andrew   07/26/2015
+Right on. If you hit any roadblocks with some CSS or JS stuff don't hesitate to bring it up! We could all learn from it :)
+Alicia 07/26/2015
+ok
+Andrew   07/26/2015
+Mates, I am going to call it a nite here...I've literally got some light bulbs to go change :p
+Andrew   07/26/2015
+I just got a couple links:
+Matthew 07/26/2015
+Okay see ya next time!
+Andrew   07/26/2015
+First I found this one on the box model: http://learnlayout.com/box-model.html
+Andrew   07/26/2015
+And a fellow guide just shared this awesome thing:
+http://flukeout.github.io/
+Yui 07/26/2015
+Thanks, Andrew. Night!
+Andrew   07/26/2015
+its a CSS trainer. Man thats cool
+Andrew   07/26/2015
+Cheers all, please don't hesitate to question, post and chat in here during the week. I will definitely check in regularly and I hope everyone else will too!
+
+
+### Session
+
+Andrew   07/27/2015
+whoops. Reviewing my notes for topics I wanted to cover last session I totally forgot to ask about CSS Media Queries... this might be more of a topic after the Responsive Web Design course tho.
+Andrew   07/27/2015
+So in Project 0 starter code, in the CSS file, I noticed one potential 'gotcha' with the order of the Media Query rules. The challenge, if you choose to accept it: What is the potential problem?
+Andrew   07/27/2015
+Again, here is teammate Steve's codepen link for reference but I saw the issue in everyone's project code: http://codepen.io/anon/pen/bdjZGx
+Andrew   07/27/2015
+Hope this has been an epically good Monday for everyone!
+Udacibot   07/28/2015
+#EXCITED that @Matthew submitted a project for P1: Build a Portfolio Site! Congratulations 🙌!
+Andrew   07/29/2015
+Good stuff Matt! let us know if you want some eyeballs on the project
+Udacibot   08/01/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait 🐬 🐳 🐙 !
+Udacibot   08/02/2015
+#SAD that @Guillermo has left the team. We will meet again 😭!
+Andrew   08/02/2015
+Hi fellow devs! Lookin forward to studying tonite :)
+Andrew   08/02/2015
+I MIGHT be 20-30 min late...will be comin from the airport, sorry for any delay.
+Udacibot   08/02/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait 🐬 🐳 🐙 !
+Matthew 08/02/2015
+pretty frustrated with this crap"shorthand should be used whenever possible, even in cases where only one value is explicitly set."
+Matthew 08/02/2015
+so setting just one margin when the others are already set with bootstrap or whatever framework isn't good enough, you have to know what that framework has the other margins set at, change them all, play around until you figure it out, or do like '2px inherit inherit inherit' which is just stupid
+Matthew 08/02/2015
+or trying to change the border-width of an <hr> you have to write it out has border: 2px solid #000 whatever. but doing that changes the look of it as opposed to just having border-width and border-color
+sonsa bitches
+Matthew 08/02/2015
+I could see when more than one value is explicitly set, but if you are just setting one, having to do all of them in a short hand version is painful
+Joshua 08/02/2015
+No joke
+Andrew   08/02/2015
+WOOT
+Andrew   08/02/2015
+I finally made it...my bad for the lateness yall!
+Joshua 08/02/2015
+Welcome to the party!
+Andrew   08/02/2015
+At a starbux now...caffeine in hand, lets talk Code :D
+Andrew   08/02/2015
+Cheers Josh, whats up Matt!
+Andrew   08/02/2015
+wait...I sense great css-pain in this chat room...
+Joshua 08/02/2015
+The force is strong with this one
+Matthew 08/02/2015
+much
+lol
+Andrew   08/02/2015
+bootstrap helps so much...but NOTHING IS FREE mwahahah
+Joshua 08/02/2015
+Haha
+Andrew   08/02/2015
+how ya guys been this week?
+Joshua 08/02/2015
+Busy, I'm behind, working on a inventory app at work, powershell hell..
+Andrew   08/02/2015
+whatcha developing in? Is that C++?
+Matthew 08/02/2015
+good, im at my mother-in-laws house till we move this week and the internet is painfully slow. I wanna work with srcset and responsive images but this slow is killing me
+http://mattloveskat.com/portfolio/
+Matthew 08/02/2015
+moved completely outta my old house yesterday and the day before - im never moving again
+but somehow do it once a year
+Andrew   08/02/2015
+hah only thing worse than slow internets.
+Andrew   08/02/2015
+is NO internets...I felt the pain when I was traveling recently -_-
+Joshua 08/02/2015
+Built on top of .net I guess powershell is an abstraction layer, its syntax reminds me of JavaScript
+Joshua 08/02/2015
+But the cmdlets ass the call them, way to much use of |
+As*
+Andrew   08/02/2015
+Josh, I hear SO MUCH about .Net being a mucho in-demand skillset. For someone comfy with JS you are saying its pretty smooth to get into .NET dev?
+Joshua 08/02/2015
+On a cell phone ary
+Matthew 08/02/2015
+ive been hearing about .net a lot too
+how hard was it for you josh
+Joshua 08/02/2015
+I don't think it's to bad, I'm no expert yet
+Joshua 08/02/2015
+Flow control is pretty much the same in any language
+Joshua 08/02/2015
+Personal opinion
+Joshua 08/02/2015
+Then it's just a matter of learning the gotchas
+Matthew 08/02/2015
+yeah
+Andrew   08/02/2015
+ugh...I'm having issues with this chat client....the text box is messing up the submit
+Andrew   08/02/2015
+I'm checking out your portfolio page rite now, Matt..
+Andrew   08/02/2015
+Besides the CSS style issues yall run into any gnarly issues with your projects?
+Matthew 08/02/2015
+not really just nitpicky stuff the reviewer didn't like
+Andrew   08/02/2015
+nice work with the portfolio, Matt! its awesome ya already got legit projects you are linking right off there
+Matthew 08/02/2015
+like where i copied some google font <link> and they used single quotes and another place the thing i copy pasted used double spaces instead of tabs
+thanks!
+Andrew   08/02/2015
+I noticed an issue with the images in mobile mode
+Matthew 08/02/2015
+whats that?
+Andrew   08/02/2015
+check out the cat pic in a small window..
+Matthew 08/02/2015
+yeah i just noticed that earlier
+Matthew 08/02/2015
+I think i need to work with srcset to let the browser size pick the image?
+maybe?
+Andrew   08/02/2015
+I feel like thats a good more badass option to handle it...configuring for a server to deliver an optimized image
+Andrew   08/02/2015
+Tell ya what tho, even with those image files you can instruct the browser to scale em down
+Matthew 08/02/2015
+yeah im going to try and do that
+Andrew   08/02/2015
+Josh have ya run into issues displaying images the way you want?
+Andrew   08/02/2015
+this is me riffing off the top of my head, but I think Bootstrap has some classes that deal with responsive images
+Andrew   08/02/2015
+OK, this is me being subjective (and I am def no layout Gawd) but I like more space btwn my sections
+Andrew   08/02/2015
+Especially in mobile mode, where the content goes into column, some space or dividers are helpful
+Matthew 08/02/2015
+yeah
+Andrew   08/02/2015
+I'm also thinking I'd like contact info visible on top, but I'd love to hear opinions on that...I actually gotta totally revamp my own portfolio page
+Matthew 08/02/2015
+yeah, id agree with that too. I was following along the design mockup
+Matthew 08/02/2015
+then decided to add that. if they dont dock me for that imma change it around
+Andrew   08/02/2015
+I hear ya...what I like bout P1 and P2 is that its like stuff we needed to build anyway :p
+Matthew 08/02/2015
+yep
+Andrew   08/02/2015
+so the graders are pretty strict about style eh?
+Andrew   08/02/2015
+they are prolly stricter than when I did my project...I remember using the Google style guide at that time tho
+Matthew 08/02/2015
+they havent been yet, I wasn't exact on with my first submission and they didnt mind it. they were more concerned with using css shorthand and stuff like that
+Andrew   08/02/2015
+wonder if Udacity has their own style guide now?
+Andrew   08/02/2015
+oh man, if setting like one margin direction is a no-no then my stylesheets are in trouble
+Matthew 08/02/2015
+thats what im saying! ugh
+lol
+run that up the chain andrew. its ridiculous
+Andrew   08/02/2015
+I tell ya what...I suspect it may very well come down to who the reviewer is...
+Andrew   08/02/2015
+Cuz there is a pantheon of graders and it definitely feels like one person's style rule of thumb may very well be a nogo for another heh
+Andrew   08/02/2015
+thats definitely something I figure they should be hashing out (THE Spec)
+Matthew 08/02/2015
+yeah
+Andrew   08/02/2015
+lets see if I can an official Udacity style guide real quik
+Andrew   08/02/2015
+ah ok its under the "Resources" tab
+Andrew   08/02/2015
+One area where I am actively trying to improve with my stylesheets is in organizing blocks of rules
+Andrew   08/02/2015
+my projects have mostly been super organic, with the order of rules getting kind of dicey...like sections styles up top but 200 lines later here come some Header styles!
+Matthew 08/02/2015
+lol
+yeah
+Matthew 08/02/2015
+been there
+Andrew   08/02/2015
+do you have any preferred method to name and group your css rules?
+Matthew 08/02/2015
+no im trying to work on that too
+Andrew   08/02/2015
+I feel like I'm good now cuz only I have to deal with it...but work on a team and UHOH
+Andrew   08/02/2015
+a buddy of mine recommended I check out this naming convention: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+Andrew   08/02/2015
+its a super-wordy method but I can see the logic. Like self-enforced name spacing
+Andrew   08/02/2015
+has anyone played around with their browser web-inspector yet?
+Andrew   08/02/2015
+heh, its a slow Sunday :P Y'all, just holler if you are here...will be sitting here eating some Cold Noodles
+Andrew   08/02/2015
+https://www.google.com/search?hl=en&site=imghp&tbm=isch&source=hp&biw=1251&bih=778&q=taiwan+cold+noodles&oq=taiwan+cold+noodles&gs_l=img.3..0.1051.3471.0.3584.19.11.0.8.8.0.159.1114.0j9.9.0....0...1ac.1.64.img..2.17.1134.-f86qh0myEE
+Andrew   08/02/2015
+ah, CSS POP QUIZ to anyone: how would you center an element horizontally in it's parent element??
+Matthew 08/02/2015
+Margin: auto?
+Andrew   08/02/2015
+That does work! depending on the child element
+Andrew   08/02/2015
+Hah sry, was just playing around in CodePen
+http://codepen.io/anon/pen/oXJdQG
+Andrew   08/02/2015
+Your margin rule worked for me when the child was a DIV
+Andrew   08/02/2015
+what would it take if the child is an inline element like a SPAN?
+Andrew   08/02/2015
+OK I just upgraded the challenge a bit...center two SPANs inline in the parent..
+Andrew   08/02/2015
+grr I haven't figured it my own challenge yet :\
+http://codepen.io/anon/pen/oXJdQG
+Andrew   08/02/2015
+OK I succeeded so far only with the wonderful and magical 'FLEX' method
+Andrew   08/02/2015
+Its still not QUITE 100% browser supported tho... http://caniuse.com/flexbox
+Andrew   08/02/2015
+*shakes fist at IE 9 and below*
+Andrew   08/02/2015
+Alright, wow the No-Flexbox solution was a bit hacky. I won't spoil it in case anyone else wants to figure it out hahah
+Andrew   08/02/2015
+So Wow, it was real quite tonite. Everyone, definitely let me know if there are issues with scheduling or if there any suggestions for how to liven up our study sessions. I want this to be useful and hopefully fun! Maybe some random CSS challenges :)
+Andrew   08/02/2015
+OK some links before I sign off for the nite:
+Andrew   08/02/2015
+first time I saw this really blew my mind what is possible with CSS... http://www.csszengarden.com/
+Andrew   08/02/2015
+This meme pretty accurately describes my reaction over getting 'box-model' for the first time... http://frontenddevreactions.tumblr.com/post/50110341554/the-first-time-i-heard-about-box-sizing
+Andrew   08/02/2015
+In my case there was probably and overturned desk and doves flying in the background, too
+
+
+### Session
+
+Andrew   08/05/2015
+Hi y'all! So we were talking a bit about somewhat frustrating Style grading last session...I could sympathize since I write CSS rules a bit inconsistently.
+Andrew   08/05/2015
+I asked colleagues and got a response that made me nod and go 'ah good point':
+Andrew   08/05/2015
+*You might point out that the point of a style guide is not to say that using individual margin rules is the RIGHT way of doing things (or spaces instead of tabs, or whatever other things), rather it's a way of making sure that people write code consistently which makes it easier to work as a team and to pick up and work on someone else's code.*
+Andrew   08/05/2015
+I'm learning everyday :)
+Udacibot   08/09/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   08/09/2015
+Hi everyone! Hope y'all had a good week..
+Andrew   08/09/2015
+Finally submitted my P3 for the full-stack ND wooohoo!
+Matthew 08/09/2015
+Good work!
+Matthew 08/09/2015
+I'm watching these udacity tutorial vids on git and github
+Andrew   08/09/2015
+Thank you...I totally fell into the trap of getting too caught up in some minor detail tho :\
+3 week -> 6 weeks, smh
+Matthew 08/09/2015
+Lol
+Andrew   08/09/2015
+Oh sweet, I have been thinking about jumping into some github discussion last couple wks
+Andrew   08/09/2015
+how has the week been, btw?
+Matthew 08/09/2015
+Yeah I've used it a very little amount but figured I should watch these and figure out what I'm doing but they're taking forever
+Matthew 08/09/2015
+Good. I'm in the process of moving to Denver so been back and forth from there apt hunting :$
+Andrew   08/09/2015
+Ugh, I wish some good websites to rec but I haven't had to search for a while
+Andrew   08/09/2015
+maybe Air BnB?
+Matthew 08/09/2015
+Imma check it thanks :)
+Matthew 08/09/2015
+I also had to get on udacity for not doing anything when I resubmitted p1 like 10 days ago
+Andrew   08/09/2015
+I just popped over to admire the air BnB site...as Front-End folks now, does anyone ever go to sites and just kinda view it in different browser windows? See if/how layout changes?
+Andrew   08/09/2015
+Matt, wow, they are usually like 1-2 days
+Andrew   08/09/2015
+My P3, submitted on Saturday, was reviewed on sunday @_@
+Matthew 08/09/2015
+Nice I was wondering if they worked weekends
+Andrew   08/09/2015
+Right? I assume they got back to ya?
+Matthew 08/09/2015
+Said they'd get my email to the right team
+Andrew   08/09/2015
+OK I'll make a note of it too, JIC
+Andrew   08/09/2015
+ah, we are officially in Study Time. Hope we can a get a good turnout tonite, everyone has GOTTA be tired of my yapping :p
+Matthew 08/09/2015
+Cool thanks
+Andrew   08/09/2015
+Folks, please say "whats uppppp!" when you check in
+Matthew 08/09/2015
+Lol
+Alicia 08/09/2015
+Hey
+Andrew   08/09/2015
+yay Alicia, how is it going? (I think you are at work around now)
+Alicia 08/09/2015
+No, no bartending tonight. And I'm good, how are u?
+Andrew   08/09/2015
+Full stack projects and FINALLY underway with job searching
+Andrew   08/09/2015
+Y'all, cover letters are killin me hahah
+Matthew 08/09/2015
+What are you working on in terms of udacity front end program Alicia?
+Matthew 08/09/2015
+Yeah I've got a basic format
+Matthew 08/09/2015
+I just need the resume skills and portfolio to back it up ;)
+Alicia 08/09/2015
+Haha still on p1, life has definitely been happening!
+Matthew 08/09/2015
+Okay good just wanted a measuring stick ;)
+Andrew   08/09/2015
+I've been trying to 'customise' for each application...I'm feeling kinda foolish with all the time thats taking @_@
+Alicia 08/09/2015
+Lol, what are you on Matthew? The GitHub tuts after p1??
+Andrew   08/09/2015
+Alicia, I remember you have been exploring bootstrap. Guys what are your opinions now that you've used it?
+Matthew 08/09/2015
+Yep
+Matthew 08/09/2015
+But my p1 hasn't been sucessfully completed yet
+If only they'd get back to me
+Alicia 08/09/2015
+I wanted to be so much further along but I have so much going on.. It's so hard
+Alicia 08/09/2015
+Bootstrap is cool. Just a lot to get used to. Matthew did u use bootstrap for your p1 or did you just set up your own grid in CSS and go from there?
+Matthew 08/09/2015
+Used bootstrap
+Matthew 08/09/2015
+I was excited to try it so did lol
+Andrew   08/09/2015
+cheers Alicia, working while learning front-end is def a feat of dedication
+Alicia 08/09/2015
+I should do that because I cannot for the life of me get my display to work correctly and I'm not sure why..
+Andrew   08/09/2015
+Oh, I thought bootstrap was mandatory for P1?
+Matthew 08/09/2015
+Using the 12-col grid system of boot step worked well for me
+Matthew 08/09/2015
+I think it says you have the option
+Alicia 08/09/2015
+I didn't see it was mandatory?!
+Andrew   08/09/2015
+Matt: ah, thx for the confirmation
+Andrew   08/09/2015
+Bootstrap is definitely a great speeder-upper...for me the problem was when I wanted to do layout outside its parameters -_-
+Andrew   08/09/2015
+Alicia, what kind of display issues have you been working through?
+Alicia 08/09/2015
+Just the display is giving me problems. I used placeholder images so i just need the display to work and I'm basically done
+Andrew   08/09/2015
+hmm... do you mean like the images resizing correctly when on smaller browser window?
+Andrew   08/09/2015
+Or are major divs/sections not laying out like you sketched out?
+Alicia 08/09/2015
+nah..
+Alicia 08/09/2015
+http://codepen.io/anon/pen/QbogeO <-- the display:inline-block property is only allowing 2 out of 3 of the elements to display correctly in my featured work section and i don't know why..
+Alicia 08/09/2015
+and it's not working at all in my header part at the top
+Andrew   08/09/2015
+oh cool, was about to ask you to throw up a 'pen :p
+Andrew   08/09/2015
+lets take a look...
+Andrew   08/09/2015
+btw Matt, if you or anyone else has some ideas, please TAKE THE GLORY (of css diagnosis)
+Andrew   08/09/2015
+Alicia: ah, I see...the three sections should have enough room to layout on one line right
+Alicia 08/09/2015
+yes
+Matthew 08/09/2015
+Maybe set the image widths in the css to not max-width 100% and height auto?
+Set one more definitive
+Andrew   08/09/2015
+ooo lets try it out
+Matthew 08/09/2015
+It's hard for me to tell I'm on my phone
+Andrew   08/09/2015
+hope the internet situation improves for ya soon, Matt :)
+Andrew   08/09/2015
+so to describe the basic html structure...
+Matthew 08/09/2015
+Hold on I'm hotspotting my work phone to the MacBook. Since I'm in the process of a move we are at the mother in laws house. Crappy interwebz
+Andrew   08/09/2015
+a Sectional div with three main child elements, one for each project...
+Andrew   08/09/2015
+each of those children are given a class to govern their width...they should always be able to share 1/3 each
+Andrew   08/09/2015
+the grid class they are given should set their width (regardless of image size) to 33.33% ,max right
+Alicia 08/09/2015
+..right
+Andrew   08/09/2015
+so something is changing, or like overriding that rule
+Andrew   08/09/2015
+ok, lets look at Matt's idea and scan the css for anything that might be overriding the grid rules..
+Andrew   08/09/2015
+Alicia, have you tried temporarily taking out the max-width rule that Matt suggested?
+Alicia 08/09/2015
+yes, i just tried it and it still only has 2 elements on 1 line and the 3rd on another
+Andrew   08/09/2015
+quick aside: wouldnt it be awesome if we just paid one fee for total hi-speed internet coverage? Phone -> home -> laptops = all one reasonable fee. ...OK back to coding..
+Matthew 08/09/2015
+Margin-border-padding-etc
+Alicia 08/09/2015
+lol
+Andrew   08/09/2015
+Hmmm...ok, something struck me. Question:
+Andrew   08/09/2015
+can someone tell me like a quick blurb about the css box model? Like what it is and how can we control it?
+Alicia 08/09/2015
+model that controls spacing and area around content. controlled using padding,margins, etc.
+Andrew   08/09/2015
+ok cool. Honest question, do you think that might be the issue with the portfolio sections, and if not why not?
+Matthew 08/09/2015
+so changing grid-4 to 30% makes them fit
+somethings taking up space
+Andrew   08/09/2015
+that does work! Or 31 or 32% for that matter also check out. What was the issue?
+Matthew 08/09/2015
+I actually meant 33% not 33.3 or 33.2 but still I dunno
+Alicia 08/09/2015
+i can change it, i just was spacing everything by adding 8.33% to each additional grid
+Alicia 08/09/2015
+33% worked!!
+Andrew   08/09/2015
+when we deal with element width in % we got to base that off something...
+Andrew   08/09/2015
+what are we basing it off of?
+Matthew 08/09/2015
+12 being 100% wide
+Andrew   08/09/2015
+so child elements, given width in %, gotta look it relative to their parent. The element with grid12 (99.99%) is the parent of the project sections
+Matthew 08/09/2015
+Er yeah 99.99 in this case
+Andrew   08/09/2015
+it turns out, even down to .1 of a percent at times(!), we gotta look at how much space is being taken after considering all the space-taking rules
+Alicia 08/09/2015
+so should i be rounding my numbers off since how i had it divided up before didnt leave me enough space for those 3 elements like i should have?
+Andrew   08/09/2015
+I had a thought if this was an issue with box-model but it turns out No, right? Because all the elements in the css are given 'border-box' value already
+Alicia 08/09/2015
+right
+Andrew   08/09/2015
+Alicia, rounding off numbers would generally work except to keep one gotcha in mind: even with everything set to border-box we still have to consider margins
+Andrew   08/09/2015
+in this case, interestingly, I wondered if the width value of all three sections had to be less than the parent container's 99.99%... since they added up to EXACTLY 99.99
+Andrew   08/09/2015
+so I played with that grid4 value a bit, ie 33.3...33.2...33.1 etc to see if dropping it JUST below the parent limit would be fine
+Matthew 08/09/2015
+I tried changing grid 12 to 100% and that doesn't help either
+Andrew   08/09/2015
+very true, and btw great catch with the Grid4 observation Matt!
+Andrew   08/09/2015
+I am not sure, but there is some *small* value that *just* pushes those inline-block elements out of parent width range
+Andrew   08/09/2015
+33% works great...but not 33.1% hahah
+Matthew 08/09/2015
+I'm kinda stumped I set margins and paddings to 0's all over the place
+Andrew   08/09/2015
+Matt, I was thinking the same thing...where are margins even specified right?
+Alicia 08/09/2015
+No I didn't specify them
+Matthew 08/09/2015
+I'm not good with border box does that actually add a border
+I missed that lesson ;)
+Andrew   08/09/2015
+Alicia, this is where, absent someone explaining the seeming inconsistency (since mathematically the three sections should have *just* fit) I'm gonna throw my hands up in the air and be like "its on the browser" :p
+Matthew 08/09/2015
+Blame ie
+Andrew   08/09/2015
+Matt, I'm not pixel-perfect with my layouts yet either but you DO get used to looking for issues like that when layout breaks
+Andrew   08/09/2015
+hahah, I often do blame IE. Just btwn us, for all my projects I pretty much NEVER tested in IE >_>
+Andrew   08/09/2015
+this leads to a great question tho: what browser(s) do y'all use and develop in?
+Alicia 08/09/2015
+i have a macbook so safari.
+Matthew 08/09/2015
+Me too but chrome too
+Alicia 08/09/2015
+i have firefox on my computer but don't use it..
+Andrew   08/09/2015
+so y'all probably know this but as it turns out...
+Andrew   08/09/2015
+different browsers do different things to our precious layouts :( In my xp so far, Safari and Chrome are prettttty close, Firefox is not so far and IE...ok I don't know since I irresponsibly havent tested in there yet
+Matthew 08/09/2015
+Sooo I'm looking at bootstraps css and their col-md-4 is width 33.333333%. I'd do some more investigating but I only have the .min version right here and it's painful to navigate
+Andrew   08/09/2015
+Matt, good call. I am tempted to trace this back THE reason Alicia's example was breaking...something is there, buried deep in cascading CSS @_@
+Matthew 08/09/2015
+add margin-left: -3px; to featured
+call it good
+lol
+Andrew   08/09/2015
+back to the different browsers thing, I keep telling myself I have to get into a good cross-browser testing workflow cuz jobs will probably require it. There are probably some great tools and online testing sites that help tho
+Matthew 08/09/2015
+something is taking up 3px or 1.5 either side
+Andrew   08/09/2015
+lol, good stuff. You are chipping away at the mystery. When I was using bootstrap I had this kind of problem too multiple instances...thats when I really started using the inspector
+Andrew   08/09/2015
+have y'all cracked open your browser's web inspector yet? I think its called 'devTools' in chrome and I *think* Udacity has a course on the tool
+Matthew 08/09/2015
+yeah they try and plug devtools in all their videos lol
+it is pretty nice though
+Andrew   08/09/2015
+Dude. Its incredddddiblllllle.
+Andrew   08/09/2015
+Alicia is using Safari but I am pretty sure its just as powerful as the chrome devtools
+Andrew   08/09/2015
+I really love that I can SEE the elements box model from within the devtool window and see which rules are getting overwritten
+Matthew 08/09/2015
+yeah that is sweet
+Andrew   08/09/2015
+ah, you must have just used it to see that it had that mystery 3 pixel separation :)
+Matthew 08/09/2015
+lol that was just trial and error but woulda made it nice
+Andrew   08/09/2015
+I hafta say...I crack that sucker open all the time now...even when I visit a random page and I am wondering how they styled something or whatnot lol. It'll happen to you all too!!!
+Andrew   08/09/2015
+Matt, did you figure out the responsive images bug in your P1 since last wk?
+Andrew   08/09/2015
+ok, scrolled up and retrieved the link you shared last time: http://mattloveskat.com/portfolio/
+Andrew   08/09/2015
+In case any other students want a good reference
+Matthew 08/09/2015
+no I was gonna mention that. Ive thought about maybe a media query for when it gets to the size that it starts block-stacking the images as opposed to inline
+but haven't messed with it
+Matthew 08/09/2015
+its like right when bootstraps media query kicks in and blocks the images it stretches em all wide
+but then i still want them to be 100% when its mobile size
+ugh
+Andrew   08/09/2015
+yea, this is the quandary of responsive images. BTW I didn't take the udacity course on responsive web design (it wasn't available back 'in my day')...do you all recommend it?
+Matthew 08/09/2015
+but how do I capture that screen size that it happens at
+Matthew 08/09/2015
+i skipped around on it. if you notice now all my img's have srcsets with 3 different image files at 500px w, 1000w, and 1500w and the browser selects the one it wants
+Andrew   08/09/2015
+lets take a look at the code! I'm gonna open the dev tools over one of your images...
+Andrew   08/09/2015
+this srcset thing is cool...I didn't even know that existed @_@
+Matthew 08/09/2015
+im brand new to it. did it last night
+Matthew 08/09/2015
+i wanted to resubmit it with p1 but udacity wont let me until something happens with the last submittal
+Andrew   08/09/2015
+note to self: study up on srcsets!
+Matthew 08/09/2015
+im thinking though that a media query somewhere around a tablet sized screen and kicking my images width's down would help me
+Andrew   08/09/2015
+ok, so I am looking at the image tag in the inspector...its inside a DIV with a bootstrap grid class kind of like Alicia's Grid4...
+Matthew 08/09/2015
+im going to try that when i get a chance
+Andrew   08/09/2015
+now here are the classes applied to the image: img-responsive feat-max modal-hov
+Matthew 08/09/2015
+img-responsive is a bootstrap one
+the other two are from my stylesheet
+Matthew 08/09/2015
+but dont do a whole lot
+Andrew   08/09/2015
+OK, so we can see modal-hov doesnt affect layout...its a pointer graphic thing
+Matthew 08/09/2015
+feat-max {
+width: 100%;
+height: 180px;
+}
+
+.modal-hov {
+cursor: pointer;
+}
+yea
+Andrew   08/09/2015
+we can PROBABLY assume Bootstrap's class is something we don't really mess with (this is not 100% true tho mwahah)...but lets assume for now
+Andrew   08/09/2015
+so looking at the feat-max class.... width and height are being manipulated...lets play with those values a bit
+Matthew 08/09/2015
+img-responsive{display:block;max-width:100%;height:auto}
+Andrew   08/09/2015
+so, given that css rules cascade (calculated with later rules taking priority) we can see that feat-max overwrites one rule: height
+Matthew 08/09/2015
+hmm true
+Matthew 08/09/2015
+very true
+Andrew   08/09/2015
+this is interesting...I'm just toggling, like disabling and re-enabling rules thru the inspector. We got this situation:
+Andrew   08/09/2015
+turn off feat-max's height rule and the images regain their proper ratio...but also blow up to uncomfortable size...
+Matthew 08/09/2015
+yep
+Andrew   08/09/2015
+if we turn that height rule back ON and toggle off the width: 100% rule the images are limited to a very small size when browser is smaller than 1000px width (im literally pulling on the corners of my browser heh)
+Matthew 08/09/2015
+yeah I just did that too
+Matthew 08/09/2015
+im gonna need some version control before i forget all that i just did
+lol and i didnt finish watching my git videos... damn
+Matthew 08/09/2015
+prolly why i should be in devtools and not doing it from my text editor
+Andrew   08/09/2015
+Git is definitely something I want to discuss next week...I am even kicking around the idea of doing a screencast/chat thing where can screenshare and go thru some git examples
+Andrew   08/09/2015
+OH MAN, yeah please do it in devtools lol. Changes are only temporary in there
+Andrew   08/09/2015
+so back to this code...one approach is to take a pointer from Alicia's layout
+Andrew   08/09/2015
+I like that her custom Grid4 rule (out of 12 total rows) lets her layout assume three columns on smaller screens
+Andrew   08/09/2015
+so, looking at the bootstrap way it looks like they are kind of nesting grid-column rules that apply depending on browser screen size?
+Matthew 08/09/2015
+yeah
+i thnk
+Andrew   08/09/2015
+I'd say if you have the time, playing around with those different columns is the way to go. Then I like your idea of setting the feat-max height rule on media-query...maybe below like 500px or whatever looks good...and in that case, a block-centering rule may be needed since the image width will be shorter than the container
+Matthew 08/09/2015
+yeah im messing with that now
+but my gfs gonna kill me
+er wife
+Andrew   08/09/2015
+this is a nice refresher in bootstrap for me
+Matthew 08/09/2015
+now shes really gonna kill me
+Matthew 08/09/2015
+so i gotta go, see ya guys later, and gl alicia figuring that out
+Andrew   08/09/2015
+hahah, my bad. Just tell her I DEMANDED we toy with css layouts :p
+Matthew 08/09/2015
+lol
+yeah thatll go well
+Andrew   08/09/2015
+cheers Matt, and gluck on the house search
+Matthew 08/09/2015
+thanks and see yas next time
+Andrew   08/09/2015
+hmm, what does everyone think about trying a Google-casts setup next time? Used it for a Udacity video chat thing the other day and really liked how easy it was to screen share.
+Andrew   08/09/2015
+Would anyone be interested in doing some screencast exercises in setting up Github or some tooling around in DevTools?
+Andrew   08/09/2015
+We could even do some coding exercise in there, then head back in here for discussion. Just kicking around some ideas, would love any comments and suggestions.
+Andrew   08/09/2015
+OK, link o the nite and then dinner time:
+Andrew   08/09/2015
+i thought this was simple and sweet: http://responsivelogos.co.uk/
+
+### Session
+
+
+Udacibot   08/12/2015
+#EXCITED that @Matthew submitted a passing project for P1: Build a Portfolio Site! Congratulations 🙌!
+Andrew   08/12/2015
+@Matthew looks like submission came thru? Good stuff man! If you revise and want some feedback don't hesitate to post here :)
+Matthew 08/12/2015
+Yep got it through. Still wasn't 100% happy with the image scaling when resizing the browser but it'll do. http://mattloveskat.com/portfolio
+Andrew   08/12/2015
+I like how it adopts different column layout. For the somewhat weird image auto-scaling, that height value looks to be the culprit.
+Andrew   08/12/2015
+I was playing in codepen (cuz way more fun than writing cover letters!) and this is a possible solution...it uses the background properties but has the 'downside' of assigning image urls in the css
+http://codepen.io/anon/pen/YXMVqQ?editors=110
+Andrew   08/12/2015
+Also, niiiice looks like the Udacity devs hooked us up with an '@ mention' feature :D
+Andrew   08/12/2015
+Hope study is going well for everyone! Do. Not. Hesitate. To share and ask questions.
+Meme o The Day: http://www.developermemes.com/2015/02/02/youve-broken-the-build-prepare-to-die-developer-meme/
+Andrew   08/12/2015
+If no one gets the reference I will feel ooooold @_@
+Andrew   08/15/2015
+Hey hope everyone is having a good weekend. Mega-hot here in Orange County, CA. This hot coffee ain't helpin hah
+Andrew   08/15/2015
+Lookin forward to your questions, challenges, topics of interest and cool things ya learned. The Google Hangouts idea is still on the table, too if anyone has some feedback on that
+Matthew 08/15/2015
+I'd be down. Unfortunately I am outta commission this week. While moving my retina screen on my laptop stopped working. Luckily I got an extended warranty
+Udacibot   08/15/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   08/16/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Udacibot   08/16/2015
+#EXCITED that @Daniel submitted a passing project for P1: Build a Portfolio Site! Congratulations 🙌!
+Andrew   08/16/2015
+Boom Hello team :)
+Andrew   08/16/2015
+Niiice! Congrats, Daniel of Oz! Please feel free to share any of your projects, whether Udacity related or no
+Andrew   08/16/2015
+Matt: sorry to hear about the laptop issues. most prized (physical) possession has got to be the laptop these days for me. All the work, the links, the backup code files, the library installations...I am not sure if I could configure the Terminal the same way again =\
+Andrew   08/16/2015
+well, while I chill here (actually its pretty warm) and wait for folks to check in, here is an open question that has been on my mind:
+Andrew   08/16/2015
+What Text Editor are You Using?
+Alicia 08/16/2015
+sublime
+Andrew   08/16/2015
+Yay Hi Alicia!
+Alicia 08/16/2015
+hi
+Andrew   08/16/2015
+Sublime does seem to be the default choice for a lot of us.
+Andrew   08/16/2015
+Have you used any other editors?
+Alicia 08/16/2015
+no, i've been using sublime from the jump
+Andrew   08/16/2015
+thats cool, I used Sublime mostly for the last project I did...been jumping around a bit tho
+Andrew   08/16/2015
+The two that I've been discussing recently are Atom and Brackets. Have any of the other students mentioned those?
+Andrew   08/16/2015
+http://brackets.io/
+https://atom.io/
+Andrew   08/16/2015
+ah looks like Daniel is with us. Hi Daniel!
+Andrew   08/16/2015
+guys how has the week gone for you? Have there been any successes to share or challenges to take on?
+Andrew   08/16/2015
+so I had an epiphany recently. Browsing the forums and saw a question about Responsive Web Design. Has everyone used that CSS calc() function yet?
+Andrew   08/16/2015
+I didn't even know that existed...using CSS for a year and that useful tool is right under my nose, smh
+Andrew   08/16/2015
+Here is a short article for the ol' reading list on Calc(), in case like me you have not used it:
+http://callmenick.com/post/the-css-calc-function-and-some-uses
+Andrew   08/16/2015
+(That blog btw has some very cool tutorials on css effects...I plan to do the 'parallax effect' one next)
+Andrew   08/16/2015
+whoah just noticed they added a 'code' button to the text box =0
+Andrew   08/16/2015
+...was that emoji box always there...?😵
+Andrew   08/16/2015
+ calc(10%/2em + 10px*4rem);
+thats wild.
+Andrew   08/16/2015
+folks, just holla if you are here. Let me know what you are working on :)
+Alicia 08/16/2015
+the week's been cool..just been busy. no i haven't used the css calc function yet and I'm not sure about either the code or emoji buttons, I'm usually on my phone.
+Andrew   08/16/2015
+ah, so the dev team hasn't rolled out those changes yet...still I give em props for the weekly improvements!
+Andrew   08/16/2015
+Alicia, we discussing Project 1 layouts last wk....did you successfully submit that ne yet?
+Alicia 08/16/2015
+no
+Andrew   08/16/2015
+did Matt's percentages idea help out there or did you bump into another issue? (or just super busy )
+Alicia 08/16/2015
+nah i used bootstrap
+Andrew   08/16/2015
+heh cool, gotta love it. I originally thought it was a library just for mock ups but it seems to help a good number of production projects...so I listed it on the ol' resume :p
+Andrew   08/16/2015
+what are the features you are liking the most in it?
+Alicia 08/16/2015
+just easier/faster to code in vs setting up your own grid system.
+Andrew   08/16/2015
+Oh right on. Dang I really got to put some time into the RWD course...I am neglecting grid layouts too much. It does make designing a responsive site way easier than the piece by piece media query bad habit I got into
+Andrew   08/16/2015
+With Bootstrap I def appreciate the convenient components... I've dropped in modals and nav-tabs in multiple projects
+Andrew   08/16/2015
+I'm looking at the rubruc for P1 rite now...does anyone plan to hit all the 'Exceeds Expectations' points?
+Andrew   08/16/2015
+There are some cool extra challenges in there that will get a lot of burn down the line in our field...nav bars, components
+Andrew   08/16/2015
+Ah and they want 'semantic' html...I think Yui asked about that before.
+Andrew   08/16/2015
+OH. This reminds me to study 'srcset' (one of the Exceeds points)
+Andrew   08/16/2015
+one of the students here clued me in on that couple weeks back...seems like I have to host multiple images. Wonder if there is a drawback there
+Andrew   08/16/2015
+from that calc article I linked above (yup, I'm still goin on about this!) a commenter illustrated a *really* easy way to make quik grid columns in the case you don't have access to a framework/bootstrap:
+ .col-1 {
+width: calc(100%/12*1);
+}
+
+.col-2 {
+width: calc(100%/12*2);
+}
+
+.col-3 {
+width: calc(100%/12*3);
+}
+ man this code btn is cool
+Andrew   08/16/2015
+Awrite y'all, gonna call it a session. Afraid I have not been terribly helpful! I want to encourage all of us to interact with each other better...thats the value in a team.
+Andrew   08/16/2015
+If you have any feedback or ideas for me to help promote that, just gimme an earful: uncleoptimus@gmail.com
+Andrew   08/16/2015
+also considering how to use that innnnnteresting 'hangouts' feature I see on the sidebar.
+Andrew   08/16/2015
+Alicia's comment earlier brings up a good pt...many students may be accessing the team chat mostly from phones which would not be conducive to screen shares.
+Andrew   08/16/2015
+Perhaps folks are interested in setting up some mini pair-programming sessions instead, and keep this time slot for potential chat
+Andrew   08/16/2015
+OK, have a great nite and a wonderful week!
+Alicia 08/16/2015
+goodnight you too
+Andrew   08/16/2015
+thx Alicia!
+Of course, a Link o the Nite:
+Andrew   08/16/2015
+http://stylifyme.com
+Andrew   08/16/2015
+Shared in the forums...just give it a whirl, I thought it was pretty badass hahah
+
+
+###Session
+
+Udacibot   08/17/2015
+#EXCITED that @Steve submitted a passing project for P1: Build a Portfolio Site! Congratulations 🙌!
+Andrew   08/17/2015
+'gratz @Steve! And remember y'all : iterate and improve. Make this project one you are proud to share with potential employers (my current side project so it is on my mind!)
+Andrew   08/17/2015
+BTW, one of the Coaches just pointed me to this forum link on Box Model: https://discussions.udacity.com/t/css-position-layout-beginner/28620
+Andrew   08/17/2015
+I know I've been harping on this for a little while now, but its a very nice lil guide and layout is something that *still* bedevils me sometimes
+Udacibot   08/22/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Andrew   08/23/2015
+What's up everyone, hope y'all having a good wkend.
+Andrew   08/23/2015
+That's it. Just saying WZUP. Lookin forward to some good discussion later :)
+Udacibot   08/23/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   08/23/2015
+All-riiite, checkin in...just gonna grab a coffee real quik
+Andrew   08/23/2015
+annnnnd back. Starbux a bit slow today.
+Andrew   08/23/2015
+.... @Daniel, good to see ya in here!
+Andrew   08/23/2015
+CSS, JS, Responsive, coding in general. Anything on your mind, happy to respond in kind :)
+Andrew   08/23/2015
+so has anyone ever forked a project thinking it would save time overall to build off it...only to find yourself *wading* through unfamiliar code just to change some small little things😥
+Andrew   08/23/2015
+I thought my portfolio would take 1-2 nights to revamp...day 5 now -_-
+Andrew   08/23/2015
+linky: paletton.com
+Andrew   08/23/2015
+A cool little color matching tool...I'm pretty bad with color matching so I've been plugging in some main colors to find complementary ones
+Matthew 08/23/2015
+I'm awol tonight again. I'm fighting Apple whose trying to charge me $1260 for a cracked retina display. I'll have something rigged up by next week
+Andrew   08/23/2015
+jeebus, thats like the price of a brand new retina mac
+Andrew   08/23/2015
+hope it works out with them, Matt
+Matthew 08/23/2015
+Yeah I had a 15" which was prolly 2k but meh
+Andrew   08/23/2015
+ohhh niiice. the laptop I wanna get when I earn my first front-end paycheck :p
+Matthew 08/23/2015
+Gracias
+Andrew   08/23/2015
+I've been oddly tempted by cheapo 13+ inch chromebooks tho @_@
+Andrew   08/23/2015
+just as a light cheap unix dev system
+Matthew 08/23/2015
+Yea I have an interview tomorrow actually but the place cranks out websites with square space and I dunno. Plus I don't know if an entry level position can beat the salary I can get doing electrician stuff
+Matthew 08/23/2015
+And I need monies being in a new city and all lol
+Matthew 08/23/2015
+I'd rather do all the front end stuff not square space or Wordpress
+Matthew 08/23/2015
+Anyone have experience with those?
+Andrew   08/23/2015
+I know a few php/wordpress developers, but fwiw they seemed pretty keen on learning JS to fight off obsolesence
+Andrew   08/23/2015
+that said, WordPress is huge. They will be around for a while...I'm sure you could grok the php needed to work with components but I get ya...why would you want to spend time on that AND make less money
+Matthew 08/23/2015
+Lol I was messing around with it and I have to inject my own css and js to get it to look how I want
+Ugh
+Andrew   08/23/2015
+I say kill it on the interviews just for the reps man, and ask plenty of questions about how they see demand for that skillset holding up. Maybe they will have plans or other positions that are not directly tied to working the CMS
+Matthew 08/23/2015
+Yeah that's what I'm thinking. I'm gonna go through with it for the interview with experience at least
+Andrew   08/23/2015
+I sympathize...our abilities as a byproduct of this ND program I think put us at a separate operational level...we can do pretty much everything in JS, HTML and CSS
+Andrew   08/23/2015
+Would LOVE to hear your reflections on the experience. I'm gearing up for them myself...my last one went kinda cruddy lol
+Matthew 08/23/2015
+Yep
+Alicia 08/23/2015
+Squarespace sucks!! I hate it, every time I try to take on a project with it, I get discouraged. .. But that's just me, lol @matt
+Andrew   08/23/2015
+Heyhey Alicia!
+Alicia 08/23/2015
+Hey
+Matthew 08/23/2015
+Yeah that's my initial reaction with it too
+Andrew   08/23/2015
+come to think it, I thought Square space was just hosting
+Andrew   08/23/2015
+didn't realize they were the whole CMS shebang
+Alicia 08/23/2015
+I've tried it twice and honestly ended up using the stupid interface to create the sites.. As if I don't know how to code. :(
+Andrew   08/23/2015
+Ya know I hesitate to say this, in case there are wordpress developers on our team, but I always kinda held that view too
+Matthew 08/23/2015
+Seems to be a big rage right now though
+Andrew   08/23/2015
+the thing is we all know how big Wordpress and like Drupal is...
+Andrew   08/23/2015
+...it could be that, as a front-end leaning person I am diametrically opposed to server-side focused page generation. And also what Alicia said about some aversion to resorting to an interface
+Andrew   08/23/2015
+Definitely anyone call me out there if I am off-base!
+Andrew   08/23/2015
+ah, I wanna drop this link in before I forget...Hackernews discussion about using Chromebooks for web dev: https://news.ycombinator.com/item?id=8172025
+Andrew   08/23/2015
+BTW, y'all how is the coding going? If ya hit any challenges this week, what were they?
+Andrew   08/23/2015
+Ive been wrassling with Materialize (VERY similar to Bootstrap, highly google flavored) and getting frustrated with media queries
+Andrew   08/23/2015
+OK so I've been peeping squarespace.com ...
+I know, boo hissss :p
+Andrew   08/23/2015
+But what I folks to check out is a really cool effect in the second section...
+Andrew   08/23/2015
+The "Create a Beeutiful Site" section...as User scrolls and arrives at that section, it locks momentarily (stops scrolling) with only the side copy continuing to scroll...
+Andrew   08/23/2015
+A parallax type effect, I think its called. Man I dig those.
+Andrew   08/23/2015
+Question: how does it work!?!?😺
+Andrew   08/23/2015
+OK, back from a bit of detective work... I loaded the squarespace site with devtools open to see if they use any special JS libraries
+Andrew   08/23/2015
+Boom: I recognize 'YUI' ... its the Yahoo User Interface set of JS modules. Basically a Yahoo-made JS framework that dates from mid-2000s
+Andrew   08/23/2015
+We can pretty much equate it to the Angular, Ember etc etc frameworks :)
+Matthew 08/23/2015
+Lol wow
+Andrew   08/23/2015
+No wonder its confusing to code directly into Squarespace...you have to learn YUI library calls and structure!
+The plot thickens, Matt: http://www.sitepoint.com/death-yui-can-teach-developers/
+Andrew   08/23/2015
+Thats right, Yahoo has dropped YUI...they are migrating to a hybrid React JS tech stack : http://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail
+Andrew   08/23/2015
+What this means for a Squarespace developer, I am not sure (and our own Matt who just may be interviewing into such a position)
+http://answers.squarespace.com/questions/58459/what-does-yahoo-dropping-yui-mean-for-squarespace
+Andrew   08/23/2015
+I'll bet ya make those guys sweat a little if you bring this up lol
+Andrew   08/23/2015
+OK team, I'll call end of session here...but I'd *LOVE* if someone could explain how they do that cool scrolling effect on the squarespace.com site (may have to view on desktop to trigger it)
+Andrew   08/23/2015
+If someone can enlighten me on that, I will gift you with the most epic squirrel-related video on all of Youtube!! 😆
+Andrew   08/23/2015
+G-nite to all, best of wishes to your coming week and don't hesitate to drop questions, comments, links anytime!
+
+
+###Session
+
+Udacibot   08/29/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   08/30/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   08/30/2015
+Thx Udacibot!!
+Andrew   08/30/2015
+Whats up everyone :) Coming at ya today from a place called 'Drugworks Cafe'...
+Andrew   08/30/2015
+Its not bad...its a coffeeshop located in a pharmacy (or vice versa...)
+Andrew   08/30/2015
+Anyways, please let me know if you are and how you are doin!
+Andrew   08/30/2015
+Looking at the cohort schedule, it looks like folks might be deep into JavaScript Basics or maybe already done?
+Andrew   08/30/2015
+Ditto with the GitHub course...GitHub looked crazy when I first started out with it.
+Andrew   08/30/2015
+After doing a couple projects with regular commits it became pretty second nature for most of the fundamental stuff except PULL
+Andrew   08/30/2015
+was discussing this site with a buddy yesterday: https://www.javascript.com/resources
+Andrew   08/30/2015
+he did php and html in a college class back in the day but was figuring out if he needed to learn JS for a small front-end type project for his company..
+Andrew   08/30/2015
+I was like: "...chances are, if your web site is going to do or show anything without reloading every few seconds, the answer is YES"
+Andrew   08/30/2015
+A link to this talk about JS popped up in my email last week... https://www.reddit.com/r/Meteor/comments/3hx2ty/geoff_schmidt_javascript_state_of_the_union/
+Andrew   08/30/2015
+It got me really pumped to be knee deep learning and improving my JavaScript ability...def give it a watch at lunch break or whenever
+Andrew   08/30/2015
+Ah, looking over the suggested courses I remember now jQuery is on there too...
+Andrew   08/30/2015
+I wonder what percent of popular sites on the web utilize jQuery?
+Andrew   08/30/2015
+To the GOOGLES!
+Andrew   08/30/2015
+whoah...I was expecting high but not THIS high... http://w3techs.com/technologies/details/js-jquery/all/all
+Andrew   08/30/2015
+TLDC (Too Lazy Didnt Clik) : "JQuery is used by 95.5% of all the websites whose JavaScript library we know. This is 65.6% of all websites."
+Andrew   08/30/2015
+Would loooove to hear some opinions on pros and cons of ol' jQuery....
+Matthew 08/30/2015
+Sorry to make ya chat with yourself again lol I'm out another week. Till I get my laptop back from Apple
+Andrew   08/30/2015
+No worries, its a good thing I have an active imagination hahah. I just hate it when I talk back to myself tho :(
+Andrew   08/30/2015
+While we got ya for a few minutes, whats the brief on your interview gauntlet??
+Matthew 08/30/2015
+Well I took that job that does squarespace and wordpress. But I can basically do what I want since it's a small media advertising agency.
+Matthew 08/30/2015
+Start tomorrow tho so I'm hoping to get fist deep into a project and see how I can use these cms 's
+Andrew   08/30/2015
+oh sweet man, congrats on knockin it out of the park with them! :)
+Andrew   08/30/2015
+I am gonna be uber-intrigued to hear what ya think after giving those a fair shake...
+Matthew 08/30/2015
+Yeah they liked that I can do actual code stuff. I guess their old person had a tough time getting an element to move from one side to the other and stuff. I should be able to manipulate the code at the very least
+Matthew 08/30/2015
+Sweet talked em a bit too so we'll see ;)
+Andrew   08/30/2015
+I've pondered multiple times learning PHP and maybe taking on some WP gigs but it got lost in the front-end deluge of Stuff To Learn
+Andrew   08/30/2015
+you will learn a quantum ton building things you know lotsa people will see and touch
+Andrew   08/30/2015
+Did they take a look at your personal projects? I bet your engagement site was a good Proof of Concept for em
+Matthew 08/30/2015
+Yeah they looked at my personal stuff and my udacity portfolio and it was enough lol
+Andrew   08/30/2015
+" I guess their old person had a tough time getting an element to move from one side to the other " ... oh man hehe
+Andrew   08/30/2015
+you'll be doubling your hrly rate there in no time when they see all the stuff you can make move :)
+Matthew 08/30/2015
+Lol hopefully
+Andrew   08/30/2015
+then you'll show images on the page *morphing* to fit window size...triple dat hrly rate!
+Andrew   08/30/2015
+whelps everyone, I hope all are doing well both in code and lyfe. Matt's news just now really makes my day. Until we all start getting jobs and projects, we can't be *totally sure* the efforts are worth it, yknow?
+Andrew   08/30/2015
+Hoping for more good news in the coming weeks and MORE people showing up and MO good support and learning.
+Andrew   08/30/2015
+At last JavaScript is here in the ND timeline! ...Combined with the (responsive!) CSS techniques you've been learning you can create some GREAT STUFF
+Andrew   08/30/2015
+Any questions or musings on JS, jQuery, GitHub, CSS or whatever don't hesitate to sound off. Have a good nite!
+Andrew   08/30/2015
+oh yeah, great JS link here. Really well done articles explaining key JS behavior: http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+
+
+###Session
+
+Udacibot   09/02/2015
+#EXCITED that @Steve submitted a passing project for P3: Classic Arcade Game Clone! Congratulations 🙌!
+Andrew   09/02/2015
+@Steve wow, kudos on blazing through P3. Well done!
+Udacibot   09/03/2015
+#EXCITED that @Steve submitted a passing project for P0: About Me! Congratulations 🙌!
+Andrew   09/03/2015
+@Steve with the combo, workin backwards! Shoryuken!!
+Steve 09/03/2015
+Haha thank you Andrew :)
+Steve 09/04/2015
+I'll try to make Sunday nights when I can, but ya it's been here and there for me as well
+Steve 09/04/2015
+still pushing through with the course though :)
+Andrew   09/04/2015
+I'm just glad y'all are powering through, pace is less impt than maintaining *some* kind of momentum. Enough pressure over time creates diamonds...
+<= deep
+Yui 09/05/2015
+Does anyone know how to override "display: flex"? For some elements in a <div>, I sometimes wish to place sub-elements top and bottom, not side by side.
+Udacibot   09/05/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   09/06/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   09/06/2015
+Noooooooooooooooooo.
+Andrew   09/06/2015
+Labor Day weekend got to me, guys :( I am super-sorry.
+Andrew   09/06/2015
+To make up, if anyone wants to schedule a one-one meeting/coding-session this week, just email me and we can hash out a good time: uncle.optimus@gmail
+Andrew   09/06/2015
+Yui, would you be able to give those top-bottom elements a width of 100%?
+Andrew   09/06/2015
+@Yui, or do you mean change the order of the elements in a flex container?
+Andrew   09/06/2015
+I'm thinking of this from the css-tricks guide: "By default, flex items are laid out in the source order. However, the order property controls the order in which they appear in the flex container."
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+###Session
+
+Udacibot   09/09/2015
+#EXCITED that @Daniel submitted a passing project for P2: Online Resume! Congratulations 🙌!
+Andrew   09/10/2015
+Right on with the resume righteousness, @Daniel! Onward to OOP in JavaScript!
+Andrew   09/11/2015
+what a fine day...to review some JS object-oriented programming at the coffee shop!
+Steve 09/11/2015
+Hi andrew :)
+it is a nice day haha
+Steve 09/11/2015
+are we opening a hangout vid?
+Andrew   09/11/2015
+ah good good, lets jump in this hangouts thing
+Andrew   09/11/2015
+oooook. how does this work hahah
+https://plus.google.com/hangouts/_/gycdsvasf4mbted6bbm27245laa
+Andrew   09/11/2015
+thx for the chat, @Steve! Love discussing the JS.
+Andrew   09/11/2015
+Here are a couple of links on JavaScript patterns that I appreciated...maybe helpful companion to the udacity lectures:
+Andrew   09/11/2015
+http://toddmotto.com/mastering-the-module-pattern/
+Andrew   09/11/2015
+Todd has a really really good blog on JS and Angular in particular and I find his descriptions really clear
+http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+Andrew   09/11/2015
+I hve linked this site before but bears repeating. It is one of my favorites.
+Andrew   09/11/2015
+http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
+Andrew   09/11/2015
+As you go thru your front-end journey you WILL see this man's name pop up on topics of JS structure and browser performance...he has authored a wealth of materials available free. This book is more dense, hell I've only read half but its very thorough
+
+
+###Session
+
+Udacibot   09/12/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   09/13/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   09/13/2015
+Good evening all!
+Andrew   09/13/2015
+Wondering how everybody's progress is shaping up
+Matthew 09/13/2015
+Ohai
+Andrew   09/13/2015
+it is Sunday, right....*checks* yeah.
+Andrew   09/13/2015
+'zup Matt. Macbook all good?
+Andrew   09/13/2015
+!💥
+Andrew   09/13/2015
+and how is the new dev position going???
+Matthew 09/13/2015
+It's going pretty well. Lol. And my MacBook is still unfixed because I can't afford to fix the screen. So I'm trying to do this js resume project so I don't get kicked outta this group!
+Matthew 09/13/2015
+I brought my work laptop to do it on
+Andrew   09/13/2015
+aw man on that macbook :\
+Andrew   09/13/2015
+what kind of machine does work have ya on?
+hope its not a 2004 dell inspiron
+Andrew   09/13/2015
+"uninspiron" teehee
+Matthew 09/13/2015
+A pretty sweet asus laptop that's gigantic lol but I'm used to macs os and all my udacity stuff was on there too. I dunno if I'm gonna make it by the deadline which is tomorrow, which sucks
+Andrew   09/13/2015
+oh dude you can do it...where ya in the project now?
+Andrew   09/13/2015
+by and large, we can break Project 2 down into several main steps:
+Andrew   09/13/2015
+- define your resume section objects (2 parts: data object and render function)
+Matthew 09/13/2015
+I'm watching videos still lol so long way to go
+Andrew   09/13/2015
+- call all section render functions to spit html to the page (yay jQuery)
+Alicia 09/13/2015
+I might get kicked out too, I'm still watching vids
+Andrew   09/13/2015
+Hiya Alicia!
+Alicia 09/13/2015
+Hey Andrew
+Andrew   09/13/2015
+well lets josh on this project 2 in the absence of other questions...
+Andrew   09/13/2015
+like taking my cliff-notes version of that JS course :)
+Matthew 09/13/2015
+See and I've kinda thought myself a bunch of jquery the past two weeks to manipulate things on squarespace lol
+Andrew   09/13/2015
+good, good. Alicia are you comfortable with jQuery?
+Alicia 09/13/2015
+Nah I'm not
+Andrew   09/13/2015
+maybe I can load up a code pen with some sample code and demonstrate the looping/rendering...
+Andrew   09/13/2015
+ah, I promise to get decent with jQuery (enough for this project) in short order
+Matthew 09/13/2015
+I'm on the video of string.replace(old,new) now
+Andrew   09/13/2015
+good, good...real quik Matt, do you have a way to describe jQuery in a nutshell? (while I get some example code together)
+Alicia 09/13/2015
+Lol that's where I'm at too.. Too far away, so I really might not make it
+Andrew   09/13/2015
+guys, can I get a link to the project starter page?
+Andrew   09/13/2015
+the one with the github repo link and whatnot
+Matthew 09/13/2015
+https://www.udacity.com/course/viewer#!/c-nd001/l-2962818615/m-2963468585
+Andrew   09/13/2015
+maybe we can summon @Steve here to help us out too...hes got a nice P2 goin..
+thx Matt
+Matthew 09/13/2015
+I don't know enough about jQuery to describe it just that its a library of the coolest javascript stuff with its own functions and what not
+Matthew 09/13/2015
+what happes if we don't make the deadline?
+:~
+Andrew   09/13/2015
+Y'all will make it :)
+Andrew   09/13/2015
+lets grok jQuery in like 3 sentences/examples...then figure out our render functions...last will be the map
+Andrew   09/13/2015
+OK Good News, now that I see your starter stuff:
+https://github.com/udacity/frontend-nanodegree-resume/blob/master/index.html
+Andrew   09/13/2015
+index.html seems good to go outside of a google maps api script tag (it is currently commented out)
+Matthew 09/13/2015
+yea im worried about the map
+when i get to it
+Andrew   09/13/2015
+your local copy of jQuery is already in the project repo...good to go!
+Andrew   09/13/2015
+lets cross that map bridge when we get to it (its not too bad!)
+Matthew 09/13/2015
+what is .prepend as opposed to .append
+Andrew   09/13/2015
+So, jQuery code in a nutshell: The almighty $ (thats 'dolla' sign)
+Andrew   09/13/2015
+jQuery functions go like this:
+Andrew   09/13/2015
+$("some kind of css looking query") <= this is the query/searching part
+Andrew   09/13/2015
+examples:
+Andrew   09/13/2015
+ $(".someClass")   // this finds all the elements that have this class specified, result is a list you can use for loops to go through
+Andrew   09/13/2015
+ $("#someID")  // this finds the ONE element in a document with that ID assigned
+Andrew   09/13/2015
+So it is all about very conveniently finding stuff in the DOM using those CSS-like indicators
+Andrew   09/13/2015
+Once you have searched something out, you can then call some jQuery convenience functions on them to do stuff....ex
+Matthew 09/13/2015
+do we need to customize this resume or basically just replace the %data% and its all good
+Andrew   09/13/2015
+ $("#target Element").some$Func();
+Andrew   09/13/2015
+Matt: basically replace %data% using string.replace...with your own data being put in
+Andrew   09/13/2015
+For this project, the main jQuery function you need is probably *append*...ex
+Andrew   09/13/2015
+ $("#someListContainer").append("<li>stuff!</li>"); // append can take literal strings of html
+Andrew   09/13/2015
+you can also save the html string to a var and pass it to *append*, like so:
+Andrew   09/13/2015
+ var htmlString = "<li>stuffity stuff</li>";
+Andrew   09/13/2015
+ $("#someListContainer").append(htmlString); // oh yea its that straightforward
+Matthew 09/13/2015
+aah yea
+Matthew 09/13/2015
+so we will be appending <li>'s and stuff and not just text text
+Andrew   09/13/2015
+So, using the jQuery search, how would we first find the *projects* div element? Code snippet below:
+ <div id="projects">
+      <h2>Projects</h2>
+   </div>
+Matthew 09/13/2015
+$("#projects")
+Andrew   09/13/2015
+Matt, yes you are getting the crux of what the *render* function will do...
+Andrew   09/13/2015
+Cool, so now we have like a reference to that *projects* DOM element...lets append something inside it:
+Andrew   09/13/2015
+ $("#projects").append("<span>awwwwwww yeahhhhhh</span>");
+and that will result in:
+Andrew   09/13/2015
+ <div id="projects">
+      <h2>Projects</h2><span>awwwwww yeahhhhhhh</span>
+   </div>
+beautiful, right? :)
+Matthew 09/13/2015
+and prepend would put it in front of the h2 tag eh
+Andrew   09/13/2015
+So now imagine you have a list of data, like a list of projects to append to the project section. How could we do that??
+Andrew   09/13/2015
+hint: for loop
+Andrew   09/13/2015
+btw I'm throwing together a quick jsfiddle that will illustrate this a bit..
+Andrew   09/13/2015
+OK http://jsfiddle.net/7vkqamjL/1/
+Andrew   09/13/2015
+Just to show a living demo of using jQuery to easily add stuff to the DOM
+Matthew 09/13/2015
+love ta fiddle
+Andrew   09/13/2015
+yeah, that and codepen are the ones I use most often...there are probably a bunch of other similar in-browser IDE
+Matthew 09/13/2015
+its nice to be able to see all of it at once and run it
+gracias
+Andrew   09/13/2015
+OK, so now we can use jQuery to get our target element. AND we can append stuff INTO that target element...
+Andrew   09/13/2015
+like Emeril Lagasse (sp?) always sez: lets take it up a notch
+Andrew   09/13/2015
+Lets have a premade string that we just FEED to the *append* function... after we *string replace* some stuff first, of course!
+Andrew   09/13/2015
+OK http://jsfiddle.net/7vkqamjL/2/
+Andrew   09/13/2015
+So string replace is pretty straightforward! Just call the replace method on the string directly, pass it the target string to replace as the 1st arg and the new string content as the 2nd arg.
+Andrew   09/13/2015
+Now, you can take a pre-made string, replace some part of it with your custom data, then place it right in the DOM with the help of jQuery...oh look
+Andrew   09/13/2015
+https://github.com/udacity/frontend-nanodegree-resume/blob/master/js/helper.js
+those Udacity nice peoples gave us a whole file full of handy-dandy HTML strings :)
+Andrew   09/13/2015
+...y'all still with me?
+Matthew 09/13/2015
+i am, just multitasking. but thats a good page with all those variables
+Andrew   09/13/2015
+Yup, those give you most of what you need, and you can define your own HTML snippets if you decide to
+Andrew   09/13/2015
+Taking these HTML strings, formatting em with your own data, then appending them to the appropriate DOM section (ie. 'projects', 'education', 'experience') is EXACTLY what your section render functions will do...they will be pretty dang similar, just dealing with different data
+Andrew   09/13/2015
+Now speaking of render functions, lets quickly discuss the structure of your project's section objects...
+Andrew   09/13/2015
+So we know JS objects can have their *properties* be pretty much any type. That includes a string, an integer or a boolean. BUT..
+Andrew   09/13/2015
+...and object property can also be an array. OR it could be another object. Perhaps most cool, an object property can even be a function. Yup, a friggin function :)
+ex.
+Matthew 09/13/2015
+how do you make an object property an array
+like obj = {
+eh nvm but yeah
+Matthew 09/13/2015
+so like obj = {"array" : varArray}; ?
+and have the array in a diff var?
+Andrew   09/13/2015
+Matt: You could totally do that. For this project you will PROBABLY just be defining an array of 'data' right in your Section object tho...
+Andrew   09/13/2015
+ var critter = {
+    name: "Psyduk",
+    age: 56,
+    married: TRUE,
+    kids: [{..another critter..},{...},{...}],
+    talk: function () {
+        console.alert("SIGHHHHH");
+    }
+}
+Matthew 09/13/2015
+aaah
+nice
+Andrew   09/13/2015
+man I went overboard with that example...
+Matthew 09/13/2015
+lol
+Andrew   09/13/2015
+So that just shows object properties can be like *anything*. Lets just hash out a quik template of a possible Section object shall we?
+Andrew   09/13/2015
+ var project_section = {
+    data: [{..project details..},{...},{...}],
+    render: function () {
+        // what happens here??
+    }
+}
+Andrew   09/13/2015
+Matt, like you hinted at, the *data* part can actually be external, like a separate file. Heck maybe even on another computer :O ... but for P2 I think the project rubric wants you to define it as part of the Section objects...
+So how many Section Objects will you need?
+Matthew 09/13/2015
+noo clue
+Andrew   09/13/2015
+I am seeing at least 4.... https://github.com/udacity/frontend-nanodegree-resume
+Andrew   09/13/2015
+ContactInfo/header, work experience, projects, education...
+Andrew   09/13/2015
+ahhh, and LOCATIONS (the map!) for a total of 5 (?)
+Matthew 09/13/2015
+doesnt sound bad like that
+sorta
+Andrew   09/13/2015
+Its not too bad :)
+Matthew 09/13/2015
+if my damn laptop screen wouldnt of broken i wouldnt of waited until the last moment
+...so i say
+Andrew   09/13/2015
+So you guys know basically how to define those render functions (string replace stuff, use jQuery to find element and append inside). But how will you define the Data inside the Section objects?
+Andrew   09/13/2015
+This part is a potential Gotcha...not because of difficulty, but because the formatting is impt to get right. A LOT of students hit snags that boil down to "oops, data formatting a tiny bit off!"
+Matthew 09/13/2015
+yeah
+Matthew 09/13/2015
+that will be the trick eh
+Andrew   09/13/2015
+its honestly like 98% straightforward...problem is its SO straightforward its easy to get a bit sloppy :p
+Matthew 09/13/2015
+I can see how thats possible
+Andrew   09/13/2015
+so lets check out a sample spec from the project page:
+Andrew   09/13/2015
+projects: array of objects with
+title: string
+dates: string (works with a hyphen between them)
+description: string
+images: array with string urls
+display: function taking no parameters
+Andrew   09/13/2015
+ugh, the formatting is off there....so its an Section object of TWO main properties: 'projects' and 'display'. (display is the render function)
+Andrew   09/13/2015
+lets zoom in on this 'projects' array property...
+Andrew   09/13/2015
+So we will have an array of objects, each representing one of your sample projects, and each containing 4 of their OWN properties: 'title', 'dates', 'description' and 'images'
+so what might that look like....
+Andrew   09/13/2015
+ data = [
+    {
+        title: "Project 1",
+        description: "Such a great project!",
+        dates: "Feb 2015 - Mar 2015",
+        images: [
+            "images/image1.png",
+            "images/image2.png",
+        ]
+    },
+    { ... another project similar to the above ... },
+    { ... ANOTHER project ...}
+],
+Andrew   09/13/2015
+ohhhhhhhh wait. The data needs to be in JSON format. Everyone good with JSON? Its a BIT different from what I just posted :p
+Matthew 09/13/2015
+i have no clue wtf JSON even is
+Matthew 09/13/2015
+java script object notation?
+Andrew   09/13/2015
+YES! JSON is actually super-convenient and really great.
+Andrew   09/13/2015
+Its pretty much strictly formatted JS that is really great to use to transfer data with...the main thing is that its got some syntax rules that MUST be followed
+Andrew   09/13/2015
+You can use this site to validate the JSON you type out, just to be sure its free of small errors: http://jsonlint.com/
+Andrew   09/13/2015
+OK, the above example data is faulty...its JS but not JSON. Lets revisit that....
+Matthew 09/13/2015
+Oh I just hit a course video on JSON
+seems like a good thing to know
+Andrew   09/13/2015
+OK, this validates on jsonlint.com
+ {
+    "data": [
+        {
+            "title": "Project 1",
+            "description": "Such a great project!",
+            "dates": "Feb 2015 - Mar 2015",
+            "images": [
+                "images/image1.png",
+                "images/image2.png"
+            ]
+        },
+        {
+            "title": "Project TWO",
+            "description": "Even greater project!!1",
+            "dates": "Mar 2015 - May 2015",
+            "images": [
+                "images/p2image1.png",
+                "images/p2image2.png"
+            ]
+        }
+    ]
+}
+Andrew   09/13/2015
+Y'all notice some key differences?
+Andrew   09/13/2015
+Every property name MUST be in double-quotes
+Andrew   09/13/2015
+Also be VERY careful of not having some extra trailing commas or whatnot..
+Matthew 09/13/2015
+jeeze
+strict stuff
+Andrew   09/13/2015
+Yeah...it has to be because its really a data transport format. You guys will see more of this in Project 5 :)
+Andrew   09/13/2015
+That it looks pretty much like JS and plays super-nice with JS is a great bonus.
+Andrew   09/13/2015
+Now lets consider how we access the info we define...
+Andrew   09/13/2015
+The github projet repo has some good examples. Lets check out a couple...
+Andrew   09/13/2015
+lets say we have an array of data named "my_projects" and it looks like the example above. Lets get the title of Project 1...
+Andrew   09/13/2015
+ var titleString = my_projects[0].title;
+Andrew   09/13/2015
+How about if we want to get that string and REPLACE it into an HTML string?
+Andrew   09/13/2015
+ First lets grab a HTML string from our helpers.js file...
+Andrew   09/13/2015
+ var HTMLprojectTitle = "<h4>Now Showing:</h4><a class='projectTitle' href='#' target='_blank'>%data%</a>";
+Andrew   09/13/2015
+Look pretty familiar right? OK lets access our JSON data object and call String replace...
+Andrew   09/13/2015
+ var formatted_string = HTMLprojectTitle.replace("%data%", titleString);
+Andrew   09/13/2015
+Cool, cool. Now lets use jQuery supa-powa to put that in the DOM...
+Andrew   09/13/2015
+ $("#projects").append(formatted_string);
+Aw yeah!
+Andrew   09/13/2015
+BTW guys, code might have small syntax errors....its basically pseudo code
+Andrew   09/13/2015
+Now, in that data example above, how would we access the SECOND image string in the 'images' array?
+Andrew   09/13/2015
+ var image_url = data[0].images[1]; // first project in the array, second image in the 'images' array property
+Andrew   09/13/2015
+Now what about the case where you have multiple object info to append in one section?
+Andrew   09/13/2015
+Lets use some loopin powers:
+Andrew   09/13/2015
+Again, using that 'data' example posted above,
+Andrew   09/13/2015
+ for (var i=0; i<data.length; i++) {
+   titleString = data[i].title;   
+   HTMLTitle = "<h4>Now Showing:</h4><p class='projectTitle'>%data%</p>";
+   $("#projects").append(
+       HTMLTitle.replace("%data%", titleString);
+   );
+}
+Andrew   09/13/2015
+a little shortcut there, feeding the jQuery *append* function the direct result of the string replacement...
+Andrew   09/13/2015
+Putting all these pieces we discussed together, we do the string replacement actions shown above for each piece of info in that section. Probably in a loop if there are multiple pieces of data (schools, projects, workplaces, etc)...
+Andrew   09/13/2015
+Then we wrap that in a function called 'display' and make that function a property of the Section object, as outlined earlier...
+Matthew 09/13/2015
+holy examples
+Matthew 09/13/2015
+very nice
+Andrew   09/13/2015
+Then, when we initialize our little resume app here, we just need to call each section's 'display' function. The order wont matter, because each Section only deals with its own data!
+Andrew   09/13/2015
+To do this initialize step we can use a very very popular jQuery helper function...
+Andrew   09/13/2015
+https://api.jquery.com/ready/
+Andrew   09/13/2015
+You guys will see this helper function ALL. THE. TIME. in the wild. It sez: "On document load, execute the following JS..."
+So lets use that function and...
+Matthew 09/13/2015
+oh yeah ive used that
+Andrew   09/13/2015
+ $(function() {
+  // Handler for .ready() called. yay jQuery
+  project_section.display(); //boom
+  education_section.display(); // baboom
+  work_section.display(); // boomboomboom
+  // etc
+});
+Andrew   09/13/2015
+o crap I made it all commented somehow lol
+Andrew   09/13/2015
+I call this part the "Kickoff party" buz it happens when your app loads up, firing off all the functions you defined one after the other
+Andrew   09/13/2015
+Soooooooo.....it seems like a lot. But remember it is PROCESS.
+Andrew   09/13/2015
+Define a section's data in JSON and validate it with jsonlint.com
+Andrew   09/13/2015
+Check out helper.js HTML strings and define your 'display' function in each section, using string replace and jQuery append...
+Andrew   09/13/2015
+Kick off all your display functions on document load, perhaps with the jQuery helper function above...
+Andrew   09/13/2015
+And viola. You are a badass :)
+Matthew 09/13/2015
+yikes
+lol
+Andrew   09/13/2015
+Don't feel overwhelmed! Its step-by-step, HTML string by HTML string.....a Process.
+Matthew 09/13/2015
+overwhelmage
+Andrew   09/13/2015
+Just build out one section...and the rest will make sense!
+Andrew   09/13/2015
+OK, getting kicked out of coffee shop. Will post some thoughts on Map section later. But dont worry about it til you get your sections working....and that really only takes getting ONE of them working to understand the rest clearly.
+Matthew 09/13/2015
+right on thanks man
+appreciate it
+Andrew   09/13/2015
+BTW for yall working on this P2, ya can hit me up with some specific questions at my email. Maybe we can jump on a quick Hangout since its CrunchTime hah
+uncle.optimus@gmail
+
+
+###Session (sub-session)
+
+Andrew   09/14/2015
+Hey all, lets chat about Google maps real quik. Here is the doc that explains the basics :
+https://developers.google.com/maps/documentation/javascript/tutorial
+Andrew   09/14/2015
+So first you'll need a script tag to load the Maps api (just uncomment that line in your index.html)
+Andrew   09/14/2015
+Your index.html also already has the map 'container' DIV element..
+Andrew   09/14/2015
+Then, this whole map biz is practically a two-step process:
+Andrew   09/14/2015
+1) DEFINE your personal data according to the project specification...the map will be drawing off the infoz you list in your "bio" data section
+Andrew   09/14/2015
+Here, I'll reproduce one of the pre-written map functions in your helper.js:
+Andrew   09/14/2015
+ function locationFinder() {
+    var locations = []; // initializes an empty array
+
+    // adds the single location property from bio to the locations array
+    locations.push(bio.contacts.location);
+
+    // iterates through school locations and appends each location to
+    // the locations array
+    for (var school in education.schools) {
+      locations.push(education.schools[school].location);
+    }
+
+    // iterates through work locations and appends each location to
+    // the locations array
+    for (var job in work.jobs) {
+      locations.push(work.jobs[job].location);
+    }
+
+    return locations;
+  }
+Andrew   09/14/2015
+This is actually a great guide to how your data JSON thingys are organized...check it out:
+Andrew   09/14/2015
+- your "bio" section object has a "contacts" object property that itself has a "location" prop
+Andrew   09/14/2015
+- your "education" section object has a "schools" array, with each item in the array being an object with school details
+Andrew   09/14/2015
+- your "work" section object has a "jobs" array, with each array item being an objet with details including a "location"
+Andrew   09/14/2015
+So, the GREAT news is that once you have Defined your data, the actual map display/render is taken care of....you just need to call "initializeMap"!
+Andrew   09/14/2015
+Perhaps you can trigger that function call the same place you call the other Section object's "display" functions...
+Andrew   09/14/2015
+Remember that jQuery document-load helper I mentioned above?
+Heres an example of what I mean:
+Andrew   09/14/2015
+ $(function() {
+	/* Kickoff Partaaay!!!!! using jQuery document-ready helper method */
+	bio.display();
+	work.display();
+	education.display();
+	projects.display();
+	initializeMap(); }
+*boom boom boom*.
+Andrew   09/14/2015
+Good luck and happy coding, fellow devs 😊
+
+
+###Session
+Udacibot   09/16/2015
+#SAD that @Alicia has left the team. We will meet again 😭!
+Andrew   09/16/2015
+Arghh, I am sorry I couldn't help enough with this project
+Andrew   09/16/2015
+@Matthew, how did P2 go??
+Matthew 09/16/2015
+Well I didn't get kicked out yet? I'm not sure why. I submitted a project but it didn't pass
+Matthew 09/16/2015
+I haven't checked the review of it yet but I knew it wasn't perfect
+Matthew 09/16/2015
+Surprised I wasn't axed
+Andrew   09/16/2015
+ahhh...well done. By submitting before the deadline you actually maintained your cohort status :O
+Andrew   09/16/2015
+I had heard that was the case before, but had not been certain
+Andrew   09/16/2015
+I tell ya what, that you turned in *something* within the like 6 hrs (or whatever you had after work) before deadline is pretty dang great :D
+Andrew   09/16/2015
+@Yui, you doing OK? Did you come up with some good answers for the Flex-box question you asked?
+Udacibot   09/19/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   09/19/2015
+#EXCITED that @Andrew RC submitted a passing project for Resume Review! Congratulations 🙌!
+Udacibot   09/20/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   09/20/2015
+O dang Udacibot, you know-all see-al
+Andrew   09/20/2015
+Hi everyone! Oppressively hot Sunday has given way to cool evening here in Southern California
+Andrew   09/20/2015
+Hope The Learning Quest is going well, excited to talk about...well, anything :)
+Andrew   09/20/2015
+OK, coffee is deployed: fueling in process....process.....
+Andrew   09/20/2015
+So, just a random share, but I came across this site and REALLY dig this animation effect...
+https://confwall.com/
+Andrew   09/20/2015
+its in the "Take it for a Spin' section. Those blue pulsing dots are something I'm considering for my lil portfolio re-boot
+Andrew   09/20/2015
+Anyone ever seen a cool effect on a site and wondered how they did it or how to reproduce it??
+Andrew   09/20/2015
+to DevTools we go.....
+Andrew   09/20/2015
+....and now to open a new codepen...
+Andrew   09/20/2015
+ahah. A div with a class of 'dot' is the obvious target...here I pause a bit. The 'Lets Challenge' way is to try to recreate it without peeking any further in DevTools.
+Andrew   09/20/2015
+BTW, if anyone wants to chat about ANYTHING, just say 'whats up' ... I'm just fun-hacking a bit here
+Andrew   09/20/2015
+OK, I cheated and drilled down into the element...its uses the *before* and *after* pseudo classes to create the pulsing border.
+Andrew   09/20/2015
+Anyone use the before/after psuedo elements? You can pull off some real nifty stuff with them.
+Andrew   09/20/2015
+Obligatory CSS-tricks post showing cool..tricks: https://css-tricks.com/pseudo-element-roundup/
+Andrew   09/20/2015
+Here are some more cool examples: http://jsfiddle.net/necolas/RKhDQ/embedded/result/
+Andrew   09/20/2015
+That first one is understated but I think is pretty sweet...just a speech bubble in all CSS. No background image needed!
+Andrew   09/20/2015
+OK, one more: http://www.hongkiat.com/blog/pseudo-element-before-after/
+Andrew   09/20/2015
+I especially dig that 'stacked images' effect...bit of that iPhotos look
+Andrew   09/20/2015
+ok...doh. I was wondering why my 'before' tag wasn't coming up in the Pen...got my syntax wrong:
+Andrew   09/20/2015
+ .className::before { ... }
+Andrew   09/20/2015
+TWO colons -_- ...
+Andrew   09/20/2015
+All righty...looks pretty similar thus far (full disclosure: IT BETTER...I'm pretty much copying the style rules over mwahahah)
+Andrew   09/20/2015
+OK, now onto some animation. Frankly, I kinda suck at animations. Figuring out the timing and whatnots.
+Andrew   09/20/2015
+google, google....ah this blog looks promising: http://designmodo.com/css3-animations/
+Andrew   09/20/2015
+Admittedly it looks rather complex the first time you check out the CSS rule(s)....actually, it still looks complex to me many months later :p
+Andrew   09/20/2015
+The key for me was knowing that css animation is kinda two-step:
+Andrew   09/20/2015
+1) NAME the animation and specify its major characteristics like duration and repeat play
+Andrew   09/20/2015
+2) DEFINE that named animation *keyframes* behaviour, or what the animation looks like at different states during its duration. What is cool here is you can specify different ways, like in percent terms
+Andrew   09/20/2015
+BEWARE GOTCHA: I have spent HOURS during P1 and P2 wondering why my ultra-clever (not really) animations refused to play....
+Andrew   09/20/2015
+.... remember to keep browser prefixes in mind! This feature is still new enough that many browsers require their 'experimental' prefixes. Good reminder to have our old pal, CanIUse on speed-dial : http://caniuse.com/css-animation
+Andrew   09/20/2015
+Yikes. iOS and Safari users still largely require their -webkit- prefix!
+Andrew   09/20/2015
+GOTCHA ADDENDUM ... pssst, the *keyframes* declarations need prefixes too! (I realized after MOAR frustration-time)
+Andrew   09/20/2015
+Alright back to this 'dots' thing...
+Andrew   09/20/2015
+problem: the DevTools inspector is not show the keyframe definition used! So, I got two options...
+Andrew   09/20/2015
+1) play around with the values...I know I am changing the pseudo-element width/height over time to achieve the effect of a pulsating ring around our dot.....
+Andrew   09/20/2015
+2) ...Or I can just look up the code under the "Sources" tab in devTools :p
+Andrew   09/20/2015
+Note: if the code is minified, it will be a *bit* harder to read!
+Andrew   09/20/2015
+...and viola. http://codepen.io/uncleoptimus/pen/qONROr
+Andrew   09/20/2015
+Looks like things are goin down in Westeros :)
+Andrew   09/20/2015
+A quiet night! All, hope coding and life are going well and as always if any questions or topics of discussion come to mind don't hesitate to hit up our team. Maybe we can hash out our own Hangouts event sometime...I've been thinking going over some GitHub flow could be cool after chatting with Steve.
+G'nite and G'week!!!
+Andrew   09/20/2015
+@Matthew, hope the new job is going awesome!
+
+
+###Session (sub-session)
+
+Kshitiz 09/21/2015
+Hey Everyone. Coming after long.. ish sick leave. I have completely fallen behind. I am still on Project 1 (will have to review the lessons again, since it has been quite some time). I have a question regarding Project 1.
+
+Does the final output needs to be exactly as the mockup (same images, text etc)? In one of the groups i saw a gentleman submitted a project with his own customized images. Sure his modals were popping out, giving explanation of his projects, but non eof the images from the mockup were there.
+Kshitiz 09/21/2015
+So i guess i am asking, can we customize it to any extent?
+Kshitiz 09/21/2015
+Can any one of you show me your P1? I dont need to see the code, just the finished product
+Andrew   09/21/2015
+Hey, welcome back K! Hope you are feeling way better.
+Andrew   09/21/2015
+You can pretty much customise P1 it to your hearts content, just make sure the points they ask for in the project rubric are accounted for. Everything else is gravy!
+Andrew   09/21/2015
+You can even have the project grader give you specific feedback on some extra stuff you included if you specify it in the Note when submitting
+Andrew   09/21/2015
+hmmm...I wonder if we have an "everyone" summons...
+@all
+@everyone
+@yall
+@loddydawdyerrrrybody
+guess not :(
+Andrew   09/21/2015
+K, I've seen P1 for both @Steve and at @Matthew
+Andrew   09/21/2015
+If they or any other team members are cool with it, please post a link :)
+Kshitiz 09/22/2015
+Thanks Andrew. Yeah if someone can share their finished product, that would be great. I am sure i will be moved to different cohort, since deadline for P1 was yesterday :P
+
+I will go ahead and implement it with my own customization
+Andrew   09/22/2015
+I think deadline for *P2* was last week. But if you are still with us, then it is simply Meant to Be. If you got any questions or feeling brain-blocked on a topic, post em here and there is also my email you are welcome to hit me up at: uncle.optimus@gmail
+Steve 09/24/2015
+HI Kshitiz, my P1 has changed to something completely different from when I submitted it for evaluation. But the design of mine is pretty much the same as the mock. The images I used were just randomly downloaded from the web
+Steve 09/24/2015
+I'm trying to explore some cloned git web pages. Some of these have a lot of .css files and frameworks included. Does anyone know a good way to find which .css file a class name we inspect on the DOM would be from aside from opening each file and try ctrl F the class name manually for each file?
+Matthew 09/24/2015
+My p1 is at mattloveskat.com/portfolio. I'm missing a few placer images tho
+Andrew   09/24/2015
+Cheers for the sharing! Steve are you using Chrome? When I inspect an element in there it displays which css resource the styles are listed *and* gives me a link. If I click the link, it jets me right over to that line in the css file.
+Steve 09/24/2015
+Hi andrew
+Steve 09/24/2015
+so this is just a class name within an element
+Steve 09/24/2015
+in this case it doesn't display any sort of link in the chrome dev tool
+Steve 09/24/2015
+I do not see this class name under the style tab drop down where the element css are
+Andrew   09/24/2015
+hm, dunno. Guess i'd have to Brute force it (or like using terminal grep command or something like that....which would mean I'd have to google "terminal grep" :p )
+whats the link tho?
+Steve 09/24/2015
+it's a file i cloned from a private repo, i can show you a screen shot if there's a way to do it on here?
+Andrew   09/24/2015
+don't think there is yet unfortunately. Can try Codepen, jsfiddle, cloud9. Class is not showing up in the inspector eh....what is that saying...
+Andrew   09/24/2015
+I didn't even know that was possible!
+Steve 09/24/2015
+mm.... so the class name is showing up on the small white bar above the style tab
+Steve 09/24/2015
+that white bar display the element and all the parent elements
+Steve 09/24/2015
+as well as the class names, but just displaying it there doesn't help me know where it came from
+Steve 09/24/2015
+I tried to just do a search of "content" in my mac and couldn't find it either
+Steve 09/24/2015
+this repo uses Angular and Angular's Chart.js framework, so it could be that I'm not looking in the right place
+Andrew   09/24/2015
+ah there is a layer of complexity, what is angular doing and how its doing it is beyond me....I am hoping you will master it and then teach me
+Andrew   09/24/2015
+so it sounds like you are not allowed to run the code and view in browser (you mentioned private repo)
+Andrew   09/24/2015
+and you couldn't open up the project folder in an editor either (then could use its project-wide search)
+Steve 09/24/2015
+oh i have access permission to it, so i can clone it, I meant that as I can't just link the repo to you to show it to you
+Steve 09/24/2015
+project wide search?
+Steve 09/24/2015
+and I know literately nothing about angular, first time taking looking at it haha ^^
+Andrew   09/24/2015
+Yeah, you using sublime? http://stackoverflow.com/questions/20519040/search-in-all-files-in-a-project-in-sublime-text-3
+Andrew   09/24/2015
+Brackets has it too, pretty sure Atom does
+Andrew   09/24/2015
+That is weird...so you can run the angular webapp in browser, but when you try to inspect element its style info does not appear in the inspector.... It makes me wonder if the element is hidden or inactive in the view somehow. I was also going to suggest that maybe the styles are declared right in the html template for that view component...but even then I would think a visible DOM element will display its style info in the inspector
+Steve 09/25/2015
+Hi Andrew, I used that link you gave to look for the class name in my code, thanks for that btw, will be pretty useful in the future :). It looks like the name I'm looking at isn't a CSS element but an Angular Directives. The class name I was looking at was class="chart-bar", the search only found it in the readme doc saying: "There are 6 types of charts so 6 directives: `chart-line`, `chart-bar`, `chart-radar`, `chart-pie`,
+50 `chart-polar-area`, `chart-doughnut`."
+Steve 09/25/2015
+directive is a new concept to me, but it looks like this is why it wasn't showing up when I inspect the element.
+Andrew   09/25/2015
+hahah, nuthin like being thrown into the fire! If you pick up a bit of angular know-how now, would love to hear your comments on it vs the Knockout.js library for Project 5
+Andrew   09/25/2015
+@Kshitiz, if you get the chance, let us know how its goin with the portfolio project!
+
+
+###Session
+
+Udacibot   09/26/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Andrew   09/27/2015
+hi-5, Udacibot
+Udacibot   09/27/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   09/27/2015
+Good evening/morning/afternoon, all
+Matthew 09/27/2015
+Hi guis. So for my p2 that I'm still working on (I know, I'm behind), I need to define a variable for a for loop to keep it local and not global. so I have 'for (job in work.jobs)' and need to define job but don't know what to var it too! my work.jobs is 'var work = {
+"jobs": [
+{
+"employer": "Avinova Media Group",
+"title": "Web Designer",
+"location": "Highlands Ranch, Colorado",
+"dates": "2015 - Current",
+"description": "Developing and designing websites using Squarespace and Wordpress."
+},
+}..etc
+Andrew   09/27/2015
+its another terrifically hot weekend in California. I am trying to not use any AC for as long as I can hold out. And that means sweaty living room
+Andrew   09/27/2015
+Yo Matt. Havent been called a 'GUI' before heh
+Matthew 09/27/2015
+graphical user interface?
+lol
+no
+Andrew   09/27/2015
+naw you are fine timelines wise...lyfe happens, forward progress yo
+Andrew   09/27/2015
+aight lets look into this loop
+Matthew 09/27/2015
+btw can you see the moon there? it dissapeared here but no blood coloring and now its covered by clouds :(
+Andrew   09/27/2015
+oh lets summon @Kshitiz real quik cuz he will be hitting this project soon...
+Matthew 09/27/2015
+cool
+Andrew   09/27/2015
+ok I'm gonna step outside for a min to look at blood moon, brb
+Andrew   09/27/2015
+cloud cover for now :(
+Andrew   09/27/2015
+OK so you got your *work* object...and its got an array of "job" objects
+Matthew 09/27/2015
+so it seems I can set it as anything just so it doesn't go global. I just put var job = "test"; and it worked.
+Andrew   09/27/2015
+yeah thats right...
+Andrew   09/27/2015
+also, you can try this syntax which I actually prefer when working with arrays:
+Matthew 09/27/2015
+my reviewer wanted me to put 'use strict'; in the beginning so it didn't work without defining the variable
+Andrew   09/27/2015
+ jobs.forEach(function(job_obj) { ....doin work ... })
+Andrew   09/27/2015
+wow, first time I heard of nitpicking the "use strict"
+was that a fail point or a friendly suggestion?
+Matthew 09/27/2015
+just a suggestion
+Andrew   09/27/2015
+ok cool
+Matthew 09/27/2015
+also suggested I use only single quotes the whole time but I don't really feel like going back through it
+I guess I could find and replace
+but meh
+Andrew   09/27/2015
+btw seriously, you knockin out like 90% of P2 in a day is pretty outstanding
+Matthew 09/27/2015
+lol, I was happy they didn't demote me
+Andrew   09/27/2015
+I should have mentioned in the channel that just submitting probably kept you in the cohort. I hope Alicia is doin well with the next team tho
+Matthew 09/27/2015
+yeah I hope so too, felt bad she didn't make it
+she'll be fine though
+Andrew   09/27/2015
+about those quotes, I actually think about that question every and now then when I'm creating DOM elements and whatnot...
+Matthew 09/27/2015
+I actually almost passed my p2 I just need to expand on a few things and put contacts in the footer
+Andrew   09/27/2015
+Who decided it was "better" to use single-quotes in regular JS code?
+Andrew   09/27/2015
+I'mma whip up a code snippet to back up my griping...
+Matthew 09/27/2015
+hmm I can't find the reviewer's name
+Andrew   09/27/2015
+ $("#main").append('<div class="classy">This is some text. The student's project passed. Oh no I blew up the string !!1</div>')
+....hmmmm
+Andrew   09/27/2015
+now that I look at my own ironic example I can see how, if we used double-quotes for strings, we'd be borked on every html element attribute like class or src.....
+Matthew 09/27/2015
+very true
+Andrew   09/27/2015
+oh how has the new dev position been goin btw?
+Matthew 09/27/2015
+pretty good. so I came to a breakthrough last week. I had been totally saying screw squarespace's templetes and moving and interacting with stuff via css and jQuery. But I've decided that I was making my life a lot harder on myself because when I move stuff around too much then I have to write all new media queries and such
+so now im doing less manipulating
+atleast with margins and paddings and especially absolute positioning
+and life is easier
+lol
+Andrew   09/27/2015
+You must be like a jQuery purple-belt now! has there been a lot of that YUI-framework-flavored Javascript?
+Matthew 09/27/2015
+Yeah but it hasn't caused me too many problems yet
+Matthew 09/27/2015
+I don't necessarily like doing the templete - crank it out as fast as possible thing
+but oh well
+Andrew   09/27/2015
+got any tips for grokking jQuery so quickly? I think for me it was doing some Code School/Code Academy exercises
+Andrew   09/27/2015
+But I was just looking at this site: http://jqexercise.droppages.com/
+Matthew 09/27/2015
+plus all the websites im doing are for super-conservative republican political candidates here in colorado, so I have to call and meet with some kinda important people... that i pretty much disagree with
+lol
+Andrew   09/27/2015
+and thinking to myself...hmm....off top of my head, I'm not sure I can do all the easy ones :p
+Andrew   09/27/2015
+oh man hahah
+Andrew   09/27/2015
+well, conservative templates for conservative candidates heh
+Matthew 09/27/2015
+oh sweet though i might mess with this. I have basically mastered .animate() and thats about it
+and appending and changing .css() and stuff
+lol
+yeah
+Andrew   09/27/2015
+there is a crazy amount of jQuery power....I had this phase where I was like "its better for performance if I don't use jQUery!!!"
+Andrew   09/27/2015
+partly because a Use needs to download that file, right?
+jQuery.js and whatever plugins
+Matthew 09/27/2015
+yeah, that is a problem with this stuff because this templete crap is already slow to begin with. I just got an email yesterday from a client complaining about speed but there's not much i can do
+Andrew   09/27/2015
+but then I figure, probably 99.8% of all internet users have dozens of cached jQuery files in their browser so, meh :p
+oh wow
+Matthew 09/27/2015
+well they also wanted a image marquee loop of like 5 gigantic .png pics
+on every page
+Andrew   09/27/2015
+Matt, you are going to eat up Project 4's lesson. Lotta good perf shit in there, pardon my french
+Matthew 09/27/2015
+if I can make it there lol. now that i got caught up with work I can focus on this a bit more now, which is nice
+Matthew 09/27/2015
+i dont want to be paying 200$ a month forever!
+Andrew   09/27/2015
+got a link to that site? I'd be curious if I can diagnose any perf stuff just based on things we learn from that class
+Andrew   09/27/2015
+yea, I had a feeling you were uber-busy with the new job a few weeks back!
+Andrew   09/27/2015
+on the $200, small consolation is that they'll refund ya half once you finish
+Andrew   09/27/2015
+I just finished FSND and filled out the tuition-back form...took like 3 secs
+Matthew 09/27/2015
+i'll see if I can find a link, they haven't set up a domain yet
+but that will be very nice
+Andrew   09/27/2015
+hah, multiple people on Slack complaining about cloud covering up blood moon
+Matthew 09/27/2015
+https://nathan-brandt-l4rx.squarespace.com/
+Matthew 09/27/2015
+don't mind most of the crap, im redoing this whole site with a different template that has a built in gallery sliders
+Matthew 09/27/2015
+yeah, disappointing
+so maybe it will be faster then
+only the initial page is the worst
+Matthew 09/27/2015
+pw = Sharkey4CU
+I think, cant remembre
+Andrew   09/27/2015
+omg, chat client peaced out for a while there...note to self: update chrome, maybe that will help
+Andrew   09/27/2015
+oh yeah those images are ginormous
+Andrew   09/27/2015
+the image compression and serving up display-specific will be big wins there; if ya get the chance, try out that "srcset" attribute that be-dazzled me a few weeks back
+let me dig up that smashing article...
+Andrew   09/27/2015
+ah here it is: http://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/
+Matthew 09/27/2015
+yeah, I used srset on p1 but I don't know how to implement it in this templete crap lol. I can get to the html but only if I enable a developer mode that bumps up the clients subscription level and cost per month
+Andrew   09/27/2015
+ohhhh hahah
+Matthew 09/27/2015
+yeah its a pain
+Matthew 09/27/2015
+unless I could use jquery to addClass()
+I thought about trying it
+Andrew   09/27/2015
+ah, Squarespace
+Andrew   09/27/2015
+oh yeah! how about addAttribute
+Matthew 09/27/2015
+I didn't even know of that one
+that would work I think!
+Matthew 09/27/2015
+good work lol
+Andrew   09/27/2015
+heh even though I said "jQuery is omnipresent now, lets all use jquery" I actually actively try to go without if possible :p
+Andrew   09/27/2015
+Just use the Vanilla JS, and the good ol' document.somethingsomething methods
+Matthew 09/27/2015
+yeah
+that would help
+Andrew   09/27/2015
+http://vanilla-js.com/
+Andrew   09/27/2015
+@everyone, let me know what you think about the "framework" ;)
+Andrew   09/27/2015
+lets see if we can whip up a lil jquery exercise...
+Andrew   09/27/2015
+hoho https://jsbin.com/lutatayatu/edit?html,css,js,output
+Andrew   09/27/2015
+anyone who wants to try it, use jQuery to add the src attribute to the image (I know you can literally type in "src" there but lets enjoy jquery)
+Matthew 09/27/2015
+very nice :)
+Andrew   09/27/2015
+oh lemme enhance it with a button mwahah
+Andrew   09/27/2015
+awww yeah
+Andrew   09/27/2015
+on a side note, this JSBin onlin editor seems realtime. Like in Codpen or jsfiddle I'd have to click 'save' then share that new link. For this it seems thee is one link and everyone can realtime alter the code....
+Andrew   09/27/2015
+BONUS: center that button because my feeble attempts have failed hah
+Matthew 09/27/2015
+lol fun stuff
+Andrew   09/27/2015
+whew, was just looking through all the different attributes and methods we have on the Document these days: https://developer.mozilla.org/en-US/docs/Web/API/document
+Andrew   09/27/2015
+as y'all use jQuery more and more keep in mind: underneath it all is good ol' naked JS!
+Andrew   09/27/2015
+open question, just for kicks: what method would you use to find a DIV with the #id of "main"...without JS??
+Andrew   09/27/2015
+OK last question accompanied with some links...then I'm out Blood-moon hunting :)
+Andrew   09/27/2015
+Im on a mac, so I have used two methods of optimizing my images (compressing, different size sets etc).
+1) manually with imageOptim, a free mac app
+Andrew   09/27/2015
+2) using build scripts like Grunt or Gulp (definitely a valuable tool in our field)
+Andrew   09/27/2015
+what methods have you used and, for Windows or Mac users, are there any tools or apps you can recommend?
+Andrew   09/27/2015
+I just googled and found http://optimizilla.com/ and unleash the https://kraken.io/
+Andrew   09/27/2015
+but I havent tried em before...maybe they leave a water mark or something else how can it all be free?
+Have a good nite all, as always don
+Andrew   09/27/2015
+ahem, don't hesitate to post questions and comments. Have a great blood-moon evening!
+Matthew 09/27/2015
+Nice imma play with those
+see ya!
+
+
+###Session
+
+Udacibot   10/03/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   10/04/2015
+#SAD that @Aarti has left the team. We will meet again 😭!
+Udacibot   10/04/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   10/04/2015
+Good luck out there, Aarti. It will all be OK.
+Andrew   10/04/2015
+nice got a few mins...time to warm up a burrito!!!
+Andrew   10/04/2015
+awww yeah, nice warm microwave burrito on this frigid sunday evening (68 degrees! brrrr)
+Andrew   10/04/2015
+Happy October 4th everyone, hope the week went well!
+Andrew   10/04/2015
+Glancing at the cohort sched, most students should be wrassling with object-oriented JS around now, and perhaps Project 3
+Andrew   10/04/2015
+This one was difficult for me, I feel stalled out on it for awhile, to tell the truth. There was a bit of a leap from the course materials to the actual project (a game! wooo!)
+Andrew   10/04/2015
+so as I am parsing images of Wonder Woman (purely for this JS exercise I'm hackin together!) it reminds me of a minor revelation I had this week while watching the Responsive Images course lessons
+Andrew   10/04/2015
+We've all used
+ image1 {
+Andrew   10/04/2015
+ image1 {
+  max-width: 100%;
+}
+Andrew   10/04/2015
+so what does the 100% refer to?
+Andrew   10/04/2015
+It sez that this element's display width is restricted to the size of its parent. In this case its allowed the entire width of whatever element its inside of, right?
+Andrew   10/04/2015
+Now when you resize the viewport, the image will scale down nicely and not bleed out of its parent element.
+Andrew   10/04/2015
+but wait, there is One More Thing...
+Andrew   10/04/2015
+I realized just this week that the image with max-width 100% won't scale beyond its native width...
+Andrew   10/04/2015
+No surprise if you already knew this, but I was like "O Dang"
+http://codepen.io/uncleoptimus/pen/bVqxrQ
+Andrew   10/04/2015
+ughh...codepen is down now :\
+Andrew   10/04/2015
+They launched a redesign a few days ago, anyone cruise it yet? So used to the old look I'm still kinda shocked. Looks like they powered up the search feature tho. Found me a nice paper gradient effect earlier :)
+Andrew   10/04/2015
+OK moved it good ol JSBin
+https://jsbin.com/muvuwoyape/edit?html,css,js,output
+Andrew   10/04/2015
+Just for fun. jQuery Powaaaaa!
+Andrew   10/04/2015
+random fact: a big comic fan told me last friday that Wonder-woman could overpower Superman with her magic rope. *The More You Know*
+Andrew   10/04/2015
+Awrite yall, hope the silence means mucho-progress is being achieved. It got kinda tricky for me though, starting around here. And having to learn Canvas as well!?
+Andrew   10/04/2015
+Well it helps that canvas is mega-cool. If any questions or challenges arise, you know what to do: POAST!
+Andrew   10/04/2015
+Have a terrific and productive week with conducive weather patterns!
+
+
+###Session (sub-session)
+
+Steve 10/07/2015
+Hi Andrew, I am going through the AJAX lesson: Building the Move Planner App. There are two error handling lessons in there. The first one tells you that the .error is within jQuery to be used on the $getJSON function for the NYtimes exercise. I was trying to use the same handling for the $ajax function for the wiki exercise and apparently that doesn't work. According to the lesson, I need to use a settimeout to indicate error for the wiki one. I don't understand why just using .error wouldn't work. Isn't .error part of jQuery and shouldn't matter if the datatype is JSON or JSONP?
+Udacibot   10/08/2015
+#SAD that @Kshitiz has left the team. We will meet again 😭!
+Andrew   10/08/2015
+Good luck Kshitiz, with the rest of the program. I regret not being able to help ya along.
+Andrew   10/08/2015
+@Steve its funny you bring up this lesson from the AJAX course. The first time I took it, I got stuck on the wikipedia JSONP bullshizzle and didn't complete that exercise.
+Andrew   10/08/2015
+Fast forward to now, and its all good...
+Andrew   10/08/2015
+https://jsbin.com/zisuyizuyi/edit?html,css,js,output
+Andrew   10/08/2015
+That was fun. Talk about exorcising your demons!
+Andrew   10/08/2015
+OK so to explain after watching that video again, the two AJAX methods demonstrated differ in one key area: the target API either supports CORS or it does not.
+Andrew   10/08/2015
+http://www.html5rocks.com/en/tutorials/cors/
+Andrew   10/08/2015
+So to be clear to other students, this isn't critical to know until Project 5.
+Andrew   10/08/2015
+Anyways the first demo, NYTimes API, supports this more convenient spec for exchanging resources. We can make the request and data is sent back in some portable format (likely JSON) that our AJAX function can directly act on. The chain of script execution remains in our control, or more accurately within the scope of our AJAX call.
+Andrew   10/08/2015
+I think of the jQuery AJAX method as like one big function that wraps some other functions like "success" and "error" and will call one of those depending on request outcomes.
+Andrew   10/08/2015
+OK the second demo, Wikipedia API, doesn't support CORS but does support JSON-P format.
+Andrew   10/08/2015
+a JSON-P source basically returns some JS wrapper to us that will self-execute to build out the results data. Then it will call whatever callback function we specified, auto-passing the data it just formed.
+Andrew   10/08/2015
+So the difference there is that with JSON-P its no longer executing in the context of our AJAX call...
+Andrew   10/08/2015
+in the case of JSON-P requests, our jQuery AJAX function will finish since the resulting data is delivered outside of its execution context. So, that "error handling" stuff has to be taken care of a different way.
+Andrew   10/08/2015
+Enter setTimeout...in the wiki example, we are explicitly putting some time limit for results to come back. If it doesn't we flash some error message or otherwise gracefully handle this condition. If it DOES return, in our JSONP callback function, we can just erase that Timer object and then happily work with our results.
+Whew!
+Andrew   10/08/2015
+Its pretty twisty stuff. Just explaining left my typing fingers feeling tongue-tied @-@
+Andrew   10/08/2015
+If its not clear, just ask away. If anyone else has some questions OR CLARIFICATIONS IF IM OFF ON SOMETHING, please chime in!
+Matthew 10/08/2015
+There's an Ajax lesson in front end web d?
+Andrew   10/09/2015
+yeah! check your Path...should be listed under Project 5. Using ajax at all in your work projects?
+Udacibot   10/09/2015
+#EXCITED that @Matthew submitted a passing project for P2: Online Resume! Congratulations 🙌!
+Matthew 10/09/2015
+^obv im behind ;)
+Matthew 10/09/2015
+I don't even know what Ajax is lol
+Andrew   10/09/2015
+Hi-5, Matt. Ya dominated that one.
+Andrew   10/09/2015
+Ajax is pretty crucial...its basically the protocol for fetching info from some external service or source. Jquery gives us very convenient helper funcs tho, as jquery likes to do
+Andrew   10/09/2015
+That'll be central to P5...for P3, its gonna be Object-Oriented and hmtl5 Canvas.
+Andrew   10/09/2015
+Ya crack into any of those courses yet? Canvas is pretty bloody awesome
+Matthew 10/09/2015
+No but I'm actually excited to check it out
+Andrew   10/09/2015
+The object oriented stuff is of course centrally impt goin fwd in our careers. The actual course gets mixed reviews tho! Will be curious yalls take on it :p
+Matthew 10/09/2015
+Haha oh great now I'll be critiquing
+Steve 10/09/2015
+@matt just so you know you are not behind, I have not done my 4th project. Nor submitted my p2. I only skipped to Ajax because I was more interested in seeing it
+Steve 10/09/2015
+@andrew hi thank you for the explanation Andrew I understand your explanation. Will try to look at it with this new perspective
+Steve 10/09/2015
+I was not able to finish the Wikipedia exercise either.
+Steve 10/09/2015
+I could not get the links to return back correctly because the API needs me to use openSearch instead of input query
+Steve 10/09/2015
+Even after knowing the answer from reluctantly looking at the solution I looked at the OpenSearch explanation and I know I would not have arrived at the correct conclusion regardless
+Steve 10/09/2015
+Which kind of concern me because in the real world in my job I will not be able to have a solution presented to me I am wondering how people deal with API that often times does not sufficiently explained its usage
+Steve 10/09/2015
+Thoughts from your expertise?
+Andrew   10/09/2015
+I dunno about 'expertise' , but trial-and-error and forehead-meet-desk? Plenty of that!
+Andrew   10/09/2015
+So two points here: using ajax looks and will feel really weird when you first start with it. Its got a bunch of configurations and you are like "what does this mean....what does that mean...". Not to mention that dealing with the actual results *will* be a challenge as you grapple with the reality asynchronicity.
+Andrew   10/09/2015
+Second: every API will work depending on the whims of whatever backend engineer designed it. Quite frankly, sometimes its just a bear getting a handle of *how* a certain service wants you to format your request url. It often has to be VERY EXACT or no cheddat.
+Andrew   10/09/2015
+*cheddar. I'm thinkin cheese. super hungry today. Anyway.
+Andrew   10/09/2015
+My point is that you'll get more comfy with ajax requests and async coding as you do it. Project 5 will FORCE you to get a certain degree of comfort :p
+Andrew   10/09/2015
+As for feeling lost dealing with an API, remember that when I first encountered that exercise I couldn't get it to work either. Some APIs are gonna be a douche to work with. JSONP access doesn't help matters either! Even for the most seasoned developer, if you give them a badly documented API service to deal with you can bet they'll be dropping curses left n right!
+
+
+###Session
+
+Udacibot   10/10/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   10/11/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   10/11/2015
+heyo everyone!
+Hope its been a good week!
+Andrew   10/11/2015
+had a nice local JavaScript-related meetup this weekend, saturday and today
+Andrew   10/11/2015
+the event was the Meteor Hackathon 2015, and even though there weren't that many participants at the event, there were enough to form teams of 3
+Andrew   10/11/2015
+OK, I dug up the link with the event description: http://meteor-2015.devpost.com/
+Andrew   10/11/2015
+and actually that reminds me: I need to actually submit my team's project @-@
+Andrew   10/11/2015
+Has anyone ever done a hackathon type event?
+Andrew   10/11/2015
+this was my first...and man I got lucky to be teamed with a professional dude, I learned a *ton* about project organization
+Andrew   10/11/2015
+whoah, kinda sleepy with all the coding...hope yall come in with plen-ty to chat about! :p
+Andrew   10/11/2015
+So I'm listening to the Object-Oriented JS lessons in the background...
+Andrew   10/11/2015
+side note: the instructor is a founder of Hack Reactor, one of those coding bootcamps. I actually get quite a bit of mail from them. I've chatted with Steve about bootcamps like these, and actually half of the folks who showed to saturday's Meetup event were recent grads of General Assembly (yup another bootcamp)
+Andrew   10/11/2015
+Has anybody else attended one or is considering it? One of the selling-pts is a supposedly easier path to land the First Dev Job
+Andrew   10/11/2015
+anyways, its nice of this instructor to help out with videos at udacity. Especially since I kinda seem them as competitors in a sense
+Andrew   10/11/2015
+currently listening to talk about 'Scopes' in JS
+Andrew   10/11/2015
+OK, so Scopes define where we have access to our variables and data
+Andrew   10/11/2015
+in JS, this notion of Scope is basically controlled through functions...context (ie the keyword "this" and variable access) is based on the function that is being executed...
+Andrew   10/11/2015
+and this ties neatly into a super-key concept: Closures
+oh, get used to hearing that term!
+Andrew   10/11/2015
+random thought: as I am reviewing these lessons I see they keep using this notion of "enclosing" colored boxes to illustrate enclosing function scopes
+Andrew   10/11/2015
+...and it keep making me think of CSS and centering elements :p
+Andrew   10/11/2015
+*sigh* the lesson is a bit abstract for me, this talk of 'sagas' ...
+Andrew   10/11/2015
+a big deal with this function scope thing, in plainer language, is that it lets you retain data in a private execution context.
+Andrew   10/11/2015
+what that means: say you create a function object that inside declares a variable "foo"
+Andrew   10/11/2015
+...yup, I am also so unimaginative I use "foo" as an example
+Andrew   10/11/2015
+anwyays, even if back in the global scope you declare some separate "foo" variable, when you execute your function the value of "foo" that it uses will be the one it declared itself, safely tucked away in its enclosing function scope
+Andrew   10/11/2015
+This is great for sharing code and reusing code!
+Andrew   10/11/2015
+If we have our values nestled away in a function closure we will always have access to their values when executing the function...it doesn't matter if 10 other functions in your app also use the same variable names within their definition.
+Andrew   10/11/2015
+This idea is at the core of "not polluting the global scope"... basically doing your best to not declare your values within the global/browser-window context because who knows if you will be overwriting a value some other piece of code declared? Or...if someone else's globally-declared variable overwrites something important that you set!
+Andrew   10/11/2015
+ahhh....the next lesson is on the keyword "this". Volumes have been written on "this".
+Andrew   10/11/2015
+if you have not already, you *will* be typing and referring to "this" a whoooole lot going forward. Like, all the time.
+Andrew   10/11/2015
+http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+Andrew   10/11/2015
+The explanation given in that link stands out to me
+Andrew   10/11/2015
+Awrite yall, no problemos this Sunday either, eh?
+Andrew   10/11/2015
+@Daniel, @Joshua, @Clifton, @Yui, fellows I hope the learning is going well! Bumps in the road and all. If there is anything I can do to help, just lemme know.
+Andrew   10/11/2015
+It could very well be going smoothly, but just in case, I know first hand how quickly momentum can dissipate
+Andrew   10/11/2015
+Have a rad week everyone!
+
+
+###Session
+
+Udacibot   10/14/2015
+#SAD that @Steve has left the team. We will meet again 😭!
+Andrew   10/16/2015
+whoah what happened to Steve!? He was working btwn P4 and P5
+Udacibot   10/17/2015
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   10/18/2015
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   10/18/2015
+wooo
+Andrew   10/18/2015
+right on time...just got my nice steamy cup o decaf
+Andrew   10/18/2015
+So Steve is on hiatus due to work, best of luck to him and hope he chooses to finish at a later time
+Andrew   10/18/2015
+I hope its been a productive week for all! I've been busy on a couple of open-source projects I recently joined
+Andrew   10/18/2015
+One of those is the lil app from the Meteor hackathon event last week.
+BOOM link: http://devpost.com/software/theinterview
+Andrew   10/18/2015
+it was conceived as a more mobile friendly riff on a FEND colleague's project..
+Andrew   10/18/2015
+cool, found her github link: https://github.com/cch5ng/angular_front_end_interview
+Andrew   10/18/2015
+the premise is basically to help fresh grads prepare for their first front-end interviews
+Andrew   10/18/2015
+fellow devs, if there are any topics of note, questions from the week's study or observations on stuff ya learned...please Sound Off :)
+Andrew   10/18/2015
+as an aside, I had/am having an interesting forum discussion
+here is the link to it: https://discussions.udacity.com/t/a-direction-please/13803/20
+Andrew   10/18/2015
+the backdrop is students expressing frustration with Project 3, specifically feeling grossly underprepared for even getting started
+Andrew   10/18/2015
+I find myself agreeing with a lot of it actually.
+However the issue that I think needs better communication is that the most important skill the program can teach those of us new to this field...
+Andrew   10/18/2015
+..is self-sufficiency.
+Andrew   10/18/2015
+And THAT is achieved by learning how to think like a developer. How to approach problems. How to break problems down and employ the parts you already know while identifying what you need to learn. How to find those answers, how to test and try different approaches.
+Andrew   10/18/2015
+Its not easy, it can feel painful, it can feel like a slog. I've have all those feelings, myself and still do.
+Andrew   10/18/2015
+My thinking is that the value of the program is providing a framework to fail in. A structure where, if you get lost, you can always find some way to point you back to the path.
+Andrew   10/18/2015
+Its expected for us to get frustrated and stumped, to need to ask for help sometimes. My colleagues tell me "Get used to that feeling, it will happen on the job. Get used to being tasked to solve unfamiliar problems and to know to ask for help if you get stuck."
+Andrew   10/18/2015
+I don't know how well Udacity is communicating that aspect of the program, learning to think like a developer. Project 3 apparently felt unfair to a bunch of students after the relative smooth ride of the first two. I wonder if there is a way to frame this phase of the front-end program to kind of mentally gird students for what will be required.
+Andrew   10/18/2015
+At the same time there are some changes Udacity can make that can help immediately...like putting more explanatory material perhaps in the instructors notes.
+Andrew   10/18/2015
+Anyyywayyyys
+Andrew   10/18/2015
+I'm going to need to brush up on HTML5 Canvas
+Andrew   10/18/2015
+Has anyone taken the course yet?
+Andrew   10/18/2015
+Based on the examples taught, does it give you at least a good inkling how you'd draw a sprite object (like Frogger or Mario) to the screen?
+Andrew   10/18/2015
+BTW theres this cool conference coming up....allll about CSS
+http://2015.cssdevconf.com/
+Andrew   10/18/2015
+I am hoping to be accepted as a volunteer for it (since, TBH, the tickets are way above what I can afford right now!)
+Andrew   10/18/2015
+Awrite, time to check out for the evening...and check IN to writing test cases. Ohoho, test cases. Something for yall to look forward to in Project 6.
+Andrew   10/18/2015
+I hope the upcoming week is a great one! As always, don't hesitate to drop questions or comments in here or hey at my email (uncle.optimusATgmail)
+Andrew   10/18/2015
+If you got any exercises or want to try some live-coding hangouts, make your interest known.
+:)
+
+
+###Session
+
+Udacibot   Last Tuesday at 9:30 AM
+#EXCITED that @Joshua submitted a passing project for P0: About Me! Congratulations 🙌!
+Udacibot   Last Wednesday at 10:27 AM
+#EXCITED that @Joshua submitted a passing project for P1: Build a Portfolio Site! Congratulations 🙌!
+Udacibot   Last Friday at 3:52 AM
+#EXCITED that @Daniel submitted a passing project for P3: Classic Arcade Game Clone! Congratulations 🙌!
+Udacibot   Yesterday at 7:30 PM
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   Today at 6:30 PM
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   Today at 7:33 PM
+Hi-5s @Daniel and @Joshua
+good evening all!
+Andrew   Today at 7:34 PM
+some slow internet issues at starbux today...hopefully doesn't haunt me all nite
+Andrew   Today at 7:34 PM
+awrite, I'll grab a coffee real qui
+Andrew   Today at 7:36 PM
+swt, got my decaffiene fix
+Andrew   Today at 7:37 PM
+So its sunday evening, impeccable weather in Southern California today
+Andrew   Today at 7:37 PM
+Im pretty excited about the next few days...
+Andrew   Today at 7:37 PM
+http://2015.cssdevconf.com/ is going on in my backyard
+Andrew   Today at 7:38 PM
+Everyone familiar with CSS Tricks? That sites founder, Chris Coyier is one of the pros who will be here and it would be awesome to meet him
+Andrew   Today at 7:39 PM
+I'm volunteering so half the time will be busy with whatever it is conference volunteers do...
+Andrew   Today at 7:39 PM
+but when I'm off I hope to catch as many talks as I can
+Andrew   Today at 7:42 PM
+so, hopefully there will be some good discussion today...I see Daniel has passed P3, if you have any useful insights please share
+Andrew   Today at 7:53 PM
+I really need to brush up on canvas again...I'm checking my bookmarks for some solid ones I filed away
+Andrew   Today at 8:01 PM
+bah, I didn't bookmark all them I remembered...had to go check my ol' github repo README
+Andrew   Today at 8:04 PM
+here is a straightforward simple game tutorial: http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
+Andrew   Today at 8:06 PM
+its game engine is different of course from the Udacity project but reading the article was a nice hi-level view of the basic steps a game app needs to take
+Andrew   Today at 8:09 PM
+It also covers some of the low-level stuff that the starter project code already handles for us.
+Andrew   Today at 8:12 PM
+For example, loading in images...
+ var bgImage = new Image();
+bgImage.onload = function () {
+	bgReady = true;
+};
+bgImage.src = "images/background.png";
+Andrew   Today at 8:12 PM
+1) create a new Image object; 2) assign the image's onload property to be a simple function
+Andrew   Today at 8:13 PM
+That function basically sets some boolean value that will tell the game "engine" that the image file has been loaded into memory
+Andrew   Today at 8:14 PM
+3) set the *src* property of the Image object...and that looks pretty familiar, right? Just a url to the image file resource in our project's directory...
+Andrew   Today at 8:16 PM
+But how is this image object transferred to the screen?
+Andrew   Today at 8:18 PM
+Once we have our Canvas DOM element and render context setup (basically a reference to that element to 'draw' into) its quite straightforward:
+ ctx.drawImage(heroImage, hero.x, hero.y);
+Andrew   Today at 8:20 PM
+There are some interesting things to notice here...
+Andrew   Today at 8:21 PM
+a) the tutorial author is expressing this draw call with two separate (but related) objects
+Andrew   Today at 8:21 PM
+b) the *heroImage* is just an Image object, created in the same way noted above...
+Andrew   Today at 8:22 PM
+c) *hero* is its own object created to hold specific properties, specifically position info
+Andrew   Today at 8:22 PM
+d) compare this to the starter code in the Udacity project...
+Andrew   Today at 8:26 PM
+the way we organize the *player* object is a bit different; because the reference to the image file is so closely related to the *player* object itself, we encapsulate that as part of the larger object. The actual image url reference becomes just another property on our *player*
+Andrew   Today at 8:31 PM
+If you inspect the tutorial code another interesting choice the author made is to handle Update and Render of game objects all in one function.
+Andrew   Today at 8:31 PM
+You can see that we are encouraged to give each game object class (ie Player, Enemy) its own separate render and update functions.
+Andrew   Today at 8:32 PM
+Which was is "better"?
+Andrew   Today at 8:36 PM
+Honestly, for relatively simple games like these I don't think there is a "best". The updates we are making in these cases are super-complex and we only have two types of game objects (Player/Hero and Enemy)
+Andrew   Today at 8:37 PM
+For a more complex game however? I am no game developer (unless its a frogger clone) but I feel like separating those definitions makes more sense from a *code development/maintenance* standpoint. Especially if working with a team, then different team members can handle the coding and testing of separate object classes
+Andrew   Today at 8:38 PM
+If anyone has some counter points to that, I would love to hear em tho!
+Andrew   Today at 8:39 PM
+Here is a second link to a tutorial that I found extremely useful: http://joshondesign.com/p/books/canvasdeepdive/toc.html
+Andrew   Today at 8:39 PM
+Love the way its divided into more and more complex sections, with interactive segments each step of the way
+Andrew   Today at 8:40 PM
+I won't dive too deep into this one tonight but can talk more about it during the week or next session.
+Andrew   Today at 8:40 PM
+I'll say I based the bit of sprite animation in my project off what i learned in this tutorial however!
+Andrew   Today at 8:41 PM
+Alright, as always hope the one-man discussion proves useful to someone at some point :)
+Andrew   Today at 8:41 PM
+Man I am psyched about this CSS DevConf...gotta sleep earlier!
+Andrew   Today at 8:42 PM
+Fun fact: the conference is held on a WWII era cruise ship that now operates as floating hotel and venue.
+Andrew   Today at 8:42 PM
+Because its late October, outside the ship they have set up a massive Halloween haunted themepark...with scare mazes that extend into the belly of the old ship itself.
+Andrew   Today at 8:43 PM
+The real kicker? The ship is famously said to be haunted by actual ghosts.... @-@
+Andrew   Today at 8:43 PM
+Anyways, everyone have a wonderful and productive week and hope you have a frightfully fun halloween!
+Daniel Today at 8:49 PM
+Hey Andrew and team, gosh I keep missing the chat window – so instead I read a huge slug of the messages, like now!
+Daniel Today at 8:50 PM
+Hope you have fun at the CSS DevConf Andrew! Do tell us what it's like!
