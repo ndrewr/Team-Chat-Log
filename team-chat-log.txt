@@ -3212,3 +3212,230 @@ Daniel Today at 8:49 PM
 Hey Andrew and team, gosh I keep missing the chat window – so instead I read a huge slug of the messages, like now!
 Daniel Today at 8:50 PM
 Hope you have fun at the CSS DevConf Andrew! Do tell us what it's like!
+
+
+###Session
+
+Andrew   Today at 12:16 PM
+G'afternoon all! Friendly reminder, JIC: Daylite Savings Time today. Fall....backkkkkk
+Udacibot   Today at 5:30 PM
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Daniel Today at 7:19 PM
+I like that - Research Approach!
+Well I think my RA is definitely unfortunately more of the trial and error type at the moment. I've started reading a bit of JavaScript: the definitive guide. Trying to get some basics locked in before trying to figure out newer stuff a la ES6. And I'm gonna need to add some extras to my P3 at some point too!
+Andrew   Today at 7:28 PM
+woot! checkin in! No coffee....coconut juice 2nite
+Andrew   Today at 7:29 PM
+@Daniel, I have been slowly digesting ES6 JS over the last few months.
+Andrew   Today at 7:30 PM
+Honestly, you got the right idea...I don't feel like there is any rush to master the ES6 powers but its super nice that its easy to work with thanks to ES6=>ES5 transpilers
+Andrew   Today at 7:31 PM
+For anyone else thats like "whats ES6" it is the latest stable version of JavaScript that introduces some nice new features...but ultimately, it compiles down to what we are using now, ES5 JavaScript
+Andrew   Today at 7:32 PM
+any aspects of JavaScript that you are studying now that you'd like to hash out?
+Andrew   Today at 7:34 PM
+BTW, would love to see your project. I am rather of your Designer SuperPowers. I got difficulty just choosing three colors that don't equal *blechh*
+Andrew   Today at 7:36 PM
+@everybody, what is the turn-in date for Project 3. I am wondering if its approaching giri-giri time (Japanese for nervous-time)
+Andrew   Today at 7:44 PM
+so I just got lost googling "game sprite art generator"
+Andrew   Today at 7:44 PM
+big old row o tabs open in my chrome now..
+Andrew   Today at 7:45 PM
+makes me reflect on how much time I spent for P3 just googling for game assets and thinking "mwahahah. Legend of Zelda, eat yo heart out!"
+Andrew   Today at 7:46 PM
+in the end I just did a fairly boring version of Frogger...with like one extra hero sprite :p
+Andrew   Today at 7:52 PM
+ok this one is massive...I almost hesitate to post this cuz it might turn into a time sink:
+http://opengameart.org
+Andrew   Today at 7:53 PM
+Bonus points: that site's favicon looks A LOT like a character from one of my fave games back in the day.
+Andrew   Today at 7:55 PM
+Annnnywayyys. If there are any questions or issues..
+..or observations..
+Andrew   Today at 7:55 PM
+..or like youtube links to hamsters eating tiny burritos, don't hesitate to poast
+Andrew   Today at 7:56 PM
+I do have a topic in mind otherwise...Moar Game Engines, Part 2.
+Andrew   Today at 7:57 PM
+Specifically, doing a bit of a teardown of P3's game engine. Reading thru that provided code did *wonders* to get me kickstarted on the project
+Andrew   Today at 8:00 PM
+ok I'm getting side-tracked for a sec...was searching the Udacity site for a cohort timeline and then...
+I get sidetracked by something shiny.
+Andrew   Today at 8:02 PM
+In this case its the animating card flip on Udacity's Nanodegree page.
+Check it out: https://www.udacity.com/nanodegree
+Andrew   Today at 8:02 PM
+Fun fact: a guy from my cohort who got *hired by Udacity* as a Jr front-end guy made that!
+Andrew   Today at 8:03 PM
+About that card flip effect itself I must say I am mighty curious to reproduce it...
+Andrew   Today at 8:05 PM
+But I digress! There is a mission to be mished. Grokking the Game Engine...is GO
+Andrew   Today at 8:08 PM
+Heres the reference point, the P3 starter repo file *engine.js*:
+https://github.com/udacity/frontend-nanodegree-arcade-game/blob/master/js/engine.js
+Andrew   Today at 8:10 PM
+It's quite well documented. But right off the bat there is some JS I found fascinating:
+Andrew   Today at 8:12 PM
+ var Engine = (function(global) {
+    /* Engine.js code */
+})(this);
+Andrew   Today at 8:13 PM
+The whole of Engine.js is essentially wrapped in a big ol' function...that is then immediately invoked.
+Andrew   Today at 8:16 PM
+This pattern you will see quite a bit going forward, I guarantee. Its called "IIFE" or "Immediately-Invoked Function Expression" and devs do that to sort of enforce scope. In JS, recall we don't have such a thing as "private variables".
+Andrew   Today at 8:17 PM
+Instead we have the Almighty Function Scope! That is, an invoked function can act as private container of property values and methods... (bonus question: name the key JS principle in play here!)
+Andrew   Today at 8:19 PM
+So "Engine" is a globally available object that encapsulates the functionality defined within. Thus anything its doing "under-the-hood" (yay pun) will not clash with other code running in your app. If another part of the code needs Engine for something it can interface thru this one globally available var.
+Andrew   Today at 8:21 PM
+Notice also how it is passing in "this" as a parameter? That is to ensure that references to "global" inside Engine's code is properly bound to the global scope.
+Andrew   Today at 8:22 PM
+OK now we have identified the big ol' machine, Engine. Lets take a look at some of its important "parts"
+Andrew   Today at 8:23 PM
+ function main() {
+        var now = Date.now(),
+            dt = (now - lastTime) / 1000.0;
+
+        update(dt);
+        render();
+
+        lastTime = now;
+
+        /* Use the browser's requestAnimationFrame function to call this
+         * function again as soon as the browser is able to draw another frame.
+         */
+        win.requestAnimationFrame(main);
+    }
+Andrew   Today at 8:24 PM
+So I cut out most of the comments for brevity. I encourage anyone to take another look in the repo tho.
+Andrew   Today at 8:29 PM
+Main is the game loop. Notice that last line: its basically calling itself as part of the requestAnimationFrame routine. That routine is what allows us to smoothly animate action on the screen...every chance it gets, the browser can be sent data to assemble and "paint" to screen.
+Andrew   Today at 8:31 PM
+I was curious about the call to Date()...it turns out this is for normalizing animation frames between different systems. And by "different systems" I literally mean that without this "dt" our game would run differently (faster or slower) depending on hardware! After all, there are probably a thousand and 1 different computer hardware loadouts... at least!
+Daniel Today at 8:34 PM
+Thanks for that Andrew 
+Lots to read!
+Andrew   Today at 8:35 PM
+Finally in this block, notice the calls to engine's own "update" and "render" functions. These are made every animation frame and this is how the game state is updated over time. Lets move into the "update" function itself to see whats goin on...
+OMG A HUMAN BEING
+Andrew   Today at 8:36 PM
+waddup Daniel, must be around lunchtime in Oz :)
+Andrew   Today at 8:37 PM
+If you have anything to add, ask or correct, please just punch in!
+Andrew   Today at 8:39 PM
+Awrite so about "Update"
+ function update(dt) {
+        updateEntities(dt);
+        // checkCollisions();
+  }
+Andrew   Today at 8:39 PM
+short and sweet. (Again there are copious comments in the actual repo!)
+Andrew   Today at 8:40 PM
+Its going to call a couple functions to calculate the latest game state...lets check out "updateEntities"
+Andrew   Today at 8:41 PM
+ function updateEntities(dt) {
+        allEnemies.forEach(function(enemy) {
+            enemy.update(dt);
+        });
+        player.update();
+    }
+Andrew   Today at 8:41 PM
+Oho! There we go....starting to look awfully familiar.
+Andrew   Today at 8:42 PM
+This function is referencing two globals "allEnemies" and "player". Just by their names its clear what we are referring to: the objects that we ourselves instantiated in our app.js code!
+Andrew   Today at 8:43 PM
+allEnemies, recall, is an array of Enemy objects...so we will use forEach to systematically update each of those Bugz
+Andrew   Today at 8:44 PM
+Player will just call its update function (that we defined back in app.js)
+Andrew   Today at 8:47 PM
+What will the respective "update" calls do? They will be calculating new positions for these onscreen objects. NOTE: "Player" works different from "Enemy"...it responds to User input while Enemy just moves according to time. So "Player" update may be performing other tasks.
+Andrew   Today at 8:48 PM
+So now we see how Engine is directly calling upon other objects we have created, pulling them into the game loop.
+Andrew   Today at 8:48 PM
+Lets rewind a bit to look at that "render" call from Engine's "update" function..
+Andrew   Today at 8:50 PM
+ function render() {
+        /* This array holds the relative URL to the image used
+         * for that particular row of the game level.
+         */
+        var rowImages = [
+                'images/water-block.png',   // Top row is water
+                'images/stone-block.png',   // Row 1 of 3 of stone
+       ... // MOAR IMAGES
+            ],
+            numRows = 6,
+            numCols = 5,
+            row, col;
+
+        for (row = 0; row < numRows; row++) {
+            for (col = 0; col < numCols; col++) {
+                ctx.drawImage(Resources.get(rowImages[row]), col * 101, row * 83);
+            }
+        }
+        renderEntities();
+    }
+Andrew   Today at 8:51 PM
+Grokking this function was like a real light-bulb moment for me. It illustrates how image files in our projects assets folder get put on screen.
+Andrew   Today at 8:52 PM
+What it first does is literally make a reference to url of the background image tile. Each row of this array is some type of background terrain.
+Andrew   Today at 8:54 PM
+The loop that follows then draws to Canvas one of these background tiles for x number of columns... (bonus: if you wanted to layout a BIGGER level, how would you do it?). Boom boom boom. And just like that the game "world" is laid out!
+Andrew   Today at 8:55 PM
+Then check out that last line...renderEntities. Good guess whats gonna happen there, right? ;)
+Andrew   Today at 8:55 PM
+ function renderEntities() {
+        allEnemies.forEach(function(enemy) {
+            enemy.render();
+        });
+        player.render();
+    }
+Andrew   Today at 8:56 PM
+Looks mighty familiar doesnt it? Its literally calling the "render" functions we defined in our app.js
+Andrew   Today at 8:57 PM
+And what do our "render" functions look like? Yup, basically this:
+Andrew   Today at 8:57 PM
+ Enemy.prototype.render = function() {
+    ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
+};
+Andrew   Today at 9:00 PM
+JUST LIKE drawing the level. Here we can also see the separation of concerns...Engine is drawing the background level/gameWorld itself. But it defers the drawing of the Player and Enemy to a separate object...it doesn't care what Player or Enemies its drawing. It only cares that it has a "render" (and "update") function and things will WORK
+Andrew   Today at 9:02 PM
+There are a few more functions after this in Engine.js that handle the game state (starting off the game, restarting etc).
+Andrew   Today at 9:02 PM
+One last thing in here I wanted to point out is:
+Andrew   Today at 9:02 PM
+ global.ctx = ctx;
+Andrew   Today at 9:04 PM
+whats going on there? "global", if you check back to earlier in this discussion, is a literal reference to our global scope. Engine is attaching this property to be available to any other modules of code that are running in our app.
+Andrew   Today at 9:04 PM
+The property itself is the HTML5 Canvas context, a kinda reference to our Canvas DOM element in index.html
+Andrew   Today at 9:05 PM
+Looking in your app.js code, you noticed in the "render" functions how they refer to "ctx"?
+Andrew   Today at 9:05 PM
+Now we know where it was created and why we have access to it. Cool, huh?
+Andrew   Today at 9:07 PM
+This is the benefit of well-structured code. So much easier to reason how things work together. I remember my first webapp thing using jQuery. It truly was (is) quite a branchy mess.
+Andrew   Today at 9:08 PM
+I mean it works! ...but I have no motivation to work within that thing again :p
+Andrew   Today at 9:10 PM
+Alright, @everyone, I hope everything is going well. Do update me with your progress if you get the chance!
+Andrew   Today at 9:12 PM
+hat-tip to @Daniel, will be moving into Project 4 talk very soon. Maybe next week? Yay, performance optimizationz!!! (its not as boring as it might sound!)
+A couple points!
+Andrew   Today at 9:13 PM
+ONE: the time thing at the left may be acting buggy...it should be fixed to reflect the normal time soon.
+Andrew   Today at 9:13 PM
+sidenote: not a big fan of this daylite savings time. It got awful dark, awful fast today
+Andrew   Today at 9:14 PM
+TWO: as I mentioned last week I've got the past team chats posted in a github repo:
+Andrew   Today at 9:14 PM
+https://github.com/uncleoptimus/Team-Chat-Log/blob/master/team-chat-log.txt
+Andrew   Today at 9:14 PM
+It is LITERALLY a text file. A really log one, hahah
+Andrew   Today at 9:15 PM
+I aim to keep it updated after each session just in case there is stuff in there we want to check out or RELIVE...without all the scrolling up!
+Andrew   Today at 9:16 PM
+Hopefully in the near future, Udacity will offer some slick tools for this kind of information review.
+Andrew   Today at 9:18 PM
+Have an epic week everyone! If you got topics you want to discuss or other questions, BOOM right here. Or a direct line: uncle.optimusATgmail
