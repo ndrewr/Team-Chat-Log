@@ -3439,3 +3439,174 @@ Andrew   Today at 9:16 PM
 Hopefully in the near future, Udacity will offer some slick tools for this kind of information review.
 Andrew   Today at 9:18 PM
 Have an epic week everyone! If you got topics you want to discuss or other questions, BOOM right here. Or a direct line: uncle.optimusATgmail
+
+
+###Session
+
+Andrew   11/05/2015
+Happy Thursday everyone. So the time thing is not going to change I am guessing
+Andrew   11/05/2015
+Is it a problem for anybody to continue meeting at 730pm UTC-8/PST
+Andrew   11/05/2015
+If even a couple folks would rather do 630pm UTC-8 (what the team box thing on the left currently says) just let it be known. And we will make it so.
+Andrew   11/05/2015
+Otherwise, keep cruising with the OG time.
+Andrew   11/05/2015
+How is the front-end knowledge acquisition process going???
+Udacibot   Last Saturday at 6:30 PM
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   Last Sunday at 5:30 PM
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   Last Sunday at 7:21 PM
+woot!
+Andrew   Last Sunday at 7:22 PM
+comin to you from a starbucks on a frigid sunday evening (65 degrees F brrrrr)
+Andrew   Last Sunday at 7:23 PM
+usually go decaf in the evenings...but today think I gotta caffeinate...
+Andrew   Last Sunday at 7:32 PM
+alrite, beverage in hand
+Andrew   Last Sunday at 7:34 PM
+sometimes we all need a lil chemical fortification☕
+Andrew   Last Sunday at 7:35 PM
+Hope I get some company tonite! Was able to dig up the Cohort schedule(s) and I *think* yall are July's group...which means P3 submission would be....last week :\
+Andrew   Last Sunday at 7:36 PM
+If yall count as August, you have til beginning December
+Andrew   Last Sunday at 7:37 PM
+Either way, if there are any questions...ahem ANY questions about it, let us know eh?
+Andrew   Last Sunday at 7:38 PM
+Could also email me if the timeline is getting tight and we could arrange a time to dive into any particular code issues👍
+Andrew   Last Sunday at 7:41 PM
+https://discussions.udacity.com/t/week-by-week-timeline-to-stay-on-track/21788/7
+Andrew   Last Sunday at 7:41 PM
+Boom, cohort timeline link for convenience
+Andrew   Last Sunday at 7:46 PM
+Well in the meanwhile, we move on to Website Performance Optimization and Browser Rendering Optimization
+Andrew   Last Sunday at 7:47 PM
+you guys are lucky! Back in the Old Days of...February...we didn't have the fancy Browser Rendering course :)
+Andrew   Last Sunday at 7:48 PM
+I helped test drive it a bit prior to its launch in the Spring so I sped through most of that material...been meaning to go back to it and this is the *perfect opportunity*
+Andrew   Last Sunday at 7:49 PM
+I'll be taking that course myself in earnest over the next week or two.
+Andrew   Last Sunday at 7:50 PM
+Hopefully you guys are around there too, and we can grok this stuff together✊
+Andrew   Last Sunday at 7:51 PM
+But for the time being, lets discuss some of those key topics covered in Website Perf
+Andrew   Last Sunday at 7:53 PM
+Its kinda funny looking back on this section of the program...
+Andrew   Last Sunday at 7:54 PM
+Object-Oriented JS and Project 3 in particular were a great challenge for me, but I was mega-hyped to tackle it from the start.
+Andrew   Last Sunday at 7:54 PM
+After all we are leveling-up our JS, building a full-on running app, a live *game* no less!
+Andrew   Last Sunday at 7:55 PM
+The appeal is right in front of your face, perhaps running for its life from giant soul-crushing ladybugs
+Andrew   Last Sunday at 7:56 PM
+Then, Project 3 is completed, submitted and we turn our attention to....making our webpages load a bit faster
+Andrew   Last Sunday at 7:56 PM
+*yaaaaaaaaawwn*
+Andrew   Last Sunday at 7:56 PM
+was pretty much my initial reaction.
+Andrew   Last Sunday at 7:58 PM
+But it turns out that seconds (and milliseconds) DO matter...
+Andrew   Last Sunday at 8:00 PM
+https://blog.kissmetrics.com/loading-time
+Andrew   Last Sunday at 8:01 PM
+https://www.webworksofkc.com/blog/a-fast-loading-website-is-important-to-rank-highly-in-google-search-results/
+Andrew   Last Sunday at 8:02 PM
+those links highlight more of the commerce-oriented reasons. And btw, I was surprised to learn that load time factors into pagerank
+Andrew   Last Sunday at 8:04 PM
+However, its probably a safe bet that we have all endured some uncomfortable wait time while visiting fave websites, especially on our phones
+Andrew   Last Sunday at 8:06 PM
+Whether its from concern for maximizing the bottom line or for maximizing our User's enjoyment, we *should* be learning how to put a bit of due diligence into the performance of our sites.
+Andrew   Last Sunday at 8:07 PM
+Thats all well and good, but it doesn't make studying up on this stuff and going through the process of testing any more engrossing, right?
+Andrew   Last Sunday at 8:08 PM
+But it turns out that once I actually got into it, unexpectedly the subject became legitimately fascinating @-@
+Andrew   Last Sunday at 8:12 PM
+There were a couple reasons for this:
+Andrew   Last Sunday at 8:14 PM
+1) it was really cool being able to finally conceptualize how the project directories we are creating are transported to another terminal in the world, piece by piece then assembled on the spot and ultimately painted into existence before the eyeballs of some lucky User.
+Andrew   Last Sunday at 8:16 PM
+It reinforced the notion that there are rules being followed, an order to the raging flow of data, a method to the madness if you will
+Andrew   Last Sunday at 8:18 PM
+2) You will get 10 times better at using DevTools.
+Andrew   Last Sunday at 8:18 PM
+Guys I was freaked the heck out the first few times I fired up Chrome devtools
+Andrew   Last Sunday at 8:20 PM
+Over time, I got decently comfortable with the element+style inspector but the other tabs? Fuhgeddaboutit! All those graphs, the cryptic colors and labels...OVERWHELMAGE 😨
+Andrew   Last Sunday at 8:22 PM
+The courses will lead you through the meat of performance profiling, and I combined that with a few links I googled up to start building an understanding of the event flow.
+Andrew   Last Sunday at 8:23 PM
+Cuz fundamentally, for everything that goes (and goes wrong!) on the page has some cause-effect relationship at its root.
+Andrew   Last Sunday at 8:25 PM
+Devtools does A WHOLE LOT to identify those possibly problematic relationships and you WILL get to a point not so far into the course materials where you can read what is going on through those charts and colors.
+Andrew   Last Sunday at 8:27 PM
+Lets jump forward a bit to glance at Project 4...
+Andrew   Last Sunday at 8:29 PM
+P4 is broken down into two major parts.
+Andrew   Last Sunday at 8:30 PM
+Part 1 concentrates on pure page-load performance, leveraging understanding of the major factors behind page load and what we as developers can control.
+Andrew   Last Sunday at 8:31 PM
+Several really cool tools and techniques will be introduced and its a good chance those will stay in your toolbox going forward.
+Andrew   Last Sunday at 8:34 PM
+Part 2 focuses on using the measuring facilities of devTools to improve page-*use* performance. This will entail plenty of JavaScript code optimizations! Its meant to test your understanding of what events in code trigger browser performance issues.
+Andrew   Last Sunday at 8:34 PM
+Lots of attention paid to Frames-Per-Second perf...When you finish this, you will feel pretty badass, I promise :)
+Andrew   Last Sunday at 8:37 PM
+Over the next week or two, barring discussion on other topics, I figure its a great time to discuss the Big Points of page render and maybe a workflow for using dev tools to measure a popular web page or two
+Andrew   Last Sunday at 8:39 PM
+Meanwhile I'll try to start Browser Rendering Optimization in order to keep up with anyone taking that course currently🚴
+Andrew   Last Sunday at 8:40 PM
+Been busy lately, just started a freelance project, working with an acquaintance I made at the CSS Dev Conference last week.
+Andrew   Last Sunday at 8:42 PM
+The task is to rebuild an existing desktop-formatted site for an annual convention organizer into something more modern (multiple device layouts, more modern stylings, no tables for layout, etc)
+Andrew   Last Sunday at 8:43 PM
+@Daniel a couple weeks ago asked me to share how the experience went...
+Andrew   Last Sunday at 8:44 PM
+TLDR; it was a bit of a mixed bag, not at all in a bad way. I didn't get much out of the actual seminars/talks, but I greatly appreciated the social and networking aspects
+Andrew   Last Sunday at 8:45 PM
+Perhaps because I was a volunteer constantly running around the (haunted) ship that served as the venue, I didn't really get to settle in and digest the seminar content.
+Andrew   Last Sunday at 8:46 PM
+There were certainly topics that caught my eye tho, especially those relating to project organization and best practices in general. One of my great worries and weaknesses is project/code organization, and working well with others :p
+Andrew   Last Sunday at 8:48 PM
+when I land my first gig at whatever startup or small company, if I do anyway, I expect it will be quite a shock *having to collaborate neatly with other devs*
+Andrew   Last Sunday at 8:52 PM
+The closing Q&A session and keynote I attended in its entirety however, and one thing I took away from it is to never shy away from applying to whatever position or job.
+Andrew   Last Sunday at 8:53 PM
+The qualifications a company lists could be inaccurate, outdated, overkill and often pulled from some netherous region by a non-technical person. There is no need to defeat ourselves before we even step out on the field, so to speak!
+Andrew   Last Sunday at 8:53 PM
+So that was nice to hear straight from some of the most accomplished and respected folks in the industry.
+Andrew   Last Sunday at 8:54 PM
+Oh, and the cherry on top of the overall experience was getting to take a selfie with one of my heroes at the evening party on the ship's sundeck...
+Andrew   Last Sunday at 8:55 PM
+I was able to accost Chris Coyier, the guy who does css-tricks.com and Codepen.io, for a quick photo.
+Then it turned out blurry as heck :(
+Andrew   Last Sunday at 8:56 PM
+Ah well, I'll leave it on my phone :)
+Andrew   Last Sunday at 8:57 PM
+Awrite, I hope all goes well! Are there any issues, questions, problems or observations on anything in the Land of Front-End?
+Andrew   Last Sunday at 8:57 PM
+Whatever YOU want to talk about, I want to talk about.
+Andrew   Last Sunday at 8:57 PM
+Have a great week!
+Daniel Yesterday at 9:46 PM
+Thanks for sharing about the conference @andrew!
+Sounds really exciting!
+Pretty awesome re chris selfie haha
+My mind boggles at all the stuff he's done / is doing
+Daniel Yesterday at 9:48 PM
+On another note, I got an email saying that chat teams will be binned :( - I know I've found it helpful but I've Probly been more of a reader than a contributor. I think the time zones make it a bit difficult but no excuses. 
+Thanks for your many tips and comments Andrew!
+Andrew   Today at 10:08 PM
+appreciate the shoutout Daniel! Yeah this team program will go into hibernation at the end of the month. Hopefully it will evolve into something even better.
+Andrew   Today at 10:08 PM
+Luckily, Udacity has the resources to keep taking swings keep being aggressive in building tools and services. http://fortune.com/2015/11/11/udacity-funding/
+Andrew   Today at 10:08 PM
+thats a pretty shocking valuation, but more power to em'
+Andrew   Today at 10:10 PM
+I know the timing at the least and our busy lives in general is a tricksy hurdle to overcome, but if my rambling helps in any way, then thats awesome
+Andrew   Today at 10:11 PM
+Anyways, looks like we got a couple more weeks so the field is wide open. If nuthin else, I'll try to work out some flows for conquering your next couple projects.
+Andrew   Today at 10:12 PM
+Have an excellent Saturday and hopefully see some folks on sunday!
+
+
