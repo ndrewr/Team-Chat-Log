@@ -3610,3 +3610,172 @@ Andrew   Today at 10:12 PM
 Have an excellent Saturday and hopefully see some folks on sunday!
 
 
+###Session (Website Performance Optimization)
+Udacibot   Yesterday at 10:50 AM
+#EXCITED that @Yui submitted a passing project for P3: Classic Arcade Game Clone! Congratulations 🙌!
+Andrew   Yesterday at 1:27 PM
+Great job @Yui! Was happy to see your forum post on P4 as well. Onwardddd
+Udacibot   Today at 5:30 PM
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   Today at 7:32 PM
+Good evening all! Coffee in hand. Might need seconds on it tonite, whew
+Andrew   Today at 7:33 PM
+Hopefully grab a second wind in none too long
+Andrew   Today at 7:34 PM
+Soooo...any issues, exciting discoveries, new news or web development comix??
+Andrew   Today at 7:35 PM
+http://theoatmeal.com/comics/design_hell
+Andrew   Today at 7:35 PM
+this Oatmeal dude has got some hilarious comix...
+Andrew   Today at 7:41 PM
+So in the realm of web developments, site creation Process has been on the mind a lot this week
+Andrew   Today at 7:41 PM
+Notice the capital 'P' in Process...I was working on a small client project, just kind of hacking away in the index.html
+Andrew   Today at 7:42 PM
+This particular site will have maybe 6 or 7 distinct pages, but all share will share some primary components. For example, a header, navbar, footer
+Andrew   Today at 7:43 PM
+I chipped at the index.html to something I was roughly happy with then it came time to move onto the next content page...
+Andrew   Today at 7:44 PM
+So I copy over index.html in its entirety, then delete the "main section" stuff so I can keep the header, footer etc
+Andrew   Today at 7:46 PM
+I start hackin away at this second page and I find I need to modify some header info. So I do that....then switch back to index.html to modify that header, too. This two-step dance happens several times....then I freeze and throw my coffee mug to the ground in an explosion of ceramic and black..
+Andrew   Today at 7:47 PM
+no j/k, but I did just kind of stare off into space for a bit as I pondered how wrong the process felt. How wasteful.
+Andrew   Today at 7:47 PM
+One of the principal things we hear as we learn more and more about software development is the DRY principle (what does that stand for?)
+Andrew   Today at 7:49 PM
+And here I was utterly violating that law, creating unnecessary work and complexity.
+Andrew   Today at 7:51 PM
+Anyone else encounter this kind of difficulty? Last couple nites, I have been thinking and doing lots of googling and reading for some build system or process that can allow me to componentize and automate alot of the website generation.
+Andrew   Today at 7:52 PM
+....ANYWAYS thats where I am at, kinda searching around. And I STILL gotta get on Browser Rendering Optimizations too :p
+Andrew   Today at 7:53 PM
+But for the time being we have some important topics on website performance to dish on
+Andrew   Today at 7:54 PM
+Issue Numero Uno:
+C
+R
+P
+Andrew   Today at 7:55 PM
+the Critical Rendering Path. The meaningful series of requests and network trips that must be taken before your website can manifest to the User in all it's glory.
+Andrew   Today at 7:57 PM
+as some of the links shared last wk pointed out, excessive Load Time kills...user engagement and Google Page Rank alike. We must minimize its interference.
+Andrew   Today at 7:59 PM
+For this section of our front-end learning, let us think of ourselves as Terminators. On a mission to eliminate unnecessary resource loads and performance drains!
+Andrew   Today at 8:03 PM
+So I'm pondering how I'd "nutshell" this topic since y'all are also going through the courseware and related links...
+Andrew   Today at 8:05 PM
+so with CRP some rules of thumb::
+Andrew   Today at 8:05 PM
+- SIZE matters
+Andrew   Today at 8:06 PM
+- NUMBER of resources matters
+- ORDER of resources on the page matters
+Andrew   Today at 8:08 PM
+With Size, the larger our files the more potential network trips are required to fetch it all. This goes for everything, of course. CSS, JS, images and even HTML itself
+Andrew   Today at 8:10 PM
+When it comes to reining in SIZE the concepts of "optimization" (for images files) and "minification" (for text resources like CSS and JS) come into play and are *up to us*
+Andrew   Today at 8:12 PM
+Images especially can be killers. Imagine if you are serving up a picture background 3024x2200 px in size. Thats some massively good quality!
+Andrew   Today at 8:14 PM
+But does your target display actually need an image like that? Can the browser window's resolution even support all them pixels? Proper image selection is one of the questions we gotta ask ourselves when keeping Perf in mind.
+Andrew   Today at 8:16 PM
+Optimizing the image file itself is another must-do, regardless of size. I have used a great free utility for mac called ImageOptim but you guys might be comfy with build tools like Grunt now and thats a great way to get images both Optimized and of Proper Size
+Andrew   Today at 8:17 PM
+In fact, I think they might have touched on this in the "Responsive Images" course. Maybe @Matthew can verify
+Andrew   Today at 8:18 PM
+Turning our attention to our text resources, cutting out code and CSS styles we don't need can add up to significant overall savings.
+Andrew   Today at 8:19 PM
+I should have emphasized the *code and styles we NEED* bit, because focusing on that question is one of the clever ways to boost First-load performance
+Andrew   Today at 8:21 PM
+I think it was Google, and perhaps our co-instructor Ilya Gregorik himself, that popularized the notion of optimizing for "Above the Fold" page load
+Andrew   Today at 8:23 PM
+"Above The Fold" page content is what a User will ACTUALLY SEE on load. The markup, the styles and the code needed to render just that part of the view. The stuff needed for content Below the Fold (not visible initially) can then be loaded after all the initial view stuff is done.
+Andrew   Today at 8:26 PM
+We can take advantage of this principle, too, without much difficulty! Just gotta ask ourselves "Does this page NEED this resource?" If it does, you can go on and ask "What PART of this needed resource is Above The Fold, and what can come later?"
+Andrew   Today at 8:28 PM
+But really just asking the first question can help a ton. For example: do you need to prioritize delivery of style rules for Printing View? Or style rules for a mobile-sized screen when the User is on Desktop?
+Andrew   Today at 8:29 PM
+Can we split those rules to their own files and control if and when they download?
+Andrew   Today at 8:31 PM
+Same for JS...I have to admit I have the bad habit of leaving reams of commented-out code in my files. Often stuff I tried but then moved on to another idea and sometimes they are just legit comments for my own later benefit.
+Andrew   Today at 8:34 PM
+The User doesn't care about any o that...delivery of the code to them can be compressed/minified and save valuable bytes on the download. Using build tools is perfect for this task. (sidenote: minification pretty much eliminates ALL spaces, newlines and comments. Its cousin, *uglification* goes a step further. It also stubs out variables and functions with short equivalents. The result is super-hard to read for humans but generally shouldn't be a problem for the browsers!)
+Andrew   Today at 8:35 PM
+with JS, just like with CSS, we may sometimes have code spread over multiple files.
+Andrew   Today at 8:36 PM
+But what do we actually need for initial page load? For example, lets say we have a bunch of click handlers and function definitions for other pages. Could we split out and defer delivery of this code til after the first load?
+Andrew   Today at 8:38 PM
+What about JS scripts that perform meaningful tasks, like tracking stats, but are not needed for rendering that first view. Could we push off download of those to a later time?
+Andrew   Today at 8:39 PM
+So thats talking about some of the key questions when thinking about critical resource SIZE and NUMBER.
+Andrew   Today at 8:40 PM
+but what about ORDER of resources? Specifically where we put those resource requests in our index.html page?
+Andrew   Today at 8:43 PM
+Have you ever wondered why we always see CSS files linked towards the top of our html pages? And the JS files and script tags at the bottom?
+Andrew   Today at 8:44 PM
+Its all due to how the browser treats those kinds of resources.
+Andrew   Today at 8:46 PM
+CSS is considered a "render-blocking" resource. Since the browser can't render a page accurately without it, its will delay rendering and painting that initial view to the screen until it has finished downloading the resource (or some timeout or cancel event is sent, leaving User with a early 90's-looking webpage)
+Andrew   Today at 8:47 PM
+So we want our styles downloaded and parsed ASAP. The sooner the better.
+Andrew   Today at 8:48 PM
+In fact this leads to a nice little "trick" ... google "inline css" when you get the chance ;)
+Andrew   Today at 8:48 PM
+The gist: the best request for a resource is the one that is never made :D
+Andrew   Today at 8:49 PM
+Anyway, we can see why CSS has gotta be up there at the top of the page. But then, shouldn't JS be up there, too?
+Andrew   Today at 8:50 PM
+From what I understand, altho it depends the answer is generally *no*.
+Andrew   Today at 8:52 PM
+JavaScript, different from CSS, is "parse-blocking". That means as the browser is chewing through and identifying HTML elements when it comes on JS "script" tags it pauses. It halts parsing the HTML until the encountered script is downloaded and executed, then it will continue.
+Andrew   Today at 8:54 PM
+It does this because JavaScript has the power to modify the DOM, adding and removing elements in fell swoops. So by putting "script" tags up at the top of the page, you would be forcing the browser to put off parsing any of the actual HTML until it finished downloading and executing all that script...script which may not even effect the initial Above the Fold view!
+Andrew   Today at 8:56 PM
+There is a second danger with putting scripts at the top. Consider the case where your script does an append of some content into a "list" element.
+Andrew   Today at 8:57 PM
+What happens if your code looks for that "list" tag ...but the browser hasn't parsed it yet (and therefore has no knowledge of it)?
+Andrew   Today at 8:58 PM
+Yup. Not good. Same for assigning click handlers...how can one assign a handler to an element that does not exist?
+Andrew   Today at 8:59 PM
+OK so hopefully that covers some of the Why in "Why do we do x" as well as some of the How in "How do we deal with y" :)
+Andrew   Today at 9:01 PM
+Optimizing CRP == Being mindful of SIZE, NUMBER, ORDER of resources
+Andrew   Today at 9:02 PM
+Coincidentally, that should basically cover what we gotta do for Project 4, Part 1
+Andrew   Today at 9:02 PM
+You'll be using https://developers.google.com/speed/pagespeed/insights/
+Andrew   Today at 9:03 PM
+or something similar to meter your site performance. It gives some actionable tips as well, most of which you can control
+Andrew   Today at 9:04 PM
+You may be using the tool ngrok here, too. Its bloody awesome.
+Andrew   Today at 9:04 PM
+We have all used local development servers, right? For ex on localhost:8000?
+Andrew   Today at 9:07 PM
+Ngrok will temporarily open up that locally-served test page to the internets. It creates the opening and provides a temporary ip address that web services like PageSpeed can work with.
+Andrew   Today at 9:08 PM
+MUCH more convenient than actually uploading the page (to Github Pages for ex) to test, although we could do that, too
+Andrew   Today at 9:09 PM
+Next week, barring any other topics of discussion we can focus in more on the DevTools metering aspects and JS optimizations that factor into Part 2
+Andrew   Today at 9:09 PM
+Or, if there are specific questions there during the week, just let the questions fly and we can explore some solutions
+Andrew   Today at 9:10 PM
+I think we are down to our final two weeks within this "team chat" construct, and closing in on 5 months for the cohort
+Andrew   Today at 9:11 PM
+One more thing, since I just mentioned Github pages. Going back to my rambling about a project site-build process, I am looking hard at Jekyll.
+Andrew   Today at 9:12 PM
+https://jekyllrb.com/
+Andrew   Today at 9:14 PM
+It tags itself as a blog site generator, but I think it can do more than that. Supports layout and partial templates and integrates directly into Github Pages
+Andrew   Today at 9:17 PM
+what I mean by that is, if you have put a site up on the net using GH Pages before, that means it *ran through Jekyll* before being made available online. So if you have a jekyll-project directory up in a Github GH-pages repo, with every change you make to that branch the site will be automatically rebuilt and pushed.
+Andrew   Today at 9:19 PM
+Learning to use it doesn't take too long, and its specialized for blog pages in particular...maybe a good choice to construct and host Profile 2.0 or Portfolio 2.0?
+Andrew   Today at 9:20 PM
+More on point, almost forgot to share this decent web-perf blog article: https://varvy.com/pagespeed/critical-render-path.html
+Andrew   Today at 9:20 PM
+Theres some decent action tips in there. Have a good evening and a good week all!
+Andrew   Today at 9:21 PM
+And hope its a safe and warm one. Solidarité.
+
+
