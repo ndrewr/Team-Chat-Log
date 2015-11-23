@@ -3779,3 +3779,146 @@ Andrew   Today at 9:21 PM
 And hope its a safe and warm one. Solidarité.
 
 
+###Session (website perf browser render events (Script, Layout, Paint)
+Udacibot   Last Thursday at 3:41 PM
+#EXCITED that @Daniel submitted a passing project for P4: Website Optimization! Congratulations 🙌!
+Daniel Last Thursday at 7:34 PM
+thanks for all that @Andrew, very useful.
+Daniel Last Thursday at 7:36 PM
+I've been using some very basic php to make my sites simpler – having header.php and footer.php and then in index.php, using <?php include "header.php"; ?> and <?php include "footer.php"; ?> – I know very little else about php, but this functionality is awesome!
+Daniel Last Thursday at 7:37 PM
+I need to have a closer look at Jeykll – I keep hearing / seeing it pop up!
+Andrew   Last Saturday at 5:23 PM
+Daniel, the templating system and some scripting to build the site from them is pretty much what I wanted, too. I don't know any PHP personally, but I did come across a nice-looking template library for PHP called Twig.
+Andrew   Last Saturday at 5:23 PM
+having dabbled with a few such libraries now, it definitely feels like once you learn one, grokking another is totally straightforward
+Andrew   Last Saturday at 5:24 PM
+Jekyll defaults to this one: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+Andrew   Last Saturday at 5:28 PM
+and BTW, fist-bump for the successful P4 submission! Onward to the largest, most complex of the ND slate...P5 Neighborhood Map!
+Udacibot   Last Saturday at 6:30 PM
+#REMINDER: We have a Team Meeting in 24 hours ⏰. Can't wait!
+Udacibot   Yesterday at 5:30 PM
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   Yesterday at 7:32 PM
+Alrighty, good evening to the room :D
+Andrew   Yesterday at 7:32 PM
+just got my cup o decaf ready to go
+Andrew   Yesterday at 7:33 PM
+hmmmm. Any particular questions this evening?
+Andrew   Yesterday at 7:34 PM
+Hope learning and coding is going well for all btw! Been a bit of a slog on this end...the website update project I took on is going verrrry slowly for me.
+Andrew   Yesterday at 7:36 PM
+I think its just lack of focus...the task itself really doesn't require skills beyond our Project 2...it uses the Semantic UI framework (a Bootstrap-like) so even the JS-powered interactions are basically written for me.
+Andrew   Yesterday at 7:36 PM
+Any good tips, tricks, hacks to establish a productive, task-focused mind???
+...that doesn't involve any prescriptions :p
+Andrew   Yesterday at 7:42 PM
+Annnyways, looking at last week we covered part 1 of the website optimization project.
+Andrew   Yesterday at 7:43 PM
+I know Daniel has completed the project and Yui is probably right there, too.
+Andrew   Yesterday at 7:44 PM
+Lets discuss a bit about some of code modifications entailed in the optimization
+Andrew   Yesterday at 7:45 PM
+not handing out solutions willy-nilly of course, but kind of analyzing the "why" behind some of the alterations we make to improve Perf
+Andrew   Yesterday at 7:50 PM
+One of the immediate small wins we can make is caching the results of DOM searches
+Andrew   Yesterday at 7:51 PM
+What that means is essentially looking at where certain DOM nodes may be targeted multiple times and caching (or *saving*) the results of that search to a var
+For instance:
+Andrew   Yesterday at 7:53 PM
+ ...
+var target_element;
+for(var i=0; i<100; i++) {
+  target_element = $("#some_div");
+  // do stuff with some_div
+  ...
+}
+Andrew   Yesterday at 7:54 PM
+bit of a trivial example but the point is that we really don't need re-search for the same thing every time through the loop.
+Andrew   Yesterday at 7:56 PM
+In fact, this goes for pretty much whatever calculations that occur in a loop or otherwise repeated multiple times in a block of code
+Andrew   Yesterday at 7:57 PM
+This goes back to the ol' DRY principle in development. "Don't Repeat Yourself".
+Andrew   Yesterday at 7:58 PM
+So now I can see staying DRY pertains to both time saved by reusing code *and* caching calculations that will be repeated for performance savings!
+Andrew   Yesterday at 8:00 PM
+Question: in the example above, what could you do to improve performance (slightly yes, but hey lots of little wins can add up to a BIG ol win!)
+Andrew   Yesterday at 8:03 PM
+Sweet, just pulled out a link to a lil tutorial video I watched on the subject of caching last year:
+https://bocoup.com/screencasts/the-importance-of-caching-jquery-selections/
+Andrew   Yesterday at 8:05 PM
+that blog in general has got a lot of high quality posts that run the gamut of web design and dev...definitely worth cruising it a bit
+Andrew   Yesterday at 8:11 PM
+A second topic I wanted to touch on regarding performance in this project is the concept that CSS greatly effects page display performance
+Andrew   Yesterday at 8:14 PM
+this is one of the major takeaways I had from this course, something I had never considered. Seemingly straightforward style changes actually incur a cost for many of the effects we implement
+Andrew   Yesterday at 8:18 PM
+Recall that when we review the results of a site capture within DevTools Timeline, one of the standout areas is the pattern of colors that are splashed across the orderly grids
+Andrew   Yesterday at 8:20 PM
+As we learn in the course, those colors represent major categories of browser activity, pretty much classifying all the calculation steps our browser takes in order to present a web page in all its glory
+Andrew   Yesterday at 8:25 PM
+We know that orange (yellow?) points to time spent executing script...in fact, the whole business of caching in general has to do with minimizing this vector of activity (sidenote: whats eve better than caching calculations? Removing calculations altogether! Can we identify code in our project that can be rewritten to remove calculations altogether?)
+Andrew   Yesterday at 8:27 PM
+But what about the other major categories? Layout, Paint and Composite activity?
+Andrew   Yesterday at 8:28 PM
+Those types of events often comprise the bulk of what we see on a given timeline capture
+Andrew   Yesterday at 8:28 PM
+To review quickly what they mean:
+Andrew   Yesterday at 8:30 PM
+Layout => calculations to resolve where on the page elements take space, accounting for a bevy of factors including all the elements around it and its *position* value
+Andrew   Yesterday at 8:33 PM
+Paint => calculations to manifest the actual appearance of the element on a page (colors, shapes, text)
+Andrew   Yesterday at 8:36 PM
+Composite => calculations to stitch together the result of the previous two events, building the final appearance of the page accounting for all elements and their relative visibility (affected by factors like position, z-index or opacity)
+Andrew   Yesterday at 8:37 PM
+the common thread among Layout, Paint and Composite events is that their results depend on the style directives we apply through CSS
+Andrew   Yesterday at 8:38 PM
+Although there is a perf cost for the initial layout, paint and composite of a web page in this project (and in general) we are much more concerned with what happens after our User starts interacting with the page
+Andrew   Yesterday at 8:40 PM
+As the user scrolls here, clicks there, hovers here and toggles different inputs our attractive modern web pages are constantly reacting and (ideally) providing some visual feedback
+Andrew   Yesterday at 8:41 PM
+Thats a vital aspect of good User Experience, clearly transmitting changes in state on the page and giving the user confirmation that their actions have some result and meaning
+Andrew   Yesterday at 8:42 PM
+Problem is, even with modern browsers, we web devs might get a little ...over zealous...sometimes with how we design our pages to react and engage with the user
+Andrew   Yesterday at 8:45 PM
+To be blunt, most commonly we manipulate styles... and cause the browser to respond by performing whatever layout, paint and composite steps.
+Andrew   Yesterday at 8:46 PM
+If we invoke many changes at once (to pull a totally random example lets say we have background pizzas cheerfully zooming around the screen!) the browser may not be able to keep up smoothly.
+Andrew   Yesterday at 8:48 PM
+The result may be stuttering, flashing "jank" and that is our ostensible enemy :)
+Andrew   Yesterday at 8:48 PM
+How do we combat jank?
+Andrew   Yesterday at 8:51 PM
+We measure page performance and look to rein-in style changes, especially more resource-hungry ones, when we see performance drop to unacceptable levels
+Andrew   Yesterday at 8:53 PM
+Some styles carry more needed calculation overhead/cost...indeed, some are actually quite cheap to induce
+Andrew   Yesterday at 8:54 PM
+A great place to reference the "costs" of inducing specific style changes: http://csstriggers.com/
+Andrew   Yesterday at 8:54 PM
+Thats a really sweet resource.
+Andrew   Yesterday at 8:56 PM
+Next, identify in your code where you may be triggering some expensive styles
+Andrew   Yesterday at 8:59 PM
+For this task, our ability to ZOOM IN on event blocks in DevTools Timeline serves as our tracking device. Look for spikes of activity, a splurge of layouts and paints and see what user actions or JS code they are tied to
+Andrew   Yesterday at 9:02 PM
+There are places in our code we can surely replace a certain style with another for a similar effect
+Andrew   Yesterday at 9:03 PM
+Just came across this link...haven't seen it before tho I have visited a few that it lists: http://jankfree.org/
+Andrew   Yesterday at 9:04 PM
+And another: I probably shared this sometime in the last few weeks, but its so dang good and well done I'll just post it again: http://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/
+Andrew   Yesterday at 9:05 PM
+A highly detailed case study where the author employs techniques with the help of devtools that we can utilize in our projects as well
+Andrew   Yesterday at 9:06 PM
+OK, time flies when you talk about how to save (computation) time
+Andrew   Yesterday at 9:06 PM
+Next week is the last scheduled meeting. Project 4 is very interesting but not as involved as Project 5 (IMO)
+Andrew   Yesterday at 9:07 PM
+Has anyone made deep inroads into the Project 5 course materials?
+Andrew   Yesterday at 9:07 PM
+Any questions, areas of consternation or cool outside-Udacity resources you have bumped into?
+Andrew   Yesterday at 9:08 PM
+Barring some specific questions I am thinking to dish on some MVC and code organization concepts.
+Andrew   Yesterday at 9:09 PM
+Best wishes for a fantastic week! Happy Thanksgiving if you celebrate it and Epic Thursday to you if you don't!
+
