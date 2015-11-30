@@ -3922,3 +3922,212 @@ Barring some specific questions I am thinking to dish on some MVC and code organ
 Andrew   Yesterday at 9:09 PM
 Best wishes for a fantastic week! Happy Thanksgiving if you celebrate it and Epic Thursday to you if you don't!
 
+
+###Session AJAX, MVC Knockout and Project 5
+
+Udacibot   Today at 5:30 PM
+#REMINDER: We have a Team Meeting in 1 hour ⏰. Can't wait!
+Andrew   Today at 7:29 PM
+Aw yeah
+Andrew   Today at 7:30 PM
+Good evening and hopefully the week has been productive
+Andrew   Today at 7:31 PM
+This is the last of our Team meetings, and I hope to make it a helpful one
+Andrew   Today at 7:33 PM
+A little bit about this week, I've been continuing to build out my site project with the Jekyll package. Its got a real nice easy-to-learn templating system, cuts down on a lot of repeated HTML
+Andrew   Today at 7:34 PM
+I really like how I can build new pages by first inheriting from some base layout page, and then add some custom data at the top that can be used within the templating code as variables
+Andrew   Today at 7:35 PM
+This dev shop based out of Washington, DC has been my primary inspiration: https://developmentseed.org/blog/2015/04/20/building-with-jekyll/
+Andrew   Today at 7:38 PM
+They've used Jekyll as the base of many of their projects, including the US healthcare.gov site: https://www.washingtonpost.com/news/wonk/wp/2013/10/09/healthcare-gov-was-originally-built-in-a-garage/
+Andrew   Today at 7:39 PM
+Tools like Jekyll are called generally "static site generators" ... and there are a lot of them! http://www.staticgen.com/
+Andrew   Today at 7:40 PM
+chances are, no matter the language you choose, there is a handy library to help you more quickly create a static web page.
+Andrew   Today at 7:41 PM
+Most pages on the net are or would probably be better off as static sites, and a big part of that is the power client-side code execution provides (hello JS!)
+Andrew   Today at 7:44 PM
+Guys, what I've been researching is a pretty exciting workflow for site building: templating system combined with a Bootstrap or Foundation for UI components, live development server, cheap (or FREE) version control to backup your work, trivial *deployment* of the site cheap (or FREE!)
+Andrew   Today at 7:45 PM
+Remember, Github Pages offers us a static site host for free...tied directly to our project repo. Make an edit, add some content, push a change to your repo and its live.
+Andrew   Today at 7:46 PM
+And check out this piece: prose.io
+Andrew   Today at 7:47 PM
+This is a *beautiful* web app that allows us to edit files in our Github repos with a refined Markdown-parsing interface
+Andrew   Today at 7:47 PM
+Like a layer over our Github repos, we can commit changes right within this app...if we are making commits to the "gh-pages" branch, then it will also result in our site being rebuilt and launched automatically
+Andrew   Today at 7:49 PM
+I've been using Prose in recent weeks to update our Team Log mega-text file beast thing: https://github.com/uncleoptimus/Team-Chat-Log
+Andrew   Today at 7:49 PM
+Soooo...as you can tell I'm finding these tools and possible workflow super-exciting and had to share :)
+BUT
+Andrew   Today at 7:50 PM
+tonight mainly i wanted to discuss about more immediate topics you are coming upon:
+Andrew   Today at 7:51 PM
+AJAX! MVC! KNOCKOUT! PROJECT 5!
+Andrew   Today at 7:54 PM
+Those first two represent titanic concepts in front-end development.
+Andrew   Today at 7:56 PM
+The good news is that the assigned materials are quite top-notch. I found both of Udacity's related courses to be quite excellent with the JS Design Patterns in particular one of my overall faves (Kat Klickin FTW)
+Andrew   Today at 7:56 PM
+So first lets touch on AJAX
+Andrew   Today at 7:57 PM
+Cool points if you knew what that stood for...cuz I *always* forget the latter "AX" part :p
+Andrew   Today at 7:58 PM
+ASYNC JavaScript And XML
+Andrew   Today at 8:00 PM
+"Async" is the operative word. Writing async behaviours in JS has enabled our modern class of web apps and services
+Andrew   Today at 8:02 PM
+It lets us request data (multiple requests even) while the main thread continues to focus on User-related processing. The result is that Users get the sense of web experiences as a "cohesive whole" as opposed to every input submitted (or received from the server!) needing a page refresh
+Andrew   Today at 8:03 PM
+Actually, come to think of it, AJAX topics were touched on a couple months ago in this channel...might be worth it to scroll up for it (or check the repo I linked)
+Andrew   Today at 8:04 PM
+Using AJAX takes some practice to get used to A) configuration of async requests and B) the flow of code execution
+Andrew   Today at 8:06 PM
+Here jQuery once again offers a very helpful hand. They got a whole suite of helpers with this $.ajax() function at their base: http://api.jquery.com/jquery.ajax/
+Andrew   Today at 8:10 PM
+Its definitely worth looking over these docs carefully, especially 1) what configuration is absolutely needed vs what is default and 2) what convenient shorthand functions are available.
+Andrew   Today at 8:12 PM
+For instance, $.ajax() configured specifically to make requests for JSON data can be substituted with $.getJSON()
+Andrew   Today at 8:13 PM
+There is a universe of services we can hit up for juicy data: http://www.programmableweb.com/
+Andrew   Today at 8:15 PM
+To use $.getJSON for instance, we mainly need two arguments:
+Andrew   Today at 8:16 PM
+1) the url to make the request to (often formatted with request parameters to indicate what kind of service we are tapping into, the search terms, location data, etc)
+Andrew   Today at 8:16 PM
+2) a callback function that will be executed once the ajax request returns
+Andrew   Today at 8:20 PM
+the callback function is critical to how async JavaScript works.
+Andrew   Today at 8:21 PM
+The key to keep in mind is this...OK TURNING ON ALL CAPS MODE
+Andrew   Today at 8:21 PM
+DATA RETURNED FROM AN ASYNC REQUEST IS ONLY AVAILABLE IN IT'S CALLBACK FUNCTION.
+(all-caps mode off)
+Andrew   Today at 8:22 PM
+to illustrate lets look at this code snippet:
+Andrew   Today at 8:28 PM
+ var url = "someAPI.com/search?terms=bananas&location=new+york";
+
+var check_flag = false;
+
+var result = {};
+
+$.getJSON(url, function(result) {
+  console.log("No HERE is the data: ", result);    
+});
+
+console.log("Here is the data: ", result);
+Andrew   Today at 8:29 PM
+so if we ran this arbitrary example (assuming someAPI existed) what would we see? Which console log would print first?
+Andrew   Today at 8:30 PM
+We would "Here is the data: " followed by a black object first, followed a bit later by "No HERE is the data" with actual API response data
+why?
+Andrew   Today at 8:33 PM
+After an async request is sent out, sequential execution of the JS code will then continue. This is why its "async"...the fetching of that data is happening on another thread, at the same time our main thread marches on with the next line of code!
+Andrew   Today at 8:34 PM
+This is why our request data is not available to the second console.log statement...its executed immediately after the async request is made and BEFORE the response data is returned!
+Andrew   Today at 8:35 PM
+Remember that key principle: data from an async request is only "available" in the request callback!
+Andrew   Today at 8:37 PM
+OK moving on to Design Patterns and MVC...
+Andrew   Today at 8:38 PM
+so whats it all about?
+Andrew   Today at 8:39 PM
+It comes down to this: better organization of code
+Andrew   Today at 8:41 PM
+Better organization of code gets us a couple big wins: 1) helps us problem solve by breaking down a big problem into smaller ones and 2) helps code maintenance and reuse
+Andrew   Today at 8:46 PM
+With 1) I mean that if a "problem" is "build an app that matches farm animal names to a picture", our task is made more manageable by separating out different aspects of our app
+Andrew   Today at 8:48 PM
+the MVC (or MV*) class of frameworks are one application of this desire to "separate concerns"...different frameworks seek to define how we divide and build out these concerns
+Andrew   Today at 8:49 PM
+MVC is the term we hear most often, standing for Model-View-Controller
+Andrew   Today at 8:51 PM
+Model(s) define our data instances. In our farm animal app, a model can represent a specific animal and its attributes. We can create and keep track of as many as we need. We can have multiple kinds of models! Maybe our app also defines different farm locations.
+Andrew   Today at 8:53 PM
+View(s) define the behaviour of what the User sees, like chunks of our apps UI
+Andrew   Today at 8:54 PM
+They translate data into some visual representation for the User. Our farm animal app might define multiple views: an animal display view, a list view with different animals, another list for the different locations, a search bar component, etc
+Andrew   Today at 8:57 PM
+Finally, Controllers are....sketchier to define. This is the reason you will see the term "MV*" instead of "MVC": different frameworks have their own interpretation of the separation of concerns, especially the "Controller" aspect
+Andrew   Today at 8:58 PM
+Controllers, classically, are meant to be the piece that routes data to and from views and models (ie Views and Models don't directly act on each other) and does whatever other operations on the data or presentation to support the other pieces.
+Andrew   Today at 8:58 PM
+Sounds sort of "catch-all" for everything models and views don't do, right? Thats why there is so much disagreement on a "best" way
+Andrew   Today at 8:59 PM
+lets pause here for a second to consider two points:
+Andrew   Today at 9:00 PM
+Lots of "twos" tonite
+Andrew   Today at 9:05 PM
+1) we can see the importance of Object-Oriented Javascript here...every component, no matter how we split up the concerns they address, encapsulate some collection of functionality
+Andrew   Today at 9:07 PM
+2) You are gonna be inundated with all kinds of MVC buzz-wordiness. This framework, that library, blah blah blah. Don't get stressed about it tho...they are all just defining some way to solve the same problem.
+The Udacity Nanodegree takes you through both Knockout.js and Backbone.js.
+Andrew   Today at 9:10 PM
+Don't worry that these are not "popular" or that no one cares about these skills or that its a waste of time because you haven't seen them mentioned all over the place. MV* Frameworks are tools with many similar characteristics. In a vacuum, Knockout and Backbone can solve problems. Thats all tools are meant to do! Help us solve problems.
+Andrew   Today at 9:10 PM
+Also, I promise this: ya learn one, ya have a leg up learning another. Don't fret, just grokit and move on. They are ALL useful to know :)
+Andrew   Today at 9:11 PM
+OK, about Knockout in particular.
+Andrew   Today at 9:12 PM
+Guys, it may not be one of the two or three names we frequently hear about, but its actually pretty cool
+Andrew   Today at 9:12 PM
+http://knockoutjs.com/
+Andrew   Today at 9:13 PM
+The documentation for this library is terrific. I HIGHLY recommend churning through the tutorials.
+Andrew   Today at 9:14 PM
+They are all bite-size step by step mini apps. Lot of fun to go through, probably take you two or three days max
+Andrew   Today at 9:16 PM
+Secondly, have the documentation tab open as you work through Project 5. Then when you need a refresher on how an "observable" (KO's signature "reactive" object) works or what binding to use in your View templates BAM its right there
+Andrew   Today at 9:19 PM
+Knockout (KO for short, no relation to Coke) is centered around the concept of "observable" variables. Basically, when you define a variable to be observable, any time its value changes, anything that uses or references it will automagically be alerted and update its own stuff accordingly.
+So for example, if you have an observable array linked to a List View component, every time something is added to that list the List View will react by rerendering itself to show the new item.
+Andrew   Today at 9:20 PM
+How does Knockout map out to the MV* structure?
+Andrew   Today at 9:21 PM
+For our projects we will probably define Models, perhaps these will be Location objects with relevant info like name, coordinates, type of place, etc. Some of those model properties can be defined as observables which means that parts of the View that reflect their values will update on changes
+Andrew   Today at 9:22 PM
+For Views, really those are HTML templates with the custom KO-specific keywords woven in (the "bindings" btwn data and where they are displayed)
+Andrew   Today at 9:23 PM
+Finally, we have "View Models"...thats pretty much "everything else" hahah
+Andrew   Today at 9:26 PM
+It coordinates our special observable values with parts of our View (pieces of HTML that reflect data). The bulk of app logic will probably be defined here. For instance, lets go back to our List View that binds to an observable array. The View Model associated with that array may also define all the functionality that updates that array...how items are added, removed etc.
+Andrew   Today at 9:27 PM
+Defining the scope of your View Model will be one of the project's challenges. After all , there is also a Google-powered map to keep track of.
+Andrew   Today at 9:28 PM
+Will your View Model have full access to the map? Will the map be its own separate component? You can have multiple View Models, but if you do will they need to coordinate with each other?
+Andrew   Today at 9:29 PM
+At times you might feel confused about how to proceed in the project. Focus on a certain part of the functionality, consult the documentation frequently.
+Also I suggest hitting up this link: http://www.knockmeout.net/
+Andrew   Today at 9:30 PM
+Its packed with great posts on things to keep in mind when using KO like this: http://www.knockmeout.net/2011/06/10-things-to-know-about-knockoutjs-on.html
+Andrew   Today at 9:31 PM
+Some very advanced KO stuff, too. It was an invaluable resource for me. (the blogger is one of the project contributors and you'll recognize his name if you consult stack overflow with KO-related questions)
+Andrew   Today at 9:32 PM
+OK, almost at the end.
+Andrew   Today at 9:32 PM
+The second (optional) project for this section of the Nanodegree uses Backbone.js
+Andrew   Today at 9:33 PM
+Backbone is like a precursor to the popular frameworks/libraries we hear about now. It was the HOT THING back in like 2011
+Andrew   Today at 9:34 PM
+Its still useful though, and a bunch of big sites like ESPN use Backbone to define their front-end
+Andrew   Today at 9:35 PM
+I feel like just about everything you learn of Backbone can be transferred to other libraries in some way...a lot of folks even use parts of Backbone in combo with other libraries! For project 5-2 I combined Backbone Collections with React views...they work very well together.
+Andrew   Today at 9:36 PM
+Actually the Design Patterns course will intro you to Backbone use...I definitely recommend doing the optional project as a fine portfolio piece!
+Andrew   Today at 9:36 PM
+Alright, and we are done!
+Andrew   Today at 9:39 PM
+I am sorry I couldn't figure out a more helpful or social team environment for y'all. A couple students actually were like " dang sorry I missed the meetings" but its all good. The challenge for Udacity is to figure out how to construct this offering to be more accessible, more useful, more enticing to participate in.
+Andrew   Today at 9:40 PM
+To that end, if you got ANY feedback, any criticisms, any pointers or observations, stuff you liked stuff you didn't like don't hesitate to hit them up at https://www.udacity.com/contact
+Andrew   Today at 9:40 PM
+You are welcome to hit me up to at uncle.optimus @ gmail
+Andrew   Today at 9:42 PM
+Project 5(s) is really the capstone of this program and the best portfolio piece(s). Project 6 (testing framework walkthru) is pretty cakewalk comparatively.
+Andrew   Today at 9:43 PM
+Lastly I encourage you ti make max use of Udacity's career support services, they gave me a ton of useful feedback. You are welcome to ask me about whatever as well.
+Andrew   Today at 9:43 PM
+Above all: Stay Calm and Code On. Good luck!
